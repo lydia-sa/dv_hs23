@@ -1,0 +1,8 @@
+Subject: popsprd migration
+The popsprd bridge will be migrated to nahou - scacll on april 26 th for
+Debugging purposes. This migration should be transparent for pops users with
+The exception of personal spread sheets using pops tags. The node name for
+Pops tags on personal spread sheets will need to be changed to nahou - scacll
+To allow for updating of pops data.
+Please call me if you have any questions concerning the migration.
+- steve

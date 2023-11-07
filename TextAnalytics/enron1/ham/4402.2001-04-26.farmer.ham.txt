@@ -1,0 +1,67 @@
+Subject: re: may wellhead" spot" purchases - request
+Vance,
+As we discussed yesterday, I will zero the confirmed column in pops for barrett and increase the same for seneca.
+Bob
+From: vance l taylor/enron@ enronxgate on 04/26/2001 11: 42 am
+To: robert cotten/hou/ect@ ect
+Cc: george weissman/hou/ect@ ect, daren j farmer/hou/ect@ enron, melissa graves/enron@ enronxgate, susan smith/hou/ect@ enron
+Subject: re: may wellhead" spot" purchases - request
+Bob,
+I' m still concern about april' s nom; if we don' t take it to zero, than we could have the possibility of the allocations group adding volumes to barrett' s april deal. This would be incorrect.
+Vlt
+- - - - - original message - - - - -
+From: cotten, robert
+Sent: thursday, april 26, 2001 9: 27 am
+To: taylor, vance l.
+Cc: weissman, george; daren j farmer/hou/ect@ enron; graves, melissa; susan smith/hou/ect@ enron
+Subject: re: may wellhead" spot" purchases - request
+Vance,
+Based on the information below, nominations are being revised effective may 1, 2001:
+Counterparty meter #orig. Nom rev. Nom
+Barrett resources 0435 1, 536 0
+Seneca resources 0435 3, 073 4, 609
+Total 4, 609 4, 609
+Bob
+From: vance l taylor/enron@ enronxgate on 04/25/2001 08: 42 am
+To: robert cotten/hou/ect@ ect
+Cc: george weissman/hou/ect@ ect, susan smith/enron@ enronxgate, melissa graves/enron@ enronxgate
+Subject: re: may wellhead" spot" purchases - request
+Bob,
+Hplc continues to purchase gas from both ocean and seneca on a term basis; firm tickets were submitted for april origination beginning with the month of april. As for as barrett, they are selling their gas under a joa with seneca; therefore, 100% of barrett' s production is being paid to seneca. Consequently, you should see tickets in sitara for both counterparties.
+Let me know is you can' t.
+Vlt
+X 36353
+- - - - - original message - - - - -
+From: cotten, robert
+Sent: tuesday, april 24, 2001 6: 20 pm
+To: taylor, vance l.
+Cc: weissman, george
+Subject: re: may wellhead" spot" purchases - request
+Vance,
+Are we still purchasing gas at meter 435 from barrett resources, ocean energy and seneca resources? They were on george' s spreadsheet but they are not termed up. The only deals termed up are mariner, st. Mary land, walter oil & gas and the meridian resource.
+Bob
+From: vance l taylor/enron@ enronxgate on 04/24/2001 04: 25 pm
+To: robert cotten/hou/ect@ ect
+Cc: janie aguayo/hou/ect@ ect, lisa hesse/hou/ect@ ect, julie meyers/hou/ect@ ect, cynthia hakemack/hou/ect@ ect, donald p reinhardt/enron@ enronxgate, susan smith/enron@ enronxgate, melissa graves/enron@ enronxgate, george weissman/hou/ect@ ect
+Subject: may wellhead" spot" purchases - request
+Bob,
+Hplc will be purchasing wellhead gas from the producers listed below for the production month of may, 2001. This production will be purchased on a" spot" basis and deal tickets should be created and entered into sitara based on the following information:
+Counterparty meter volume price
+Apache corporation 0435 1409 mmbtu/d 100% if/hsc less $0. 10
+Whiting petroleum corp 6523 113 mmbtu/d 85% if/hsc
+El paso merchant energy, lp 5923 622 mmbtu/d 100% if/hsc less $0. 26
+El paso merchant energy, lp 5848 203 mmbtu/d 85% if/hsc swift energy 2630 21 mmbtu/d 100% if/hsc less $1. 38
+Duke energy trading & marketing 6347 147 mmbtu/d 85% if/hsc
+Hesco gathering oil co. 6063 289 mmbtu/d 85% if/hsc
+Embassy natural gas inc. 6598 lmmbtu/d 85% if/hsc
+Stone energy 9696 2745 mmbtu/d 100% if/hsc less $0. 20
+The houston exploration 9696 3407 mmbtu/d 100% if/hsc less $0. 20
+Amerada hess (hess energy svcs) 0435 1104 mmbtu/d 100% if/hsc less $0. 14
+Crosstex energy services, ltd. 0435 656 mmbtu/d 100% if/hsc less $0. 12
+TrI - union development 0435 149 mmbtu/d 100% if/hsc less $0. 055
+Ranger oil company 9871 200 mmbtu/d 85% if/hsc if 300/d
+These are producer svcs. Deals and should be tracked in the im wellhead portfolio... Attached to the gathering contract.
+Additionally, if at all possible, please do not confirm the apache and crosstex deals as we expect to receive term firm contracts in the very near future.
+Thanks,
+Vlt
+X 3 - 6353

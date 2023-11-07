@@ -1,0 +1,172 @@
+Subject: re: hpl discrepancy
+Rita, please help me with this. I have some questions regarding enerfin.
+Why are we re - allocating prior month volumes at enerfin after we matched your
+Original numbers back in october? Can' t this be fixed in the actualization
+Process?
+The numbers for october between ena - tetco and hpl vary a good bit. Are we
+Your only customer at that point and why do we show volumes on days ena had
+No transactions with hpl? Can we simply put zero paths in unify and extend
+Our existing deals in sitara with zero volumes and have you guys actualize
+These small volumes to handle this? We go round and round at this point
+Changing volumes two, three or more times. Call me if you have questions..
+Thanks victor
+- - - - - - - - - - - - - - - - - - - - - - forwarded by victor lamadrid/hou/ect on 12/14/2000
+08: 50 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: meredith mitchell on 12/14/2000 09: 28 am
+To: victor lamadrid/hou/ect@ ect
+Cc:
+Subject: re: hpl discrepancy
+Victor,
+The sitara ticket that we were using for the month of october is #421415.
+Tetco shows that the volumes that hpl was allocated on october 6 th and
+October 19 th, were 9 dths and 44 dths, respectively. Those volumes were
+Pulled off of our backhaul contract because there was no nomination in
+Place. This is the same problem that we have had over and over with them.
+Also, we just found out on tuesday, that the oba did not go into effect until
+December 1, 2000. We were originally told that they were putting the oba in
+Effect retroactively to november of 1999. In fact, I thought that hpl had
+Made a lot of retroactive changes in the system to adjust for the oba, do you
+Remember that? Hpl told us that ray calles at tetco is the one who decided
+That the oba would not be effective until december of 2000. Nobody even
+Informed us of this change, I stumbled upon it when researching a november
+Issue for alfonso trabulsI and brenda fletcher. In addition to all of this,
+I received another email, which I will copy below, asking me to go in for the
+Month of october and adjust all of my estimated volumes in unify to match
+What hpl shows that we were allocated. I had been going in all month long
+And matching to their numbers, and we were clean for the deadline at the end
+Of the month. I ran the allocation report from tetco for the month of
+October, and some of hpl' s numbers were very different from tetco' s,
+Including the two days that I mentioned above. I sent jackie young an email
+Back showing her tetco' s numbers and I haven' t received a response. I will
+Copy that email below as well, just to catch you up on what' s been going on.
+Jackie young
+12/12/2000 10: 01 am
+To: cynthia franklin/corp/enron@ enron, meredith mitchell/hou/ect@ ect
+Cc: rita wynne/hou/ect@ ect, sherlyn schumack/hou/ect@ ect
+Subject: estimated volumes for meter 98 - 0439 for (10/2000)
+Cynthia/meredith:
+Please find below the estimates for the above referenced meter for 10/2000.
+Once you' re done placing these estimates on tetco' s side, can you please
+Apprise me so that volume mgt. Can conclude their business?
+Thanks
+- jackie -
+3 - 9497
+Day volumes
+1 39647
+2 40040
+3 39643
+4 39809
+5 39702
+6 18 dec. (str. Gas)
+7
+8
+9
+10
+11 29162
+12 14689
+13 40400
+14 30599
+15 30523
+16 30394
+17 30369
+18 40547
+19 88 dec. (str. Gas)
+20 10126
+21 20167
+22 20208
+23 20502
+24 40408
+25 45721
+26 30978
+27 43142
+28 9667
+29 9536
+30 10290
+31
+From: meredith mitchell 12/12/2000 11: 37 am
+To: jackie young/hou/ect@ ect
+Cc:
+Subject: october volumes
+HI jackie,
+I ran a report from tetco' s system to show the volumes that enron was
+Allocated for the month of october, and some of the volumes are very
+Different from the volumes that you show. I copied your numbers below and
+Copied tetco' s volumes below that (with the disrepancies in red). I was
+Wondering if you could double check the 3 rd, 4 th, 11 th, 12 th, 25 th, and 27 th
+To see if you had purchases on those days from a counterparty other than
+Enron north america at that meter. It looks like maybe the volumes that you
+Show are the total flow at that meter, but I think that only part of the gas
+Was actually allocated to us. I don' t mind putting the allocated volumes in
+Path manager, but i' d like to make sure that on the above days, I am only
+Putting in the amount that enron was allocated.
+Also, on the 6 th and the 19 th tetco shows exactly half of what you show,
+Which I thought was kind of strange. I am going to have to get tetco' s
+Permission to do a retroactive nomination for those two days at the volumes
+You have requested, before I can put anything in sitara or unify. My manager
+Is out of the office and will be back tomorrow, but I would like for him to
+Double check the deal that we will have to create in sitara for those two
+Days, since we are dealing with a prior month issue.
+Day volumes
+1 39647
+2 40040
+3 39643
+4 39809
+5 39702
+6 18 dec. (str. Gas)
+7
+8
+9
+10
+11 29162
+12 14689
+13 40400
+14 30599
+15 30523
+16 30394
+17 30369
+18 40547
+19 88 dec. (str. Gas)
+20 10126
+21 20167
+22 20208
+23 20502
+24 40408
+25 45721
+26 30978
+27 43142
+28 9667
+29 9536
+30 10290
+31
+Day volumes
+1 39647
+2 40040
+3 29732
+4 24881
+5 39702
+6 9 dec. (str. Gas)
+7
+8
+9
+10
+11 19441
+12 9793
+13 40400
+14 30599
+15 30523
+16 30394
+17 30369
+18 40547
+19 44 dec. (str. Gas)
+20 10126
+21 20167
+22 20208
+23 20502
+24 40408
+25 25401
+26 30978
+27 30099
+28 9667
+29 9536
+30 10290
+31

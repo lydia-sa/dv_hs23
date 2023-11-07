@@ -1,0 +1,40 @@
+Subject: implementation of the gas message board application
+Please see the following instructions for the new messenging board. If you
+Have any trouble entering into this site, please let me know. Everyone
+Should now be setup and ready to go. You will have to add this site to one of
+Your favorites.
+The gas message board application can run on both ie 5. 0 and ie 5. 5 now.
+Attached is the url for user to run the application.
+Http:// gasmsgboard. Dev. Corp. Enron. Com
+Please feel free to forward above url to people who like to test the
+Application.
+Here is the steps they should do:
+1) launch internet explorer
+2) type: http:// gasmsgboard. Dev. Corp. Enron. Com (or just open this email and
+Click on above url)
+3) users should see the messages if there is any new messages for today. If
+They don' t see any messages, there are two reasons:
+(1) they are not valid users. Their names have not been added into the nt
+Web _ gastraders group yet. Please contact chrystI hardy to add their names
+Into the group.
+(2) there is no new messages added yet.
+4) click on" comments" button to add messages: there will be a popup window
+When user clicks on" comments" button. There are two ways to send the
+Messages after typing the
+Messages into the text box:
+(1) just simply press enter to send the message. Or
+(2) click on" send" button to send the message.
+5) after the message has been sent, the message will be displayed on the main
+Window immediately, the rest people who are online will get the new message
+In less than 30 seconds. This time can be reduced to as less as 1 second.
+However, I would not recommend to reduce the time interval less than 10
+Second. Because each time the browser refreshes the screen, the screen will
+Be blink. Users don' t want the screen blink every second while they read the
+Messages.
+6) all messages will be cleaned up daily at 6: 00 pm. If they like to clean
+Them up later than 6: 00 pm, please let me know. I can reset the time.
+Note: right now the application is under test environment. If they like it, i
+Will move it into production environment soon.
+Let me know any feedbacks.
+Thanks,
+Fangming

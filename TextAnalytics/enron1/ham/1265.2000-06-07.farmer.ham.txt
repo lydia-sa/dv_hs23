@@ -1,0 +1,54 @@
+Subject: interconnect/intercompany issues
+Attached is a detail spreadsheet of these items that the allocation group is
+Working on.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by howard b camp/hou/ect on 06/07/2000 02: 00
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Howard b camp
+06/07/2000 12: 50 pm
+To: rita wynne/hou/ect@ ect, pat clynes/corp/enron@ enron, lisa
+Csikos/hou/ect@ ect, daren j farmer/hou/ect@ ect, amI chokshi/corp/enron@ enron
+Cc: fred boas/hou/ect@ ect, stella l morris/hou/ect@ ect, clem
+Cernosek/hou/ect@ ect, thu nguyen/hou/ect@ ect, jackie young/hou/ect@ ect,
+Charlotte hawkins/hou/ect@ ect, karen lindley/corp/enron@ enron, carlos j
+Rodriguez/hou/ect@ ect, stacey neuweiler/hou/ect@ ect, kristen j
+Hanson/hou/ect@ ect, rhonda robinson/hou/ect@ ect, howard b camp/hou/ect@ ect,
+Gregg lenart/hou/ect@ ect
+Subject: interconnect/intercompany issues
+Below is a list of the major items that are still outstanding on the
+Interdesk/interconnect report for 1999 and 2000 that is impacting the
+Intercompany cleanup for sap implementation. These issues have been
+Addressed in earlier e - mails and this is an updated list of issues that need
+To be completed by june 19, 2000.
+1) king ranch interstates - fred and stella are working with exxon to
+Reconcile from oct 1999 - apr 2000 the interstate nominations for tennessee
+And ngpl and also for tejas.
+2) tetco meter 6892 - question of who has custody transfer at the meter.
+Ena is using tetco' s volume and hplc is using the hpl measurement volume,
+Causing a desk to desk variance.
+Clem and pat are working on.
+3) transco bammel meter 74 - transco and hpl' s nominations are out of
+Balance at meter 74. Charlotte needs to work with transco to resolve.
+4) dow meter 4486 - the sale to entex needs to be taken off of hplc meter
+4486 and the sale needs to be at dow meter 4486.
+A desk to desk between ena (buyer)
+And hplc (seller) needs to be set up on dow meter 4486.
+AmI needs to set up the deals and
+Thu needs to coordinate the months involved.
+Once this is done and thu
+Reallocates to dow pipeline, jackie needs to zero out the confirmed noms and
+Make the meter non allocatable in pops.
+Clem verified with steve schneider
+That this meter is not on hpl' s system.
+5) east texas gas/devon - devon invoicing ena entire flow at carthage.
+Meter 4607701 east texas keeping hplc whole on
+Nominations
+Desk to desk
+Deal is out of balance because of this
+Karen is working
+With pennzoil and east texas to reach agreement on how to handle this issue
+Between them
+6) pgev - actuals on swing meters (hpl) not matching expense volumes being
+Allocated by pgev.
+Sherlyn is working with stacey and charlotte to resolve.
+7) pan energy sales issues - discrepancies on pgev. Katherine and sherlyn
+Are working with stacey to resolve.

@@ -1,0 +1,124 @@
+Subject: cfp: int. Conf. On web delivering of music, wedelmusic 2004, barcelona, spain
+Sorry for any multiple reception of this message.
+If you do not want to receive further information about wedelmusic 2004, please send back an email with remove on the subject.
+The topics of this e - mail are:
+Call for papers, submission deadline: 27 th february 2004
+4 th international conference on web delivering of music, wedelmusic 2004
+Universitat pompeu fabra, barcelona, spain
+13 th - 15 th september 2004
+Call for contribution, submission within the 10 th of february
+3 rd open workshop musicnetwork, munich, march 2004
+Mpeg ahg on music notation requirements
+13 - 14 of march 2004, munich, germany
+Announcement of co - location of
+4 th open workshop musicnetwork
+Universitat pompeu fabra, barcelona, spain
+14 th - 16 th september 2004
+Cheers,
+Paolo nesi, jaime delgado, kia ng
+Call for papers
+4 th international conference on web delivering of music, wedelmusic 2004
+Universitat pompeu fabra, barcelona, spain
+13 th - 15 th september 2004
+Http:// www. Upf. Edu/wedelmusic 2004/http:// www. Wedelmusic. Org /
+Content distribution is presently not anymore limited to music and is becoming more
+Cross media oriented. New distribution models for old and new content formats are
+Opening new paths: I - tv, mobile phones, pdas, etc. The development of the internet
+Technologies introduces strong impact on system architectures and business processes. New national and international regulations, policies and market evolution are
+Constraining the distribution mechanisms. Novel distribution models, development
+And application of pervasive computing and multimedia strongly influence this multI -
+Disciplinary field. The need of content control and monitoring is demanding effective
+Digital rights management (drm) solutions integrated with sustainable business and
+Transaction models. These technologies impact on the production and modelling of
+Cross media content.
+Wedelmusic - 2004 aims to explore these major topics in cross media field, to address
+Novel approaches for distributing content to larger audiences, providing wider access
+And encouraging broader participation. The impact of these developments on cultural
+Heritage is also considered, together with their availability to people with limited access to content.
+The conference is open to all the enabling technologies behind these problems. We
+Are promoting discussion and interaction among researchers, practitioners, developers,
+Final users, technology transfer experts, and project managers.
+Topics
+Topics of interest include, but are not restricted to:
+- - protection formats and tools for music
+- - transaction models for delivering music, business models for publishers
+- - copyright ownership protection
+- - digital rights management
+- - high quality audio coding
+- - watermarking techniques for various media types
+- - formats and models for distribution
+- - music manipulation and analysis, transcoding, etc..
+- - music and tools for impaired people - braille
+- - publishers and distributors servers
+- - cross media delivery on multI - channel systems, mobile, I - tv, pdas, internet, etc.
+- - automatic cross media content production
+- - mpeg - 4, mpeg - 7 and mpeg - 21
+- - viewing and listening tools for music
+- - music editing and manipulation
+- - music education techniques
+- - content based retrieval
+- - conversion and digital adaptation aspects, techniques and tools
+- - music imaging, music sheet digitalisation,
+- - solutions for cultural heritage valorisation
+See for other topics the web site.
+Research papers
+Papers should describe original and significant work in the research and practice
+Of the main topics listed above. Research case studies, applications and experiments
+Are particularly welcome. Papers should be limited to approx. 2000 - 5000 words
+(8 pages) in length. Of the accepted paper, 8 pages will be published in the conference
+Proceedings. The conference proceedings book will be published by the ieee computer
+Society.
+Industrial papers
+Proposals for papers and reports of applications and tools are also welcome.
+These may consist of experiences from actual utilisation of tools or industrial
+Practice and models. Proposals will be reviewed by the industrial members of the
+Program committee. Papers should be limited to approx. 1000 - 2500 words (4 pages)
+In length. Of the accepted paper, 4 pages will be published in the conference
+Proceedings.
+Submissions
+All submissions and proposals should be written in english following the ieee
+Format and submitted in pdf format via email to
+Wedelmusico 4 - submission@ altair. Upf. Edu
+By 27 th feb 2004.
+4 th open workshop musicnetwork
+Universitat pompeu fabra, barcelona, spain
+14 th - 16 th september 2004
+More details and the call for contribution will appear on:
+Http:// www.. Org
+After the 3 rd open workshop as described in the following section
+The access is free of charge, supported by the european commission.
+Call for contribution
+3 rd open workshop musicnetwork, munich, march 2004
+Mpeg ahg on music notation requirements
+13 - 14 of march 2004, munich, germany
+Http:// www.. Org
+Located at:
+Technische universit?t m?nchen, germany: http:// www. Mpeg - 68. De/location. Php
+The open workshop of musicnetwork is at its third edition. The modeling ofmusic
+Notation/representation is a complex problem. Music representation can be used
+For several different purposes: entertainment, music education, infotainment,
+Music archiving and retrieval, music querying, music production, music profiling,
+Etc. In the current internet and multimedia age many other applications are
+Strongly getting the market attention and most of them will become more diffuse
+Of the present applications in short time. End users have discovered the multimedia
+Experience, and thus, the traditional music models are going to be replaced by
+Their integration with multimedia, audio visual, cross media. At present, there is
+A lack of music notation/representation standard integrated with multimedia. The
+Aim of this workshop is to make a further step to arrive at standardizing a music
+Notation/representation model and decoder integrated into the mpeg environment,
+That presently can be regarded as the most active and powerful set of standard
+Formats for multimedia consumers.
+The topics of the workshop are related mainly focused on:
+- - music notation/representation requirements
+- - music protection and distribution
+- - music description and its usage on archive query
+Please contribute with your work on the above topics, for details see the www site
+Of the workshop.
+The access is be free of charge, supported by the european commission.
+4 th open workshop musicnetwork
+Universitat pompeu fabra, barcelona, spain
+14 th - 16 th september 2004
+More details and the call for contribution will appear on:
+Http:// www.. Org
+After the 3 rd open workshop as described in the following section
+The access is be free of charge, supported by the european commission.

@@ -1,0 +1,18 @@
+Subject: gary,
+Could you please remove scada/mips from the following hpl meters. These
+Meters are where mid - texas interconnects with
+Pg & e' s system, and there should not be any measurement taking place on hpl.
+These meters were set up originally when we thought
+That every meter on mid - texas should automatically have a corresponding meter
+On hpl. This assumption is now incorecct.
+980388
+980389
+980390
+980391
+980392
+980393
+987271
+987260
+987283
+Thanks
+George

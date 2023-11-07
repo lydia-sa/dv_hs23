@@ -1,0 +1,9 @@
+Subject: new nat gas delivery location
+Pursuant to our recent confirmation I have drafted some suggested language
+For the houston ship channel pooling point:
+Abbreviation: hpl - hsc
+Sort code: [tbd]
+Description: the transaction is for delivery via the houston pipe line
+Company to the houston ship channel, zone 10.
+Elsa and darren; please approve or offer comments regarding the content of
+Description.

@@ -1,0 +1,4 @@
+Subject: physical curve mappings _ sitara
+Hey gang,
+Attached are the physical curve mappings as provided by russ severson... Please take a peek and let us know if we need to change, add/delete, update any points/mappings going forward in a netco environment... For instance, I would like to change texoma to carthage on the curve mappings... Also, I would like to delete all derived curves, leaving only carthage, katytailgate, and agua dulce.
+The other physical locations would be shipchannel, waha and katy (non - tailgate)... Let me know your thoughts... O' neal 3 - 9686

@@ -1,0 +1,43 @@
+Subject: re: duke exchange deal feb. 2000 prod.
+Daren,
+I believe the best way to enter the fee into sitara would be as a demand fee
+In your example #1.
+If we do the fee this way, we will not double up the volumes.
+I have attached my spreadsheet for support:
+The most current worksheet is tab #2 marked final
+Column g is the over - delivery quantity total is 17, 278 mmbtus
+Column s is the daily dollar amount for the over - delivery quantity due hplc
+$1, 008. 87
+Column t is the daily dollar amount for the over - delivery quantity due the
+Customer $519. 73.
+Thanks -
+Katherine
+5 - 8643
+Daren j farmer@ ect
+08/31/2000 05: 49 pm
+To: katherine herrera/corp/enron@ enron
+Cc:
+Subject: re: duke exchange deal feb. 2000 prod.
+Katherine,
+There are 2 ways that I can enter this fee into sitara:
+1) I can put the dollar amount in on day 1 as a demand or facility fee.
+2) I need you to give me volume (s) and a price to input into the deal. I
+Can' t just input a dollar amount in sitara.
+Let me know how you want to handle it.
+D
+Katherine herrera@ enron
+08/31/2000 05: 28 pm
+To: daren j farmer/hou/ect@ ect
+Cc: kristen j hanson/hou/ect@ ect
+Subject: duke exchange deal feb. 2000 prod.
+Cashout
+Please add the following fees for feb. 2000:
+Fee type:
+Natural gas
+Physical forward
+Penalty for over/under take
+Sales ticket #157278
+$1, 008. 87 dollars due hplc
+Purchase ticket #157288
+$519. 73 dollars due duke
+Thanks - katherine

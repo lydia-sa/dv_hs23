@@ -1,0 +1,23 @@
+Subject: bridgeline workorder
+Fyi.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod/hou/ect on 04/26/2000
+11: 31 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Brian heinrich
+04/25/2000 05: 49 pm
+To: brenda f herod/hou/ect@ ect, mary solmonson/hou/ect@ ect
+Cc: lisa b cousino/hou/ect@ ect
+Subject: bridgeline workorder
+I have some information on the e - workorders (ehurr and ehset) that were set
+Up to track the costs of bridgeline. Apparently the workorders themselves
+Were not set up correctly so no costs could be coded to them in msa. We have
+Corrected the workorder set - ups and they should be working now. As for prior
+Costs, I think we will be able to get a list of all the payroll costs that we
+Attempted to code to ehurr and ehset, and then book an entry in april that
+Would reclass them to the workorders. We would then be able to see all the
+Costs associated with the project, as you wanted to do from the beginning,
+And code any future costs directly to the workorders. I will let you know
+More when I finalize that this can really be done, I just wanted to keep you
+Updated on the progress.
+If you have any questions, please let me know.
+Thanks,
+Brian

@@ -1,0 +1,10 @@
+Subject: missing txu lonestar and oasis paths
+Stacey,
+It looks like your missing paths revealed a quirk in our suppression of zero
+Paths. There were 4 paths initially entered as zero, then changed to
+Non - zero on a later date. The system did not correctly determine that the
+Zero path should no longer be suppressed.
+We have fixed the 4 paths affected and have corrected the code so this won' t
+Happen any more. Below is a screen print of the nov 22 problem that is now
+Fixed.
+Thanks, d. N.

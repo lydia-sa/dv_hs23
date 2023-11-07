@@ -1,0 +1,8 @@
+Subject: ehronline web address change
+This message is intended for ehronline users only.
+Due to a recent change to ehronline, the url (aka" web address") for
+Accessing ehronline needs to be changed on your computer. The change
+Involves adding the letter" s" to the" http" reference in the url. The url
+For accessing ehronline should be: https:// ehronline. Enron. Com.
+This change should be made by those who have added the url as a favorite on
+The browser.

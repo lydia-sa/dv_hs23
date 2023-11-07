@@ -1,0 +1,32 @@
+Subject: new nat gas delivery location
+Ed and elsa
+Here' s is some suggested language, based upon our conversation. Please
+Review and offer comments.
+Fyi: all new trade components (i. E. Delivery location) require the review of
+Legal, david forster and marcello romano for approval.
+The transaction is for delivery of pool gas via the houston pipe line
+Company, as scheduled by the counterparty, to either (i) houston ship channel
+Zone 10, meter #7342 or (ii) houston ship channel zone 10 at any one of the
+Following points: brandywine (meter #1505); destec enerfin (meter #1563);
+Dupont (meter #1019); equistar (meter #1373); ethyl (albemarle) (meter #
+1188); exxon (meter #1031); georgia gulf corp. (meter #713); phibro energy
+Inc. (valero ref.) (meter #1394); shell east (meter #1060); occidental
+Battleground (meter #1485); igs dodge street (meter #1508); millennium
+Petro polymer (meter #1553).
+Dale
+- - - - - - - - - - - - - - - - - - - - - - forwarded by dale neuner/hou/ect on 12/27/99 03: 54 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dale neuner on 12/22/99 10: 15: 15 am
+To: elsa villarreal/hou/ect@ ect, daren j farmer/hou/ect@ ect, elizabeth l
+Hernandez/hou/ect@ ect
+Cc: jennifer deboisblanc denny/hou/ect@ ect, marcello romano/lon/ect@ ect,
+David forster/lon/ect@ ect
+Subject: new nat gas delivery location
+Pursuant to our recent confirmation I have drafted some suggested language
+For the houston ship channel pooling point:
+Abbreviation: hpl - hsc
+Sort code: [tbd]
+Description: the transaction is for delivery via the houston pipe line
+Company to the houston ship channel, zone 10.
+Elsa and darren; please approve or offer comments regarding the content of
+Description.

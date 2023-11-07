@@ -1,0 +1,22 @@
+Subject: re: i/c variance for deal 72893
+Could you please look into this for me? Thanks.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stacey neuweiler/hou/ect on 05/11/2000
+12: 20 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: charlotte hawkins 05/08/2000 10: 55 am
+To: stacey neuweiler/hou/ect@ ect
+Cc: robert e lloyd/hou/ect@ ect, howard b camp/hou/ect@ ect
+Subject: re: i/c variance for deal 72893
+Stacey, sherlyn needs answers....... I dropped the ball and sent this to
+Carlos..... Sorry.
+Let me know if I can help.
+Charlotte
+From: sherlyn schumack 05/01/2000 10: 11 am
+To: charlotte hawkins/hou/ect@ ect
+Cc:
+Subject: i/c variance for deal 72893
+Charlotte,
+There is an interconnect variance at meter 980071 for 2/99. It appears the
+Variance is created on 2/9/99 and 2/10/99. There is a transport usage deal
+Ticket 72893 in sitara which shows pg & e delivers 6, 965 mmbtu to hpl on 2/9/99
+And 3, 683 mmbtu on 2/10/99, but hpl does not show a receipt of this volume.
+Let me know if you need the pg & e support.

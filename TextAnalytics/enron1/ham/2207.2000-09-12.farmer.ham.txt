@@ -1,0 +1,6 @@
+Subject: duke purchase on 8/2/00
+Daren,
+Deal 351653 is set up for 20, 000 mmbtu purchase from duke at meter 981040 on
+Hpl, but the actuals on cent show a volume of 19, 606 mmbtu at meter 77455 on
+8/2/00 with no deal set up. Should this sale to mobil have taken place on
+Cent instead of hpl?

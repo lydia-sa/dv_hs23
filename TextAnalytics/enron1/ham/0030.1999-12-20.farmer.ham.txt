@@ -1,0 +1,38 @@
+Subject: re: purge of old contract _ event _ status
+FyI - what do you all think?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod/hou/ect on 12/20/99 08: 19
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: dave nommensen on 12/17/99 05: 29 pm
+To: scotty gilbert/hou/ect@ ect
+Cc: george smith/hou/ect@ ect, edward terry/hou/ect@ ect, katherine l
+Kelly/hou/ect@ ect, bryce baxter/hou/ect@ ect, randall l gay/hou/ect@ ect,
+Brenda f herod/hou/ect@ ect, richard pinion/hou/ect@ ect
+Subject: re: purge of old contract _ event _ status
+Just to clarify, its not the relative age of the production date, but the age
+Of the event itself.
+D. N.
+To: george smith, edward terry/hou/ect@ ect, katherine l kelly/hou/ect@ ect,
+Bryce baxter/hou/ect@ ect, randall l gay/hou/ect@ ect, brenda f
+Herod/hou/ect@ ect
+Cc: richard pinion/hou/ect@ ect, dave nommensen/hou/ect@ ect
+Subject: re: purge of old contract _ event _ status
+Do any of you see a problem with limiting this to the current month or
+Current month + 1
+Need to know soon
+Scotty
+From: dave nommensen 12/17/99 03: 25 pm
+To: scotty gilbert/hou/ect@ ect, richard pinion/hou/ect@ ect
+Cc: trisha luong/hou/ect@ ect, benedicta tung/hou/ect@ ect, diane e
+Niestrath/hou/ect@ ect, dave mcmullan/hou/ect@ ect
+Subject: purge of old contract _ event _ status
+Scotty/richard,
+Our dbas would like to see what we can do to reduce the qty of rows in
+Contract _ event _ status. We have over 1 gig of data in that table. I would
+Like to suggest we have a nightly or weekly or monthly process to delete any
+Row with a last _ mod _ date over a month (or two) old. So if someone balances
+February 1999 this month, we will keep it around for a month (or two).
+Does any one else have a desire to keep this data for a shorter/longer period
+Of time?
+This is not an audit table. This is just a" log" every nom/track/balance/edi
+Send/fax send/sched qty/quick response since the beginning of time.
+D. N.

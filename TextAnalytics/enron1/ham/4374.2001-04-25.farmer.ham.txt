@@ -1,0 +1,7 @@
+Subject: re: big cowboy/gepl actuals for february
+Please see the attached xcel file. I think that I have found the missing volumes on big cowboy. There are two wells connected to system 429, which flows into the big cowboy system and interconnects with hgpl at meter 8284. They are meters 986679 (currently in trade zone 18) and 986742 (currently in trade zone 1). I think that these should probably both be reassigned to trade zone 21. This should resolve our volumetric issue.
+Donna & george,
+Please let me know if my assumption is in error. I have a schematic that shows these meters going to hgpl off of gepl big cowboy, however, if this is not correct then I will need to try to find the gas in another manner.
+Thank you for your time. Please let me know if you have any questions, comments, suggestions.
+Mary
+35251

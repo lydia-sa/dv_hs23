@@ -1,0 +1,21 @@
+Subject: new unify transaction/volume count reports
+- - - - - - - - - - - - - - - - - - - - - - forwarded by donna greif/hou/ect on 05/09/2000 04: 49
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: dave nommensen 05/09/2000 12: 13 pm
+To: donna greif/hou/ect@ ect
+Cc:
+Subject: new unify transaction/volume count reports
+Fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by dave nommensen/hou/ect on 05/09/2000
+12: 12 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: dave nommensen 05/09/2000 08: 24 am
+To: lisa b cousino/hou/ect@ ect, diane h cook/hou/ect@ ect, shari
+Mao/hou/ect@ ect
+Cc: benedicta tung/hou/ect@ ect
+Subject: new unify transaction/volume count reports
+These 2 new reports are now available in
+Start/programs/trading/unify (gas - reporting). This password should be the
+Same as your unify (gas) password.
+Go to path manager/report/general report selection/path manager.
+The two new reports are monthly transaction counts and monthly volume counts.
+Enjoy, d. N.

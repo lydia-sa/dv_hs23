@@ -1,0 +1,16 @@
+Subject: enrononline - stack manager changes
+We have made the following modifications to the enrononline applications.
+Stack manager changes
+Fill order enhancements - (effective tuesday september 25)
+? To fill a top of stack order in stack manager, right click on the pink shaded order in the depth window of stack manager and select fill.
+? The trader now has the ability to fill limit orders that appear at the top of the trader' s stack on both sides.
+? The order will now be filled at the full order volume regardless of the trader' s stack volume.
+? Filling an order will not move the trader' s price or cause a hedge to occur.
+Resize floated stack windows - (effective tuesday september 25)
+You will now have the ability to resize the stack window to the desired extent.
+Website changes (effective monday september 24)
+Limit order restrictions on physical transactions -
+? Customers will not be allowed to transact with themselves on physical transactions. If a top of stack limit order has been placed on a physical product the counterparty or desk that placed the order will not be allowed to transact on it.
+? If a customer or desk has top of stack limit orders at different prices on both the bid and offer and subsequently moves the price of one so that they are at the same price, both orders will be cancelled. The customer would have effectively transacted with himself.
+Please call me if you have any questions. Thanks.
+Savita (x 31787)

@@ -1,0 +1,12 @@
+Subject: transport contracts
+D -
+The oasis contract #s are: 028 27099 201
+028 27099 202
+028 27099 203
+028 27099 204
+Pg & e contract #s are: 5095 - 037
+5098 - 695
+9121
+5203 - 010
+Pg & e parking and lending contracts awaiting approval: pleo 0004
+Plao 0004

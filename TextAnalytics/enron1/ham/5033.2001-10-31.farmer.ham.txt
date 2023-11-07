@@ -1,0 +1,16 @@
+Subject: bcp seat assignments
+All:
+Attached you will find a list that reflects your seat assignments for business continuity planning (bcp). These seats are located on the 30 th and 31 st floors of enron center north (ecn). As previously communicated, you will report to these designated seats in the event of an outage in ecs.
+The exception to this is as follows:
+If your seat assignment is located on the 31 st floor, you will report to your original location that you occupied prior to your move into ecs. This will hold true until the monday after thanksgiving, as we will have the 31 st floor seats set up at that time.
+Testing:
+Once you have moved to ecs, if you would like to test your bcp location, you will be able to test your seat for functionality every thursday from 3 - 6 pm. Testing is not required, but is highly recommended.
+If anyone has any questions or concerns about these procedures, please feel free to contact me at any time.
+Regards,
+Stephen r. Harrington
+Technical project manager, ecs project
+Enron net works, llc
+W: 713 - 853 - 7619
+P: 877 - 651 - 7361
+C: 713 - 444 - 7279
+Stephen. Harrington@ enron. Com

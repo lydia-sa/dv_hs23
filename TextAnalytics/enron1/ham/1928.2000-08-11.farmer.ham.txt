@@ -1,0 +1,88 @@
+Subject: re: prime operating company, uribe #1, jennings ranch field, zapata
+County, tx
+Melissa,
+Deal #362921 has been created and entered in sitara.
+Bob
+Enron north america corp.
+From: melissa graves 08/10/2000 02: 54 pm
+To: robert cotten/hou/ect@ ect, jennifer blay/hou/ect@ ect
+Cc: donald p reinhardt/hou/ect@ ect, susan smith/hou/ect@ ect, vance l
+Taylor/hou/ect@ ect, tom acton/corp/enron@ enron, mary jo johnson/hou/ect@ ect,
+Christy sweeney/hou/ect@ ect, elizabeth l hernandez/hou/ect@ ect, lisa
+Hesse/hou/ect@ ect, trisha hughes/hou/ect@ ect
+Subject: re: prime operating company, uribe #1, jennings ranch field, zapata
+County, tx
+Bob/jennifer:,
+Bob,
+The following production is now on - line (behind an existing meter). Please
+Create and enter a ticket into sitara based on the following:
+Counterparty meter period volumes price
+Prime operating company 6388 8/1/00 - 8/31/00 400 mmbtu/d 85% if/hsc
+This is a producer svcs. Deal and should be tracked in the im wellhead
+Portfolio, attached to the gathering contract.
+Once the paper is signed and reserves are published, susan smith will prepare
+A formal deal ticket for the full term.
+Jennifer,
+Please prepare and transmit to prime operating company, a first purchaser gtc
+Based on the following
+Information:
+Counterparty: prime operating company
+Contract date: 8/1/00
+Term expires: 8/31/00
+Contract type: first purchaser gtc
+Contract price: 85% if/hsc
+Sitara no.: to be assigned
+Tagg no.: to be assigned
+Meter: 098 - 6388, facility 17385
+Wells:
+Facility no. Facility name meter county
+50693 uribe, a. A. #1 098 - 6388 zapata
+Mailing address:
+2900 wilcrest drive, suite 475
+Houston, texas 77042 - 6009
+Attention: mr. Vern elmore
+Payment information: by check to the above address
+Telephone number: (713) 735 - 0000
+Fax number: (713) 735 - 0090
+Please provide me with a copy of the gtc for our files once completed.
+Please call if you have any questions or need additional information.
+Thank you,
+Melissa
+X 39173
+- - - - - - - - - - - - - - - - - - - - - forwarded by melissa graves/hou/ect on 08/10/2000 11: 42
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron north america corp.
+From: robert cotten 08/10/2000 09: 13 am
+To: melissa graves/hou/ect@ ect
+Cc: daren j farmer/hou/ect@ ect, david baumbach/hou/ect@ ect, susan
+Smith/hou/ect@ ect, vance l taylor/hou/ect@ ect, tom acton/corp/enron@ enron,
+Mary jo johnson/hou/ect@ ect, jennifer blay/hou/ect@ ect, christy
+Sweeney/hou/ect@ ect, hillary mack/corp/enron@ enron, lisa hesse/hou/ect@ ect,
+Trisha hughes/hou/ect@ ect
+Subject: re: prime operating company, uribe #1, jennings ranch field, zapata
+County, tx
+Melissa,
+Deal #361155 has been created and entered in sitara.
+Bob
+Enron north america corp.
+From: melissa graves 08/09/2000 02: 19 pm
+To: robert cotten/hou/ect@ ect
+Cc: donald p reinhardt/hou/ect@ ect, susan smith/hou/ect@ ect, vance l
+Taylor/hou/ect@ ect, tom acton/corp/enron@ enron, mary jo johnson/hou/ect@ ect,
+Jennifer blay/hou/ect@ ect, christy sweeney/hou/ect@ ect, hillary
+Mack/corp/enron@ enron, lisa hesse/hou/ect@ ect, trisha hughes/hou/ect@ ect
+Subject: prime operating company, uribe #1, jennings ranch field, zapata
+County, tx
+Bob,
+The following production is now on - line (behind an existing meter). Please
+Create and enter a ticket into sitara based on the following:
+Counterparty meter period - volumes price
+Prime operating company 6388 7/28 - 167 mmbtu/d 85% gas daily
+7/29 - 382 mmbtu/d
+7/30 - 370 mmbtu/d
+7/31 - 415 mmbtu/d
+This is a producer svcs. Deal and should be tracked in the im wellhead
+Portfolio, attached to the gathering contract.
+Thank you,
+Melissa
+X 39173

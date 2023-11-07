@@ -1,0 +1,38 @@
+Subject: xms - new system
+Effective: we have a new system to prepare expense reports called:
+Expense reporting system: xms
+In order for us (your assistants) to prepare your expense reports you will
+Need
+To log on the system and give us your permission. I will provide you step by
+Step
+Instructions to do so. I will make it as easy as possible. It is very
+Important
+That you do this otherwise we will not have access or permission.
+(1) logging on to the system:
+Log on to xms. Enron. Com and enter your logon id and password.
+(your log on id is your po 0 #or your nt id and your
+Password is enron)
+(2) selecting approver and administrative assistant
+Select my info button - then go to concur expense tab and
+Select workflow.
+Click on the spyglass to pick your approver (your
+Manager) then your administrative asst.
+Be sure to save your selection.
+(3) changing your password
+Select my info button - then select my profile - then change
+Password
+(type in your old password twice) (if you forget your
+Password call 31411.)
+(4) creating an expense report (if you decide you would like to prepare your
+Own expense report)
+Select my workspace tab, then create expense report. Fill
+In required fields.
+Select next button
+(5) approving a report
+An email message will notify you of a report pending your
+Approval. You can click on the hotlink
+To logon to xms system. Approve at summary level by clicking
+On the approval button for the
+Home page. Or double click on the title of the expense report
+To preview the details.
+To learn more go to the xms web page: http:// xms. Enron. Com

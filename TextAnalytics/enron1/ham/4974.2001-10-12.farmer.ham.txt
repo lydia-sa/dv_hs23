@@ -1,0 +1,43 @@
+Subject: fw: unify exception list
+All:
+From matt' s response it sounds like you might want to specify exception personnel for 8 - 12, 12 thru 4: 00, and 4 thru 6 normal business hours and not end of the month, holidays or long weekends.
+Rp
+- - - - - original message - - - - -
+From: pena, matt
+Sent: friday, october 12, 2001 1: 03 pm
+To: pinion, richard
+Subject: re: unify exception list
+Yes, you are correct. When we watchdog, we' ll most likely do vm and settlements and not pm. But, in the afternoon, if they need payments out the door, pm will get it. It goes both ways. So, if you send me who needs to be in the system no matter what, that would help.
+You are correct, 8 - 12 is logistics critical, and after that it' s anyones guess.
+- - - - - original message - - - - -
+From: pinion, richard
+Sent: friday, october 12, 2001 11: 38 am
+To: pena, matt
+Subject: fw: unify exception list
+Based on victor' s response, I think there is some confusion. There are actually several critical time periods depending on the group and time of day. Perhaps to eliminate the confusion you could specify which time period you are going to watchdog. I interpreted it to mean the 8 - 12 am period but victor was thinking the afternoon. Depending on the time there might be different people who should be kicked out.
+Rp
+- - - - - original message - - - - -
+From: lamadrid, victor
+Sent: friday, october 12, 2001 11: 00 am
+To: sullivan, patti; pena, matt
+Cc: warner, john; hall, bob m; rao, ramesh; sengupta, jayanta; nguyen, ben; melethil, anwar; baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; jaquet, tammy; kinsey, lisa; lakho, shahnaz; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; superty, robert; wynne, rita
+Subject: re: unify exception list
+The critical users on the east desk using path manager will be meredith homco, clarissa garcia, christina sanchez and victor lamadrid. If you could alert us as to when y' all are invoking watchdog to kick logistics out, that would be great. Thanks
+- - - - - original message - - - - -
+From: sullivan, patti
+Sent: friday, october 12, 2001 9: 42 am
+To: pena, matt
+Cc: warner, john; hall, bob m; rao, ramesh; sengupta, jayanta; nguyen, ben; melethil, anwar; baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; jaquet, tammy; kinsey, lisa; lakho, shahnaz; lamadrid, victor; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; superty, robert; wynne, rita
+Subject: re: unify exception list
+The west desk critical users will all use path manager. The users will be shannon groenewold, daniel lisk, suzanne christiansen, corey wilkes, jackie adams, shelly mendel, stacey brewer, walt spiegelhauer and starting next week joshua blair.
+- - - - - original message - - - - -
+From: pena, matt
+Sent: thursday, october 11, 2001 8: 37 pm
+To: baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; jaquet, tammy; kinsey, lisa; lakho, shahnaz; lamadrid, victor; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; sullivan, patti; superty, robert; wynne, rita
+Cc: warner, john; hall, bob m; rao, ramesh; sengupta, jayanta; nguyen, ben; melethil, anwar
+Subject: unify exception list
+Going forward, as a precautionary measure, we will begin locking users out of the system if the need arises. We will use our watchdog application in order to initiate this process. We will do so only as a last resort and will notify you that we will be doing this. Our reasons for doing this are mainly to ensure the critical system resources are provided to the users that need them the most.
+The old list we had from sybase no longer exists. I need your help in putting together a new list. Please provide the list of people who are absolutely critical users that have to be on the system. Obviously, the situation isn' t remedied if everyone is an exception user:)
+Please provide user name and application they need (i. E. Volume management, settlements, path manager).
+The sooner I get this, the sooner we can get this implemented.
+Thanks!

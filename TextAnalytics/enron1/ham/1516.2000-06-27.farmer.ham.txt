@@ -1,0 +1,33 @@
+Subject: july noms
+Daren,
+Please see the volume and action needed columns below: 50, 158 mm has not
+Been entered in sitara or path manager because deal tickets are needed.
+Bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by robert cotten/hou/ect on 06/27/2000 09: 01
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron north america corp.
+From: robert cotten 06/26/2000 09: 02 am
+To: o' neal d winfree/hou/ect@ ect, vance l taylor/hou/ect@ ect
+Cc:
+Subject: july noms
+O' neal/vance,
+The following deals appear to have expired 6/30/00:
+Counterparty sitara deal no. Volume action needed
+Camoil 138822 161 pathed 6/27
+Cody texas 305549 2, 800 deal ticket
+Eex corp. 278748 14, 213""
+Eex corp. 278770 1, 710 pathed 6/27
+Engage energy 278784 70 deal ticket
+278806 117""
+278821 657""
+278834 1, 096""
+Goldston 225006 30, 055""
+Hydrocarbon lease 281540 1, 000""
+Petromac 138536 45 pathed 6/26
+Setex 132845 76 deal ticket
+138601 53""
+Swift energy 279778 21""
+Texlan 138848 166 pathed 6/27
+I will need either new deal ticket (s) or roll the current ones in sitara.
+Please advise. Thanks.
+Bob

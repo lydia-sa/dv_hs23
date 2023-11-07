@@ -1,0 +1,30 @@
+Subject: please update your account details with citibank
+Dear citibank customer,
+We recently noticed one or more attempts to log in to your citibank
+Account from a foreign ip address and we have reasons to believe that
+There was attempts to compromise it with brute forcing your pin number.
+No successful login was detected and you have full protection by now.
+If you recently accessed your account while travelling, the unusual login
+Attempts may have been initiated by you.
+The login attempt was made from:
+Ip address: 173. 27. 187. 24
+Isp host: cache - 82. Proxyserver. Cis. Com
+By now, we used many techniques to verify the accuracy of the
+Information our users provide us when they register on the site.
+However, because user verification on the internet is difficult, citibank
+Cannot and does not confirm each user' s purported identity. Thus, we
+Have established an offline verification system to help you evaluate with
+Whom you are dealing with. The system is called citisafe and it' s
+The most secure citibank wallet so far.
+If you are the rightful holder of the account, click the link bellow, fill
+The form and then submit as we will verify your identity and register you
+To citisafe free of charge. This way you are fully protected from fraudulent
+Activity on all the accounts that you have with us.
+Click to protect
+Yourself from fraudulent activity!
+To make citibank. Com the most secure site, every user will be
+Registered to citisafe.
+Note! If you choose to ignore our request, you leave us no choice but to
+Temporally suspend your account.
+* please do not respond to this e - mail, as your reply will not be received.
+Regards, citibank customer support

@@ -1,0 +1,8 @@
+Subject: windows 2000 and outlook
+We will soon be migrating to windows 2000 and outlook. The texas desk is scheduled for tuesday, april 10 th. I was told to pass along the following information to my group:
+1. You will be receiving emails from the migration team (" gem") - please be sure to only open this from your own desktop, and not remotely. This is very important. These messages will be explaining the migration process and what you need to do to insure a successful migration.
+2. Due to new space limitations on your mailbox, you are advised to clean your notes mailbox of old, unneeded messages before migration. With outlook, you will be restricted to a mailbox size of 100 mb. Outlook will issue a warning once you reach 75 mb to let you know that you are near your mailbox limit. Once you reach 100 mb, you will be prevented from sending email, but you will still be able to receive internal and external messages you will then need to reduce the size of your mailbox by deleting old mail, saving attachments to a local drive, etc. Before you will be able to send an email again.
+3. From the day of migration, only 30 days of old mail will be migrated from your mailbox. This includes mail in your inbox and other folders. Calendar items dating back one year from the day of migration will be migrated.
+4. Everyone will have a read only view of notes until the transition is completed. You will be able to copy/paste.
+Thanks,
+Laura

@@ -1,0 +1,64 @@
+Subject: fw: unify gas production
+I did not see you on the initial distribution.
+Rp
+- - - - - original message - - - - -
+From: cuccia, michael
+Sent: wednesday, august 15, 2001 10: 42 am
+To: lamadrid, victor; sullivan, patti; baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; kinsey, lisa; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; superty, robert;' terry, edward'; wynne, rita
+Cc: stokes, darren; neal, steve; mcneill, michael; ripley, brian; pena, matt; newland, william
+Subject: re: unify gas production
+It looks like we have a consensus on down time for unify gas production on saturday. We will be bringing the server down at 6 pm. Please make every effort to have your work done by that time. The server should be back up by 10 pm.
+Thank you all for your responses and cooperation,
+Michael cuccia
+Unify production support
+Ebl 864 c - - x 36629
+Cell 713. 870. 6463
+- - - - - original message - - - - -
+From: lamadrid, victor
+Sent: wednesday, august 15, 2001 7: 52 am
+To: sullivan, patti; cuccia, michael; baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; kinsey, lisa; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; superty, robert;' terry, edward'; wynne, rita
+Cc: stokes, darren; neal, steve; mcneill, michael; ripley, brian; pena, matt; newland, william
+Subject: re: unify gas production
+Michael, ditto to patti' s statement on the east! 6 pm is evening late nom deadline for the next day. Thanks
+- - - - - original message - - - - -
+From: sullivan, patti
+Sent: wednesday, august 15, 2001 7: 50 am
+To: cuccia, michael; lamadrid, victor; baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; kinsey, lisa; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; superty, robert;' terry, edward'; wynne, rita
+Cc: stokes, darren; neal, steve; mcneill, michael; ripley, brian; pena, matt; newland, william
+Subject: re: unify gas production
+Michael,
+The west desk schedulers are using path manager to schedule until 6: 00 pm. We' re hoping that the maintenance can start after that time. Thanks.
+- - - - - original message - - - - -
+From: cuccia, michael
+Sent: wednesday, august 15, 2001 6: 40 am
+To: lamadrid, victor; baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; kinsey, lisa; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; sullivan, patti; superty, robert;' terry, edward'; wynne, rita
+Cc: stokes, darren; neal, steve; mcneill, michael; ripley, brian; pena, matt; newland, william
+Subject: re: unify gas production
+2 - 3 hours. Yes, I am the contact person (cell number below) after users first filter questions through their leads.
+Michael cuccia
+Unify production support
+Ebl 864 c - - x 36629
+Cell 713. 870. 6463
+- - - - - original message - - - - -
+From: lamadrid, victor
+Sent: tuesday, august 14, 2001 6: 11 pm
+To: cuccia, michael; baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; kinsey, lisa; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; sullivan, patti; superty, robert;' terry, edward'; wynne, rita
+Cc: stokes, darren; neal, steve; mcneill, michael; ripley, brian; pena, matt; newland, william
+Subject: re: unify gas production
+Michael,
+How long will this last? Are you the contact person handling questions users may have this weekend?
+Thanks
+Victor
+- - - - - original message - - - - -
+From: cuccia, michael
+Sent: tuesday, august 14, 2001 3: 54 pm
+To: baxter, bryce; bussell l, kathryn; dawes, cheryl; greif, donna; hall, bob m; heal, kevin; kinsey, lisa; lamadrid, victor; machleit, shirley; mcclure, mark; olinger, kimberly s.; pinion, richard; reeves, leslie; smith, george f.; staab, theresa; sullivan, patti; superty, robert; terry, edward; wynne, rita
+Cc: stokes, darren; neal, steve; mcneill, michael; ripley, brian; pena, matt; newland, william
+Subject: unify gas production
+Importance: high
+We will be performing maintenance on the server for the unify database on saturday, aug. 18 th. This maintnenance will fix the problem that caused unify' s gas production database to hang indefinitely today (tue., aug. 14 th) during our nomination time.
+Please reply and tell us when we can shut down the unify gas production system for this maintenance on saturday, aug. 18 th. We are targeting 4 pm.
+Michael cuccia
+Unify production support
+Ebl 864 c - - x 36629
+Cell 713. 870. 6463

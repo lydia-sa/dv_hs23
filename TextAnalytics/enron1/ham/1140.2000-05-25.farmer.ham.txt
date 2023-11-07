@@ -1,0 +1,11 @@
+Subject: hpl xport ta 99 - 027 for 4/00 prod.
+Loraine sent an allocation for fuel that is not scheduled. Her schedule has
+Fuel on days where there was no flow:
+Day fuel
+5 40
+8 15
+9 14
+Can you let me know if we need to book fuel on this contract and what needs
+To be done on days where we have no flow?
+We called loraine and she told us to contact you since you are aware of this.
+Thanks

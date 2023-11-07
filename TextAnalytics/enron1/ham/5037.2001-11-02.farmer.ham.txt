@@ -1,0 +1,137 @@
+Subject: on call
+Brandee jackson
+713 - 345 - 4013
+W e e k e n d s y s t e m s a v a I l a b I l I t y
+F o r
+November 2, 2001 5: 00 pm through november 5, 2001 12: 00 am
+Scheduled system outages:
+Ardmore data center - facility operations: no scheduled outages.
+Azurix: no scheduled outages.
+Eb 34 data center - facility operations: no scheduled outages.
+Edi:
+Impact: corp
+Time: frI 11/2/2001 at 12: 00: 00 pm ct thru sun 11/4/2001 at 4: 00: 00 am ct
+FrI 11/2/2001 at 10: 00: 00 am pt thru sun 11/4/2001 at 2: 00: 00 am pt
+FrI 11/2/2001 at 6: 00: 00 pm london thru sun 11/4/2001 at 10: 00: 00 am london
+Outage: edI _ qa oracle database upgrade
+Environments impacted: corp
+Purpose: to comply with corporate standardization
+Backout: restore the database to its original state
+Contact (s): maria santiago 713 - 345 - 7354
+John kratzer 713 - 345 - 7672
+Karen o' grady 713 - 345 - 7149
+Ees:
+Impact: ees
+Time: thu 11/1/2001 at 6: 00: 00 pm ct thru sun 11/4/2001 at 12: 00: 00 am ct
+Thu 11/1/2001 at 4: 00: 00 pm pt thru sat 11/3/2001 at 10: 00: 00 pm pt
+FrI 11/2/2001 at 12: 00: 00 am london thru sun 11/4/2001 at 6: 00: 00 am london
+Outage: migrate eeshou - fslto san
+Environments impacted: ees
+Purpose: new cluster server is on san and san backups
+This will provide better performance, server redundancy, and backups should complete without problems.
+Backout: take new server offline,
+Bring up old servers
+Change users profiles back to original settings.
+Contact (s): roderic h gerlach 713 - 345 - 3077
+Enron center south data center - facility operations: no scheduled outages
+Enron north american lans:
+Impact: ardmore
+Time: sat 11/3/2001 at 10: 00: 00 pm ct thru sun 11/4/2001 at 2: 00: 00 am ct
+Sat 11/3/2001 at 8: 00: 00 pm pt thru sun 11/4/2001 at 12: 00: 00 am pt
+Sun 11/4/2001 at 4: 00: 00 am london thru sun 11/4/2001 at 8: 00: 00 am london
+Outage: add redundant connections between ard - cor - ccxl/2 and ena - cxl/2 - ard
+Environments impacted: all
+Purpose: increased bandwidth/resiliency available on the man
+Backout: put original equipment/configs back in place
+Contact (s): dennis mcgough 713 - 345 - 3143
+Impact: ebs
+Time: sat 11/3/2001 at 1: 00: 00 pm ct thru sat 11/3/2001 at 4: 00: 00 pm ct
+Sat 11/3/2001 at 11: 00: 00 am pt thru sat 11/3/2001 at 2: 00: 00 pm pt
+Sat 11/3/2001 at 7: 00: 00 pm london thru sat 11/3/2001 at 10: 00: 00 pm london
+Outage: relocate ebs portland servers and switch pdx - 3 wtcpl - swxl
+Environments impacted: ebs
+Purpose: existing equipment rack removed in order to install new phone system.
+Backout: none. Space must be vacated.
+Contact (s): chris shirkoff 503 - 778 - 0920 8774937918@ skytel. Com
+Dave steiner 503 - 703 - 1553
+Field services: no scheduled outages.
+Internet: no scheduled outages.
+Messaging:
+Impact: corp notes
+Time: frI 11/2/2001 at 9: 00: 00 pm ct thru sat 11/3/2001 at 1: 00: 00 am ct
+FrI 11/2/2001 at 7: 00: 00 pm pt thru frI 11/2/2001 at 11: 00: 00 pm pt
+Sat 11/3/2001 at 3: 00: 00 am london thru sat 11/3/2001 at 7: 00: 00 am london
+Outage: cnotes server reboots
+Environments impacted: all users on any of the mailservers listed below
+Purpose: scheduled@ 2 week interval
+Backout: make sure server comes up.
+Contact (s): trey rhodes (713) 345 - 7792
+Impact: ei
+Time: frI 11/2/2001 at 9: 00: 00 pm ct thru sat 11/3/2001 at 1: 00: 00 am ct
+FrI 11/2/2001 at 7: 00: 00 pm pt thru frI 11/2/2001 at 11: 00: 00 pm pt
+Sat 11/3/2001 at 3: 00: 00 am london thru sat 11/3/2001 at 7: 00: 00 am london
+Outage: eI notes server maintenance
+Environments impacted: eI local/domestic/foreign sites
+Purpose: scheduled@ 2 week interval
+Backout: n/a
+Contact (s): david ricafrente 713 - 646 - 7741
+Impact: ees
+Time: frI 11/2/2001 at 8: 30: 00 pm ct thru frI 11/2/2001 at 11: 30: 00 pm ct
+FrI 11/2/2001 at 6: 30: 00 pm pt thru frI 11/2/2001 at 9: 30: 00 pm pt
+Sat 11/3/2001 at 2: 30: 00 am london thru sat 11/3/2001 at 5: 30: 00 am london
+Outage: ees notes server reboots
+Environments impacted: all users on any of the mailservers listed below
+Purpose: scheduled@ 2 week interval on lst and the 3 rd friday of each month.
+Backout:
+Contact (s): dalak malik 713 - 345 - 8219
+Market data: no scheduled outages.
+Nt: no scheduled outages.
+Os/2: no scheduled outages.
+Other:
+Impact:
+Time: sat 11/3/2001 at 9: 00: 00 pm ct thru sun 11/4/2001 at 12: 00: 00 am ct
+Sat 11/3/2001 at 7: 00: 00 pm pt thru sat 11/3/2001 at 10: 00: 00 pm pt
+Sun 11/4/2001 at 3: 00: 00 am london thru sun 11/4/2001 at 6: 00: 00 am london
+Outage: migrate ebs common data to corp environment and update dfs
+Environments impacted: any user accessing o: ebs
+Purpose: will be migrating all common data from o: ebs houston and o: ebs portland to corp servers in houston and their corresponding ebs servers will be decommissioned. O: ebs shepherd and o: ebs loopcentral will also be migrated and their corresponding ebs servers will be decommissioned. O: ebs will be removed from dfs and the dfs entries will be re - inputed in order to decommission the ebs dfs server. This needs to be done as part of the decommissioning of the ebs environment.
+Backout: leave ebs data servers and dfs servers online and re - input the dfs links.
+Contact (s): mark wolf 713 - 345 - 6389
+Impact: hr
+Time: sat 11/3/2001 at 8: 00: 00 am ct thru sat 11/3/2001 at 11: 00: 00 am ct
+Sat 11/3/2001 at 6: 00: 00 am pt thru sat 11/3/2001 at 9: 00: 00 am pt
+Sat 11/3/2001 at 2: 00: 00 pm london thru sat 11/3/2001 at 5: 00: 00 pm london
+Outage: replace cd - rom in hr - db - 5
+Environments impacted: hr lan
+Purpose: the cd - rom drive has failed and needs to be replaced.
+Backout:
+Contact (s): brandon bangerter 713 - 345 - 4904
+Mark calkin 713 - 345 - 7831
+Raj perubhatla 713 - 345 - 8016 281 - 788 - 9307
+Impact: nahou - rem 2
+Time: sun 11/4/2001 at 1: 00: 00 pm ct thru sun 11/4/2001 at 1: 30: 00 pm ct
+Sun 11/4/2001 at 11: 00: 00 am pt thru sun 11/4/2001 at 11: 30: 00 am pt
+Sun 11/4/2001 at 7: 00: 00 pm london thru sun 11/4/2001 at 7: 30: 00 pm london
+Outage: upgrade nahou - rem 2 server with latest remedy patch
+Environments impacted: remedy reporting server
+Purpose: plug a memory leak in the current version patch.
+Backout: remove the new executable and rename the arserver. Old to arserver. Exe
+Contact (s): james weaver 713 - 345 - 4810
+Sitara: no scheduled outages.
+Sun/oss system: no scheduled outages.
+Telephony: no scheduled outages
+Terminal server: no scheduled outages.
+Unify: no scheduled outages.
+For assistance
+(713) 853 - 1411 enron resolution center
+Specific help:
+Information risk management (713) 853 - 5536
+Sap/isc (713) 345 - 4727
+Unify on - call (713) 284 - 3757 [pager]
+Sitara on - call (713) 288 - 0101 [pager]
+Rus/gops/geotools/aprs (713) 639 - 9726 [pager]
+Oss/ua 4/tarp (713) 285 - 3165 [pager]
+Cpr (713) 284 - 4175 [pager]
+EdI support (713) 327 - 3893 [pager]
+Ees help desk (713) 853 - 9797 or (888) 853 - 9797
+Tds - trader decision support on - call (713) 327 - 6032 [pager]

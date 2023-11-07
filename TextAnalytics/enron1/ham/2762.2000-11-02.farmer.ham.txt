@@ -1,0 +1,44 @@
+Subject: re: copano
+- - - - - - - - - - - - - - - - - - - - - - forwarded by edward d gottlob/hou/ect on 11/02/2000
+10: 21 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Steve hpl schneider
+11/02/2000 08: 48 am
+To: edward d gottlob/hou/ect@ ect
+Cc:
+Subject: re: copano
+That is my understanding.
+Edward d gottlob
+11/01/2000 07: 29 am
+To: steve hpl schneider/hou/ect@ ect
+Cc: james mckay/hou/ect@ ect, pat clynes/corp/enron@ enron
+Subject: re: copano
+The lakecreek lateral is baseload for the expected load, the set point may
+Change up and down in anticipation of weather changes but pressure supply for
+Entex is provided via the copano 12", entex shouldcommunicate with us
+Directly.
+Steve hpl schneider
+10/31/2000 02: 59 pm
+To: edward d gottlob/hou/ect@ ect
+Cc: james mckay/hou/ect@ ect, pat clynes/corp/enron@ enron
+Subject: re: copano
+That is not what I am conveying. There may be changes made to the set flow
+Periodically, but it will not be pressure based upon the immediate needs of
+The copano pipeline that may be swinging due to some other customer on their
+System. Whenever entex asks for a new set point at the new woodlands city
+Gate, our set point at the new bammel interconnect should align with that
+Same set point so as there is no swing service on the copano pipeline. Our
+Instructions should only come from entex to change the set point, and should
+Be confirmed with copano. We are not to provide any instantaneous swing
+Service on the copano lake creek lateral. Any swing provided by hpl for the
+Woodland' s load will be made into the copano 12" (formerly ksc) line as
+Historically done. There may be additional capacity needed on the lake creek
+Lateral because of the revised set point, but that is something that entex
+Has negotiated with copano independent of hpl. Still fuzzy?
+Edward d gottlob
+10/31/2000 07: 46 am
+To: steve hpl schneider/hou/ect@ ect
+Cc: pat clynes/corp/enron@ enron, james mckay/hou/ect@ ect
+Subject: re: copano
+Steve,
+Baseload means rateable flows throughout the 24 hour gas day? No swing with
+Weather?

@@ -1,0 +1,8 @@
+Subject: sitara availability
+As a precautionary measure because of yesterday' s power outage, the hardware
+That sitara runs on has been rebooted. Sitara should be available around
+7: 30 am thursday (06/29). Once the reboot is complete, all sitara
+Applications should be available.
+If you are getting this message and no longer use the sitara applications,
+Please contact the sitara hotline (x 37049) to have your name removed.
+Scott mills

@@ -1,0 +1,42 @@
+Subject: unify performance problem on wednesday
+Fyi.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod/hou/ect on 05/05/2000
+09: 01 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Rita wynne
+05/05/2000 08: 11 am
+To: brenda f herod/hou/ect@ ect
+Cc:
+Subject: unify performance problem on wednesday
+Fyi.........
+- - - - - - - - - - - - - - - - - - - - - - forwarded by rita wynne/hou/ect on 05/05/2000 08: 10 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: dave nommensen 05/04/2000 06: 56 pm
+To: george smith/hou/ect@ ect, edward terry/hou/ect@ ect, tricia
+Bowen/hou/ect@ ect, randall l gay/hou/ect@ ect, pattI sullivan/hou/ect@ ect, pat
+Clynes/corp/enron@ enron, carlos j rodriguez/hou/ect@ ect, robert
+Superty/hou/ect@ ect, bryce baxter/hou/ect@ ect, rita wynne/hou/ect@ ect, donna
+Greif/hou/ect@ ect
+Cc: jeff johnson/corp/enron@ enron, tommy j yanowski/hou/ect@ ect, beth
+Perlman/hou/ect@ ect, scott williamson/hou/ect@ ect, jim ogg/hou/ect@ ect, regan
+M smith/hou/ect@ ect, kenneth m harmon/hou/ect@ ect
+Subject: unify performance problem on wednesday
+As you are aware, the unify system experienced significant performance
+Problems wednesday from approx 9: 30 am - 11: 20 am. The duration of the
+Problem was due to a type of system behavior we had not experienced before.
+The problem was exacerbated by a multitude of additional user logins thinking
+That a fresh login might work better. Additional logins never improve
+Performance and generally degrade it, but that is another story. (there was
+Actually a single user with 21 sessions!) we had to" bounce" the server
+Twice to bring the system back to its normal level of performance.
+The good news is that we found out what caused the problem. It was not a
+Particular user or a particular report or process. It was actually an
+Intentional change to a specific table that we have done numerous times in
+The past, but this particular change had drastic side effects. We have
+Contacted sybase with this problem to see if they can help determine if the
+Behavior is a" feature" or a bug. In the meanwhile, we will do these types
+Of changes at night during scheduled outages.
+I apologize for the frustration, anxiety, and extra work brought on by this
+Problem and will take every precaution to see that it does not happen again.
+If you have any further questions or comments, please feel free to give me a
+Call.
+Dave n.

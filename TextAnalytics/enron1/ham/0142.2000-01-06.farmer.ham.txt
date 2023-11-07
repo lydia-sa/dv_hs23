@@ -1,0 +1,38 @@
+Subject: columbia energy history data
+FyI - we will probably be asked what historical information is needed in our
+Shop from a logistics perspective. I would suggest asking the new ces
+Employees to give us a list of what they know we would probably need to deal
+With historical questions on pipeline and customer physical imbalances as
+Well as any other information that helps support some of the large customer
+And asset transactions.
+Have each of them put together a list that we can consolidate and forward to
+The it folks.
+Thanks - bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by robert superty/hou/ect on 01/06/2000
+07: 56 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron technology
+From: inja chun 01/05/2000 01: 21 pm
+To: susan harrison/hou/ect@ ect, bryce baxter/hou/ect@ ect, sheri
+Thomas/hou/ect@ ect
+Cc: brent a price/hou/ect@ ect, brenda f herod/hou/ect@ ect, robert
+Superty/hou/ect@ ect, tommy j yanowski/hou/ect@ ect, sally beck/hou/ect@ ect,
+Larrissa sharma/hou/ect@ ect, anthony dayao/hou/ect@ ect, lawrence r
+Daze/hou/ect@ ect, richard burchfield/hou/ect@ ect, jpeople@ columbiaenergy. Com,
+Tommy j yanowski/hou/ect@ ect, beth s perlman/lon/ect@ ect, philippe a
+Bibi/hou/ect@ ect, mark friedman/hou/ect@ ect, mary solmonson/hou/ect@ ect, bob
+Klein/hou/ect@ ect, georgeanne hodges/hou/ect@ ect, lisa csikos/hou/ect@ ect,
+Rita wynne/hou/ect@ ect
+Subject: columbia energy history data
+The following summarizes the decisions made during our user & it joint
+Meeting today regarding the handling of ces historical data.
+A. Bryce baxter will coordinate with all user groups to identify ces reports
+That need to be actually printed as hard copy or transfered to files that
+Will be accessed via the electronic document management system.
+B. Jeff peoples will be working with bryce baxter to produce reports using
+Ces system via isdn line at enron building - this will continue to be part of
+His duty until the job is done (jeff joined ena as a member of sitara group).
+C. Larry daze will be working with jeff peoples and bryce baxter to ensure
+All reports are loaded on our edms with proper indexing.
+D. No need for manupulating ces history data is necessary (i. E. Downloading
+On spreadsheets). Therefore, no data will be kept on the disk other than
+Edms.

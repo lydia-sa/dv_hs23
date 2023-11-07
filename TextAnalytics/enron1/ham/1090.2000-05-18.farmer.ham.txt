@@ -1,0 +1,13 @@
+Subject: entex adjustments for 5/00
+I have reviewed the entex actuals and adjusted gas control' s entex factor for
+The month of may. I have found that entex estimates have been overstated by
+Approximately 10. 0 mmcf/day.
+Romeo:
+Will you make sure the estimates that are in pops are corrected to reflect
+The new volumes. This should help reduce some of the ua 4 that daren and pat
+Are trying to locate.
+The attached file has the changes that need to be made. Please let everyone
+On this mailing list know once the changes have been made.
+If you have any questions please call me at 36449.
+Thanks
+Gary h

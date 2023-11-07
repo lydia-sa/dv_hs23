@@ -1,0 +1,24 @@
+Subject: deletion of your enrononline user id
+Password deletion
+It has been noted that many users have passwords which match or are similar
+To their user id' s for internal enrononline applications (stack manager,
+Product manager, eol reports).
+This is a significant security concern. Therefore, there will be a sweep of
+Id' s and passwords at the end of the day on thursday, april 5. Any user id' s
+Which have passwords similar to the user id will be subject to deletion.
+Changing your password
+Passwords can be changed in either the stack manager or in eol reports.
+To change your password in the stack manager, once logged on, go to toolbar &
+Select" help" and then select" change password".
+The system will request you to enter your new password twice.
+To change your passsword in eol reports, open the reports application, log
+In, select" options" and" change password". The system will request you to
+Enter your new password twice. Please note that the password change
+Functionality within the reports application is new. If it does not appear on
+Your menu and you are running on a standalone machine, you will need to
+Logout at the windows level and then login again to receive the updated
+Version.
+If you have any questions, please call the enrononline help desk (houston:
+713 853 4357, london: + 44 20 7783 7783)
+Thank you for your assistance in preserving appropriate security.
+Dave

@@ -1,0 +1,42 @@
+Subject: fw:
+Fyi
+- - - - - original message - - - - -
+From: severson, russ
+Sent: wednesday, may 16, 2001 10: 43 am
+To: baumbach, david
+Subject: re:
+Done
+From: david baumbach/enron@ enronxgate on 05/16/2001 09: 52 am
+To: russ severson/hou/ect@ ect
+Cc:
+Subject: re:
+Russ, different subject... Could you go ahead and change (or add) in sitara position mgr where lonestar, waha, carthage and katy roll up to. Instead of rolling up to ena im texas, have them roll up to ena im lonestar. I need this changed because I think the aep people will still have access to see ena im texas on sitara position mgr through the end of may and we don' t want them to see our positions in our new portfolios.
+Dave
+- - - - - original message - - - - -
+From: severson, russ
+Sent: wednesday, may 16, 2001 9: 49 am
+To: baumbach, david
+Subject: re:
+The first rollup desks created, display but do not work. I have a call into the it group on why they even display.
+Russ
+From: david baumbach/enron@ enronxgate on 05/16/2001 09: 36 am
+To: russ severson/hou/ect@ ect
+Cc:
+Subject: re:
+So the all central and all west I see on deal ticket don' t work?
+Dave
+- - - - - original message - - - - -
+From: severson, russ
+Sent: wednesday, may 16, 2001 9: 35 am
+To: baumbach, david
+Subject: re:
+Rollup desks do not work in ticker. Rollup desks just subtotal positions from the desks that make them up, they do not see deals on
+A deal level. You also can not drill down to a deal level from position manager for the same reason.
+Russ
+From: david baumbach/enron@ enronxgate on 05/16/2001 09: 05 am
+To: russ severson/hou/ect@ ect
+Cc:
+Subject:
+Russ,
+I can see all - texas on tds position mgr but not on the new deal ticker. Any thoughts on why that is?
+Dave

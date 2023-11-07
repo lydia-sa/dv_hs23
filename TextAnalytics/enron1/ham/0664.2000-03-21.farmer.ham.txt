@@ -1,0 +1,75 @@
+Subject: re: pg & e texoma volumes
+Fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by michael eiben/hou/ect on 03/21/2000 04: 18
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Gary anderson@ enron on 03/21/2000 02: 25: 52 pm
+To: michael eiben/hou/ect@ ect
+Cc: jeff may/gpgfin/enron@ enron, charlotte hawkins/hou/ect@ ect, robert e
+Lloyd/hou/ect@ ect, gary a hanks/hou/ect@ ect, laurI a allen/hou/ect@ ect,
+George grant/hou/ect@ ect, pat clynes/corp/enron@ enron, steve
+Venturatos/hou/ect@ ect, brenda f herod/hou/ect@ ect
+Subject: re: pg & e texoma volumes
+This is an outside measured volume that we don' t receive volumes on until
+Month' s end so systematically, no information equals zero. Spi, the software
+Vendor for mips is investigating all of the rules currently in place for file
+Transfers, particularly 0 volumes. The only possible solution is to tag all
+Zero volumes sent in the nightly file process as (i) incomplete. I will let
+You know the outcome of this investigation and the monies required to
+Complete. We may require a work order to complete based on the outcome of the
+Investigation.
+Michael eiben@ ect
+03/21/2000 10: 50 am
+To: jeff may/gpgfin/enron@ enron, gary anderson/gpgfin/enron@ enron
+Cc: charlotte hawkins/hou/ect@ ect, robert e lloyd/hou/ect@ ect, gary a
+Hanks/hou/ect@ ect, laurI a allen/hou/ect@ ect, george grant/hou/ect@ ect, pat
+Clynes/corp/enron@ enron, steve venturatos/hou/ect@ ect, brenda f
+Herod/hou/ect@ ect
+Subject: pg & e texoma volumes
+Jeff/gary,
+Where is measurement in the process of sending pipeline operations more
+Complete data? We continue to have this problem at various bidirectional
+Meters and meter 980071 below is the latest casuality. When mips sends
+Pipeline operations a zero prelim, this becomes the best available number and
+Overlays the estimate that gas control sends us. When this happens &
+Scheduling doesn' t catch to override the zero, the desk' s expense is
+Understated. This is causing a huge mess for texas operations. What is the
+Plan to move this up on measurements priority list? We need an answer asap!!
+Charlotte,
+At what other meters are we having this problem?
+Mve
+- - - - - - - - - - - - - - - - - - - - - - forwarded by michael eiben/hou/ect on 03/21/2000 10: 30
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: charlotte hawkins 03/21/2000 09: 54 am
+To: jeff may/gpgfin/enron@ enron, michael eiben/hou/ect@ ect
+Cc: pat clynes/corp/enron@ enron, george grant/hou/ect@ ect, robert e
+Lloyd/hou/ect@ ect, gary a hanks/hou/ect@ ect
+Subject: pg & e texoma volumes
+I spoke with romeo d' souza this morning regarding the on - going problem of
+Mips feeding zeros to pops when incomplete data is received.
+In light of the e - mail below regarding how important it is that we receive
+Accurate data from mips.... Could you please update me on the status of
+This correction.
+Thank you so much.
+Charlotte hawkins
+- - - - - - - - - - - - - - - - - - - - - - forwarded by charlotte hawkins/hou/ect on 03/21/2000
+09: 35 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+LaurI a allen
+03/21/2000 09: 04 am
+To: robert e lloyd/hou/ect@ ect, tom acton/corp/enron@ enron, charlotte
+Hawkins/hou/ect@ ect
+Cc: daren j farmer/hou/ect@ ect, pat clynes/corp/enron@ enron, bryan
+Hull/hou/ect@ ect, gary a hanks/hou/ect@ ect
+Subject: pg & e texoma volumes
+In reviewing some of the imbalance numbers, I discovered that valero texoma
+(#71) bav volumes have not fed into pops since 3/14 causing an out of balance
+At the meter in excess of 500, 000 mm month to date. The more critical part of
+This problem, however, is that pops has fed 0 volumes back to sitara on some
+Of the hplc deals. This means that these purchase volumes (expenses) have
+Not been picked up in tom' s p & l and are, instead, sitting in ua 4. To the
+Extent that the purchase prices vary from the ua 4 value, the p & l may take a
+Hit when these actual volumes flow through.
+I realize that kim is out and that you guys are stretched thin, however, a
+Problem of this magnitude needs to be addressed as soon as it' s discovered.
+Someone needs to be overriding the 0 volumes so that sitara is receiving
+Correct information and the p & l is kept as accurate as possible.
+Please give me a call if you have any questions.

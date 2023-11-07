@@ -1,0 +1,9 @@
+Subject: winter cap for entex
+When you get allocations for january, we need to look at daily volumes for
+Transaction #1. Towards the end of the month, entex was approaching its jan
+Winter cap volume of 550, 000/day. If the daily volume for trans #1 comes out
+Greater than 550, the excess must be charged at gd + 10. The numbers thus far
+Show that they did not exceed 550. However, the allocated volumes tend to
+Differ.
+Thanks,
+Ac

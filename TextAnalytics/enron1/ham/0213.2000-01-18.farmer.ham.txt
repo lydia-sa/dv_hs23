@@ -1,0 +1,68 @@
+Subject: re: meter 989614
+Heads up on this. They will be putting in a firm ticket starting in january.
+I have explained what a problem this causes your group, and we are working on
+A solution. Unfortanuately, this whole thing was missed, until susan started
+Asking for a ticket.
+Julie
+- - - - - - - - - - - - - - - - - - - - - - forwarded by julie meyers/hou/ect on 01/18/2000 03: 39
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Vance l taylor
+01/18/2000 03: 29 pm
+To: julie meyers/hou/ect@ ect, donald p reinhardt/hou/ect@ ect
+Cc:
+Subject: re: meter 989614
+Yes,
+Vlt
+Julie meyers
+01/18/2000 03: 11 pm
+To: vance l taylor/hou/ect@ ect
+Cc:
+Subject: re: meter 989614
+Will this be for january forward?
+Vance l taylor
+01/18/2000 03: 08 pm
+To: julie meyers/hou/ect@ ect
+Cc: susan d trevino/hou/ect@ ect, pat clynes/corp/enron@ enron, melissa
+Graves/hou/ect@ ect, donald p reinhardt/hou/ect@ ect, susan smith/hou/ect@ ect
+Subject: re: meter 989614
+Julie,
+I have received the partially executed committed reserves contract from
+Etoco. The contract not only has meter #9614 attached to it but also meters
+9651 & 9672. We will generate a ticket to be entered into sitara asap.
+Vlt
+X 3 - 6353
+Julie meyers
+01/18/2000 02: 39 pm
+To: vance l taylor/hou/ect@ ect
+Cc: susan d trevino/hou/ect@ ect, pat clynes/corp/enron@ enron, melissa
+Graves/hou/ect@ ect
+Subject: meter 989614
+What is the status of this meter. This was the deal that was under etoco.
+Have we gotten a ticket setup yet?
+Julie
+- - - - - - - - - - - - - - - - - - - - - - forwarded by julie meyers/hou/ect on 01/18/2000 02: 38
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Susan d trevino
+01/18/2000 11: 17 am
+To: julie meyers/hou/ect@ ect
+Cc: pat clynes/corp/enron@ enron
+Subject: meter 989614
+Julie, will there be a new deal/contract set up for this meter? There are
+Valid actuals for 1/1 and 1/2 and I need to allocate these volumes to a
+Contract otherwise I will keep getting an allocation exception error.
+Thanks, susan.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by susan d trevino/hou/ect on 01/18/2000
+11: 11 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Susan d trevino
+01/12/2000 11: 20 am
+To: julie meyers/hou/ect@ ect
+Cc:
+Subject: meter 989614
+Julie,
+Per our conversation yesterday, the deals/contracts associated with this
+Meter have been terminated as of 12/31/99. Please let me know what the
+Status is on this matter because the meter is still active and flowing and
+There is no contract to allocate to.
+Thanks,
+Susan
+X 35796

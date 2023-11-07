@@ -1,0 +1,27 @@
+Subject: new stack manager
+There is a new version of stack manager which is being released this evening,
+For use on monday morning.
+Changes
+1)" inactivate suspended children" - new menu item available by
+Right - clicking on a parent product. It will change all child products of the
+Highlighted parent from" suspended" to" inactive". Note that this will be
+Applied only to the product which you highlight. It will also show available
+When highlighting products which are not parents, but it will have no effect.
+2) the transaction list has been amended to correctly display only those
+Transactions completed on the calendar day (problem has affected australia
+And singapore).
+3) a constant spread which is changed from the front page of the stack
+Manager will stay as changed for that product. The spread will persist even
+If transactions occur.
+Background
+Suspended child products continue to have their prices updated as the price
+Of the parent changes. Inactive child products do not have their prices
+Updated. The price update process slows down enrononline processing and stack
+Manager response, so it is advantageous to ensure all non - active products are
+In an inactive state.
+If you have any questions on the above, please contact the enrononline call
+Center at:
+North america: 713 853 4357 (help)
+Asia and australia: + 61 2 9229 2300
+Europe and other regions: + 44 (0) 20 7783 7783
+Dave

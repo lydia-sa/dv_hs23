@@ -1,0 +1,7 @@
+Subject: volume feedback from unify to sitara
+Fyi: the following is the unify to sitara bridge back schedule from the sitara team. Unify can still send the files to sitara but sitara will not process during the" no bridge back" times listed. This list is in response to several inquiries to me regarding slow bridge - back times to sitara. Hours are listed in 24 hr format central time.
+1. Monday - friday 14: 00 - 19: 49 hrs single thread
+2. Monday - friday 19: 50 - 24: 00 hrs multI thread
+3. Monday - friday 00: 01 - 13: 59 hrs no bridge back
+4. Sat - sunday 12: 50 - 24: 00 hrs multithread
+5. Sat - sunday 00: 01 - 12: 49 hrs no bridge back

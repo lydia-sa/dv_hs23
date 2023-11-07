@@ -1,0 +1,18 @@
+Subject: please process immediately to avoid loss of information
+Read very carefully
+Your migration date is: today!!
+Please make sure you are connected to the network before you launch this
+Application.
+Click the button only once!
+If a pop - up box appears, prompting you to" abort, cancel or trust signer"
+Please select trust signer. This box may appear multiple times. Please
+Select trust signer for every instance.
+Please note: you will not notice any change to your existing personal
+Address book, journal entries, private folder structure or calendar after
+Running this application. Any information you add to your personal address
+Book, journal entries or calendar after you process this tool will need to be
+Manually imported into outlook after you are migrated.
+Failure to run this application will result in your data not being imported
+To outlook.
+Thank you for your cooperation,
+Outlook 2000 migration team

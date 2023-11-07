@@ -1,0 +1,5 @@
+Subject: revision - enron/hpl actuals for june 25, 2000
+June 25, 2000
+Teco tap 50. 000/enron; 59. 917/hpl iferc
+Should have been:
+Teco tap 50. 000/enron; 60. 417/hpl iferc

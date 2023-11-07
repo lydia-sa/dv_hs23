@@ -1,0 +1,32 @@
+Subject: re: pg & e texoma volumes
+Daren and lauri:
+We do have a problem with some of our mirrored meters. When mips receives an
+" incomplete" from the parent meter it sends a - 0 - to pops. Yes, this is a
+Big problem. Our pops team (romeo d' souza) has identified this problem and
+Notified mips. However, he was told this was not a priority item. In the
+Mean time we are overriding the volumes in pops with the estimated volumes.
+This particular meter was correct last night, the 14 th rolled last night from
+Mips and overrode the bav with a - 0 - from day 14 forward.
+This was corrected this morning and the meter re - allocated.
+Thanks,
+Charlotte
+LaurI a allen
+03/21/2000 09: 04 am
+To: robert e lloyd/hou/ect@ ect, tom acton/corp/enron@ enron, charlotte
+Hawkins/hou/ect@ ect
+Cc: daren j farmer/hou/ect@ ect, pat clynes/corp/enron@ enron, bryan
+Hull/hou/ect@ ect, gary a hanks/hou/ect@ ect
+Subject: pg & e texoma volumes
+In reviewing some of the imbalance numbers, I discovered that valero texoma
+(#71) bav volumes have not fed into pops since 3/14 causing an out of balance
+At the meter in excess of 500, 000 mm month to date. The more critical part of
+This problem, however, is that pops has fed 0 volumes back to sitara on some
+Of the hplc deals. This means that these purchase volumes (expenses) have
+Not been picked up in tom' s p & l and are, instead, sitting in ua 4. To the
+Extent that the purchase prices vary from the ua 4 value, the p & l may take a
+Hit when these actual volumes flow through.
+I realize that kim is out and that you guys are stretched thin, however, a
+Problem of this magnitude needs to be addressed as soon as it' s discovered.
+Someone needs to be overriding the 0 volumes so that sitara is receiving
+Correct information and the p & l is kept as accurate as possible.
+Please give me a call if you have any questions.

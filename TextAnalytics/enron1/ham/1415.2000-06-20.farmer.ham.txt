@@ -1,0 +1,45 @@
+Subject: unify stress test next week with sybase 12. 0
+Yvette/pat/daren - please send this to your gas schedulers.
+Hi,
+You probably already heard... Test of the new sybase data base release is off
+For today. Testing will resume tomorrow, wed 6/21 at noon. People should at
+Least verify their security access today. If you do not have access, please
+Contact diane niestrath at 3 - 9931 or dave mcmullan at 3 - 9127.
+Diane niestrath
+From: dave nommensen 06/16/2000 05: 25 pm
+To: susan harrison/hou/ect@ ect, brenda f herod/hou/ect@ ect, bryce
+Baxter/hou/ect@ ect, rita wynne/hou/ect@ ect, pat clynes/corp/enron@ enron,
+Randall l gay/hou/ect@ ect, george smith/hou/ect@ ect, edward
+Terry/hou/ect@ ect, beverly beaty/hou/ect@ ect, carrie hollomon/hou/ect@ ect
+Cc: jeff johnson/corp/enron@ enron, scott williamson/hou/ect@ ect, john
+Pyle/corp/enron@ enron, jim ogg/hou/ect@ ect, jaikishore bharathi/hou/ect@ ect,
+Regan m smith/hou/ect@ ect, kenneth m harmon/hou/ect@ ect, paul f
+Poellinger/hou/ect@ ect
+Subject: unify stress test next week with sybase 12. 0
+We have done some preliminary testing of the latest version of sybase
+(version 12). We have seen very positive results from our initial tests and
+Would like to proceed with a" stress test" (not to be confused with me
+Showing up each day at work). We would like to do 2 tests next week due to
+Hardware and business restrictions.
+The test would be similar to those from late - 1998 (ah, those were the
+Days!). We will ask all users, as well as i. T. Folks, to run as many of
+Their usual processing during a scripted time frame from approx noon - 1: 30 pm
+On tuesday and wednesday. Be sure to order some yummy pizza or sandwiches for
+Your staff!
+The sybase 12. 0 environment can be accessed via start/programs/test
+Applications/unify applications/unify gas - power stage. On the login window,
+Select server =" ase 12 test". If you usual production password does not
+Work, try" houston". If that does not work, try a neighbor' s (audit says
+That fine, its just a test). Each user should plan to run several sessions
+Where permissible to simulate a heavy load on the system and to make up for
+Those not able to participate during this time. Please have your staff try
+To login some time monday to insure they have access.
+The test script during the time period will be:
+12: 00 - 1: 30 logistics: pathing, nominating, running some reports
+12: 20 - 1: 30 volume management: do your thing
+12: 40 - 1: 30 settlements/accounting: pile in
+Please let me know if your area would not be able to assist in this very
+Important test. The results of these 2 tests will dictate whether we should
+Pursue our migration to this new release in mid - july. The less bid weeks
+With poor system performance the better!
+Thanks in advance for your help, d. N.

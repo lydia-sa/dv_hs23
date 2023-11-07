@@ -1,0 +1,12 @@
+Subject: pleo 0004 2000
+Daren,
+When I look back in cpr for the delivery periods of 10/00 - 12/00 on cpr pipeline exchange, I do not see anything being flashed as an imbalance, i. E. The buys and sales always equal in cpr. However, we are booking an imbalance every month on the parking and lending contract. Should there be something in cpr for these volumes? Let me know because it is causing an oa variance for us. Thanks!
+- - - - - - - - - - - - - - - - - - - - - - forwarded by rita wynne/hou/ect on 04/24/2001 12: 58 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: thu t nguyen 04/24/2001 12: 14 pm
+To: rita wynne/hou/ect@ ect
+Cc:
+Subject: pleo 0004 2000
+Imbalances:
+Oct 26687
+Nov - 44177
+Dec - 9248

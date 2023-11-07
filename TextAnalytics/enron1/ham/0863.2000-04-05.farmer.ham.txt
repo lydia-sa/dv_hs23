@@ -1,0 +1,129 @@
+Subject: re: sitara release (re: changes in global due to consent to
+Assignment)
+Fyi....
+This change went in for the deal validation group. It gives them the
+Ability to change counterparties names after bridge back.
+Impact to logistics - unify
+If a counterparty name change takes place to deals that have been bridge
+Backed, it could cause problems on edI pipes as that new counterparty name
+Will flow over to unify and repathing should eventually take place.
+One problem may be with the imbalance data sets, which are not in production
+Yet...... (edI imbalance qtys would not match up to paths)
+This may also cause an issue with the scheduled quantities (especially where
+Nominations were sent for entire month)
+Can' t remember the rules on this one, but I think unify does have some safe
+Guards (idiot proofs) to force re - pathing.
+Unify does have the ability to over - ride duns numbers, yet would still cause
+An additional step for edI the scheduler would need to think through in order
+To get a clean quick response.
+What are (if any) impacts to vol mgt if counterparty name changes take
+Place? (prior periods? Re - pathing?)
+I have a call into diane and dave both. After speaking w/them, hopefully i
+Can get a clear understanding of the true impact. I am sure we' ll need to
+Put some processes and procedures together for deal validation to follow when
+These type of changes are needed.
+Will keep you posted.
+Thanks,
+Dg
+From: thomas engel 04/05/2000 09: 44 am
+To: kathryn cordes/hou/ect@ ect, dana daigle/corp/enron@ enron, elizabeth l
+Hernandez/hou/ect@ ect, julie meyers/hou/ect@ ect, b scott palmer/hou/ect@ ect,
+Stephanie sever/hou/ect@ ect, dianne j swiber/hou/ect@ ect, peggy
+Hedstrom/cal/ect@ ect, dianne seib/cal/ect@ ect
+Cc: sylvia a campos/hou/ect@ ect, linda s bryan/hou/ect@ ect, faye
+Ellis/hou/ect@ ect, donna consemiu/hou/ect@ ect, scott mills/hou/ect@ ect, russ
+Severson/hou/ect@ ect, martha stevens/hou/ect@ ect, karie hastings/hou/ect@ ect,
+Regina perkins/hou/ect@ ect, imelda frayre/hou/ect@ ect, william e
+Kasemervisz/hou/ect@ ect, hunaid engineer/hou/ect@ ect, steven
+Gullion/hou/ect@ ect, larrissa sharma/hou/ect@ ect, donna greif/hou/ect@ ect
+Subject: sitara release (re: changes in global due to consent to assignment)
+Regarding the ability to change counterparties on deals in sitara with
+Confirmed volumes - tom' s words of caution:
+If someone calls you and wants to change a counterparty - we created the
+Ability for you to invalidate the deal - and
+Then change the counterparty - however - I did add a warning message:
+" warning - changing counterparty on deal with confirmed volumes - make sure
+Pipeline allows this change."
+Some pipelines do not allow us to change counterparties after there is
+Feedback - I assume for the same reasons
+We had this rule - it used to blow up our old scheduling systems
+(pre - unify). Some pipelines will require a new
+Deal and we will have to zero out the old deal.
+Before you make the change - make sure the logistics person is aware - just
+In case it causes problems with their
+Pipeline. Sorry - I don' t know which pipes these are - you will have to ask
+The unify team.
+There is one rule still in place - you can change from ena - im east to ena - im
+Market east - but not from
+Ena - im texas to hplc - im hplc - when changing business units - they must be
+The same legal entity.
+" warning - not the same legal entity"
+Also - beware of making contract and counterparty changes to service deals
+(transport capacity, storage, cash out).
+Once the deal is invalidated - there are no rules. Don' t forget - the items
+Were locked down for a reason.
+If you invalidate a service deal - and change the previously locked down
+Data that was validated - and someone used these
+Deals in unify - it is highly likely that the unify deals and paths created
+Using these deals will get corrupted. Always check
+With someone from unify to make sure no one used these deals for anything in
+Unify.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by thomas engel/hou/ect on 04/05/2000 09: 47
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: scott mills on 04/04/2000 07: 38 pm
+To: kathryn cordes/hou/ect@ ect, dana daigle/corp/enron@ enron, elizabeth l
+Hernandez/hou/ect@ ect, julie meyers/hou/ect@ ect, b scott palmer/hou/ect@ ect,
+Stephanie sever/hou/ect@ ect, dianne j swiber/hou/ect@ ect
+Cc: steve jackson/hou/ect@ ect, thomas engel/hou/ect@ ect, sylvia a
+Campos/hou/ect@ ect, linda s bryan/hou/ect@ ect, faye ellis/hou/ect@ ect, donna
+Consemiu/hou/ect@ ect
+Subject: sitara release (re: changes in global due to consent to assignment)
+With the release that was put out tuesday evening, deal validation should be
+Able to change the counterparty on deals where the volume is something other
+Than expected (e. G. Confirmed, nominated, scheduled, etc.).
+In addition, this release will also capture" near - time" the contract changes
+That are made in global. This means that need for server bounces will not be
+Necessary.
+New/changes to contracts will show up without having to get out of deal
+Manager.
+New counterparties, and new/changes to facilities will require getting out
+Of all active sitara apps (except for launch pad).
+Once out of all apps, start a new app - the respective information that you
+Are looking for will appear.
+I mention" near - time" because we are constrained by the amount of time it
+Takes for the change in global data to trigger an alert for sitara who then
+Updates its information
+Srm (x 33548)
+Cyndie balfour - flanagan@ enron
+04/04/2000 03: 41 pm
+To: connie sutton/hou/ect@ ect, linda s bryan/hou/ect@ ect, kathryn
+Cordes/hou/ect@ ect, scott mills/hou/ect@ ect, richard elwood/hou/ect@ ect, dave
+Nommensen/hou/ect@ ect, kenneth m harmon/hou/ect@ ect, dana
+Daigle/corp/enron@ enron, kathryn cordes/hou/ect@ ect, elizabeth l
+Hernandez/hou/ect@ ect, julie meyers/hou/ect@ ect, b scott palmer/hou/ect@ ect,
+Stephanie sever/hou/ect@ ect, dianne j swiber/hou/ect@ ect, gayle
+Horn/corp/enron@ enron, brant reves/hou/ect@ ect, russell diamond/hou/ect@ ect,
+Debbie r brackett/hou/ect@ ect, steve jackson/hou/ect@ ect
+Cc:
+Subject: changes in global due to consent to assignment
+The following changes will be made in the global contracts database due to
+Receipt of executed consent to assignment for the following contracts:
+Current counterparty name contract type contract #' new' counterparty
+Name
+Ces - commonwealth energy services gisb 96029892 commonwealth energy
+Services
+Ces - samuel gary jr. & associates, inc gisb 96029302 samuel gary jr. &
+Associates
+Ces - south jersey gas company gisb 96029143 south jersey gas company
+Cp name change and contract type correction (contract type different than
+That provided by ces)
+Per ces
+Ces - southwest gas corporation 1/1/98 gisb 96029146
+Per contract file
+Ces - southwest gas corporation 04/14/93 master purchase/sale interruptible
+(will edit global #96029146)
+&
+Ces - southwest gas corporation 12/01/94 master sale firm (created new
+Global record to accommodate this k, #96037402)
+Please note that southwest gas corporation has consented to the assignment of
+Both of these contracts.

@@ -1,0 +1,21 @@
+Subject: entex apr 3 noms
+- - - - - - - - - - - - - - - - - - - - - - forwarded by tom acton/corp/enron on 04/02/2001 11: 45
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Ronald _ s _ fancher@ reliantenergy. Com on 04/02/2001 11: 32: 33 am
+To: tom. Acton@ enron. Com, liz. Bellamy@ enron. Com
+Cc:
+Subject: apr 3 noms
+This is a multipart message in mime format.
+- - = _ mixed 005 acf 2486256 a 22 _ =
+Content - type: multipart/alternative; boundary =" = _ alternative
+005 acf 2486256 a 22 _ ="
+- - = _ alternative 005 acf 2486256 a 22 _ =
+Content - type: text/plain; charset =" us - ascii"
+- - = _ alternative 005 acf 2486256 a 22 _ =
+Content - type: text/html; charset =" us - ascii"
+- - = _ alternative 005 acf 2486256 a 22 _ = - -
+- - = _ mixed 005 acf 2486256 a 22 _ =
+Content - type: application/x - ms - excel; name =" hpl - apr. Xls"
+Content - disposition: attachment; filename =" hpl - apr. Xls"
+Content - transfer - encoding: binary
+- hpl - apr. Xls

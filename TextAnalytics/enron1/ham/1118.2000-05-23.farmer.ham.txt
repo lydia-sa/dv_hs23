@@ -1,0 +1,52 @@
+Subject: 24 x 5 products
+Please read the attached and make sure the schedulers understand this new
+Product. This product will be available at all physical delivery points
+Within eol that the texas desk currently trades. Thanks.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod/hou/ect on 05/23/2000
+11: 33 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron north america corp.
+From: eric bass 05/23/2000 11: 26 am
+To: david baumbach/hou/ect@ ect, o' neal d winfree/hou/ect@ ect, michael
+Walters/hou/ect@ ect, bryan hull/hou/ect@ ect, jeff a crook/hou/ect@ ect, ami
+Chokshi/corp/enron@ enron
+Cc: steve venturatos/hou/ect@ ect, brenda f herod/hou/ect@ ect
+Subject: 24 x 5 products
+We are going to be rolling out a new product on eol starting this bidweek.
+This product will be for physical delivery only on the weekdays (no weekend
+Delivery). Currently, the eol/sitara bridge cannot handle this type of
+Logic, so these deals will have to be input manually.
+Let me know if you have further questions.
+Eric
+- - - - - - - - - - - - - - - - - - - - - - forwarded by eric bass/hou/ect on 05/23/2000 11: 23 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dale neuner 05/23/2000 10: 26 am
+To: david forster/corp/enron@ enron, sherI thomas/hou/ect@ ect, jennifer
+Deboisblanc denny/hou/ect@ ect, jason althaus/corp/enron@ enron, jason
+Althaus/corp/enron@ enron, melba lozano/hou/ect@ ect
+Cc: eric bass/hou/ect@ ect
+Subject: 24 x 5 products
+We are rolling out the use of the 24 x 5 nat gas product commencing tomorrow,
+May 24 th.
+The product is a month - long physical nat gas product traded off the texas
+Desk. It will be identified as follows:
+Us gas phy exxon katy wkd juno 0 usd/mm
+This product is different from the usual products traded on the texas desk in
+That the product description has an
+Indicator of wkd, which designates that the product only moves gas on a day
+That is a monday, tuesday, wednesday,
+Thursday or friday.
+These products will not bridge into sitara. Risk personnel will need to be
+Diligent to identify these products based
+On the information in the product description to ensure that the products are
+Entered into sitara correctly (presumably -
+Strips of monday - friday trades and the corresponding month - starting days
+And/or month - ending days).
+We understand the potential impact of having to manually input these
+Transactions and have asked the appropriate
+Systems personnel to examine the links between eol and sitara and consider
+Building bridge capability. In the
+Interim, we anticipate that the trading volume on these products will be low,
+And will ask for higher prioritization of the
+Bridging in the event that volumes increase.
+Dale
+3 - 9746

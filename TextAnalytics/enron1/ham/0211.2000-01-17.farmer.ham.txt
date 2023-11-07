@@ -1,0 +1,9 @@
+Subject: reliant energy entex transaction #4
+Just fyi,
+The following transaction expires february 29, 2000:
+Transaction #4
+5, 000/day
+Price = 2. 71 fixed
+Note: this volume will roll up into transaction #1 (excess volume priced at
+Index +. 769)
+Thanks.

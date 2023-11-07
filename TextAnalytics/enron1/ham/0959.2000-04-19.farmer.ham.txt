@@ -1,0 +1,9 @@
+Subject: eol application id and password
+Darren,
+Your id and password for eol prod stack manager is as follows:
+Id: dfarmer
+Password: dfarmer
+If you have any questions please feel free to contact me.
+Thanks
+Tara
+X 34523

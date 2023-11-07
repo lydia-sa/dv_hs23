@@ -1,0 +1,29 @@
+Subject: re: may wellhead" spot" purchases - request
+Vance,
+Deals have been created and entered in sitara as noted below:
+Bob
+From: vance l taylor/enron@ enronxgate on 04/24/2001 04: 25 pm
+To: robert cotten/hou/ect@ ect
+Cc: janie aguayo/hou/ect@ ect, lisa hesse/hou/ect@ ect, julie meyers/hou/ect@ ect, cynthia hakemack/hou/ect@ ect, donald p reinhardt/enron@ enronxgate, susan smith/enron@ enronxgate, melissa graves/enron@ enronxgate, george weissman/hou/ect@ ect
+Subject: may wellhead" spot" purchases - request
+Bob,
+Hplc will be purchasing wellhead gas from the producers listed below for the production month of may, 2001. This production will be purchased on a" spot" basis and deal tickets should be created and entered into sitara based on the following information:
+Counterparty meter volume deal #price
+Apache corporation 0435 1409 mmbtu/d 745529 100% if/hsc less $0. 10
+Whiting petroleum corp 6523 113 mmbtu/d 749897 85% if/hsc
+El paso merchant energy, lp 5923 622 mmbtu/d 749898 100% if/hsc less $0. 26
+El paso merchant energy, lp 5848 203 mmbtu/d 749899 85% if/hsc swift energy 2630 21 mmbtu/d 749900 100% if/hsc less $1. 38
+Duke energy trading & marketing 6347 147 mmbtu/d 749901 85% if/hsc
+Hesco gathering oil co. 6063 289 mmbtu/d 421856 85% if/hsc
+Embassy natural gas inc. 6598 lmmbtu/d 749907 85% if/hsc
+Stone energy 9696 2745 mmbtu/d 749909 100% if/hsc less $0. 20
+The houston exploration 9696 3407 mmbtu/d 749910 100% if/hsc less $0. 20
+Amerada hess (hess energy svcs) 0435 1104 mmbtu/d 745527 100% if/hsc less $0. 14
+Crosstex energy services, ltd. 0435 656 mmbtu/d 745552 100% if/hsc less $0. 12
+TrI - union development 0435 149 mmbtu/d 745560 100% if/hsc less $0. 055
+Ranger oil company 9871 200 mmbtu/d 749911 85% if/hsc if 300/d
+These are producer svcs. Deals and should be tracked in the im wellhead portfolio... Attached to the gathering contract.
+Additionally, if at all possible, please do not confirm the apache and crosstex deals as we expect to receive term firm contracts in the very near future.
+Thanks,
+Vlt
+X 3 - 6353

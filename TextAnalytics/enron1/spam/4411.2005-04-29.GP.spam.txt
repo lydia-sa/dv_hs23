@@ -1,0 +1,2 @@
+Subject: hello
+Mail transaction failed. Partial message is available.

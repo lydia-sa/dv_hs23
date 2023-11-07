@@ -1,0 +1,20 @@
+Subject: valero
+Each meter is now to be treated seperately: tickets have been created
+Accordingly.
+Meter 1233
+Base 148376
+Swing 148382
+Buyback 148381
+Meter 1394
+Base 148390
+Swing 148391
+Buyback 148396
+Meter 8018
+Base 148376
+Swing 148382
+Buyback 148381
+Volume management will need to set up accounting arrangements to cover
+November and december 1999. Scheduling will repath and renom unify, and
+Reallocate pops for january.
+If anyone has anything to add to this please let me know.
+Ken

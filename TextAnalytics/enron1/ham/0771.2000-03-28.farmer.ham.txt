@@ -1,0 +1,39 @@
+Subject: fyI - new product on eol
+Just so everyone is on the same page:
+Based on jennifer and dale' s discussions with eric bass, a new" tokenized
+Period" will be set up in eol. The intent of this period (quick overview) is
+To allow for gas flow monday through friday and no flow on the weekends.
+This will generally be traded for in full month or rest of the month
+Increments.
+It is my understanding the although the trade can be conveyed correctly to
+The customer and priced accordingly using eol, the trade itself (with
+Multiple monday - friday, no flow during weekend periods) cannot be handled
+Internally by eol. Just as eol is not able to handle this trade, the sitara
+Bridge from eol cannot handle this trade. Because of this, there should be
+Heighten attention by trade capture given to the eol bridge monitor. These
+Trades will error out and will have to be entered manually.
+An effort needs to be evaluated and prioritized by both applications (eol and
+Sitara) on how a deal with multI - periods can flow without human
+Intervention. This has not been started. In the meantime, a deal of this
+Nature will have to be entered manually.
+How do I know that a particular deal has multI - period flow? Once the eol
+Product has been set up, jennifer and/or dale will let all involved know.
+The person (s) responsible for entering the deal will have to understand what
+Is meant by the eol product' s delivery period and enter the deal
+Accordingly.
+For example, assume that a deal has been traded for april:
+Four delivery periods (separate lines) should be included in the sitara
+Ticket
+Start: 04/03 stop: 04/07
+04/10 04/14
+04/17 04/21
+04/24 04/28
+Each delivery period (line) should have the same pricing
+Remember to enter the eol deal number when creating the sitara trade.
+Also remember that paths created in unify assume the stop date is open
+Ended. Every effort needs to be made to make sure the appropriate end date
+Is on the path; otherwise
+The number of reconciling items will increase.
+Please forward this information to anyone else you think might be impacted.
+Any concerns, please contact sherI thomas or myself.
+Srm (x 33548)

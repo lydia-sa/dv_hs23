@@ -1,0 +1,101 @@
+Subject: enrononline internal launch for phase 2
+On wednesday, sept. 13, we will be using the new version of enrononline
+(website and stack manager) for all north american internal users.
+Please log into the temporary website: http:// prod. Enrononline. Com (no www.)
+This is a live website and all trades are real.
+Content of this email
+1. Introduction
+2. Version 2. 0 launch date
+3. New website features
+4. New stack manager features
+5. Your participation
+6. Contacts
+1. Introduction
+We are planning to launch version 2. 0 of enrononline to customers within the
+Next few days. In preparation for this launch, the new web site will be
+Released to internal users in north america on wednesday, september 13 th.
+European internal users will be launched shortly after north america.
+External customers will follow a few days later.
+One of the purposes of the internal launch is to simulate the system load
+Which will be caused by the full customer launch. Accordingly, we appreciate
+Your cooperation in helping us to simulate this load by logging into
+Http:// prod. Enrononline. Com (no www.) this is a live web site and all trades
+Are real.
+New features (as per recent presentations and training sessions) include:
+? Price limit orders
+? Enhanced customization
+? Floating windows
+? Market news and quotes
+? Weather maps and tables
+? Industry - specific publications
+? Market - specific homepages
+2. Version 2. 0 launch date
+Enrononline version 2. 0 will be launched to the public a few days after our
+Internal launch. We will be using the new version internally from wednesday,
+Sept. 13. This will provide an opportunity for you to become familiar with
+Using the new application in the production environment before our customers
+Start to use it.
+3. New website feature details
+Price limit orders: customers have the ability to set up orders that
+Automatically execute as soon as the price and volume requested become
+Available. The limit orders remain open in the system until they are
+Executed, cancelled by the user, or when they expire. All pending orders will
+Expire no later than 12 hours after being placed.
+Pending price limit orders will appear in a new window below the quotes
+Screen in the website.
+Product tabs: enrononline users can use enhanced filtering capabilities to
+Create separate page tabs for the products that interest them. Users can
+Instantly access each page tab with a click of their mouse. Sort ordering can
+Be changed by clicking on a column heading, with multiple sorts possible by
+Holding down the shift key while clicking.
+Floating windows: users have the ability to create multiple windows with
+Different products by right - clicking on the products in the main quotes
+Screen.
+Market news: website users can now access the latest headlines, sports and
+Industry news from reuters. Furthermore, the information categories can be
+Customized according to personal interests. To customize a particular
+Category, users need to click the edit button in the category heading.
+All information categories can be collapsed to save space. To expand or
+Collapse a category, users need to click the arrow to the left of the
+Category heading.
+Stock quotes: enrononline now offers stock quotes (20 min. Delay) from major
+Exchanges around the world.
+Weather insights: customers can now access weather maps and temperature data
+For specific cities and regions. Weather forecasts, up to six days ahead,
+And temperature differentials from periodic averages are now available.
+Industry publications: website users can read a wide range of
+Industry - specific publications including argus european natural gas, argus
+European electricity, the news from ngI , s daily gas price index, bandwidth
+Desk, coal daily and more.
+4. New stack manager features
+The stack manager has been updated to facilitate price limit orders. You will
+Notice that there is a new button at the top of the stack manager, which will
+Open a window showing a summary of the best price limit order bids and offers
+Against your managed products. You can click the" +" sign to the left of a
+Summary to show a list of all the price limit orders which have been placed
+Against that product.
+Under normal circumstances, the price shown on the website will be the same
+As the price on your stack manager. However, the system will not allow you to
+Show a price which is better than an existing price limit order. Instead, the
+System will show a price on the website equivalent to the prevailing price
+Limit order while it is being filled. Once the appropriate price limit orders
+Are filled, then the website will again show your stack manager prices.
+It is important that you complete the  & maximum volume  8 field in the product
+Properties window and that you select" allow price limit orders". Also, make
+Sure that the price tick window in the stack manager , s  & product properties  8
+Field is appropriate for the product. If you do not do this, your customers
+Will not be able to use price limit orders for your products.
+5. Your participation
+Please log in to http:// prod. Enrononline. Com (no www.) on wednesday. To
+Ensure enrononline version 2. 0 is a success, it is important that you have a
+Full understanding of the new features and help promote the system to your
+Customers.
+6. Contacts
+If you have any further questions that are not answered above please feel
+Free to contact us at:
+The americas:
++ 1 (713) 853 - 4357 (help)
+Asia and australia
++ 61 2 9229 2300
+All other regions
++ 44 (0) 20 7783 7783

@@ -1,0 +1,34 @@
+Subject: feb 2000 intercompany accrual variances
+Below is a list of sitara deals that had volume variances or where one side
+(purchase/sale) did not get accrued for the feb 2000 accrual. My goal
+Here is to bring this to everyone attention and second to see if there is a
+Solution. I am taking a simplistic approach here in that since
+Intercompany sitara deals are the same that the nominations on both sides
+Should match on the month end accruals. If I am wrong on this assumption
+Or if there is a system limitation I am free to suggestions, ideas or
+Resolutions. Please feel free to give me a call.
+Hplc selling to ena. Production month febo 0 (accrual):
+Volume variance:
+Sitara: meter/point volume amount
+156071 hpl/0980391 vol var of 24, 167 mmbtu
+Midt/0988743
+Missing on purchase side (ena)
+Sitara: meter/point volume amount
+160579 hpl/0986363 632, 272 mmbtu $1, 599, 402. 29
+161541 hpl/0980694 108, 576 mmbtu $278, 296. 18
+166459 hgpl/8177 - 4570 30, 000 mmbtu $75, 000. 00
+201810 hpl/0986363 50, 000 mmbtu $129, 500. 00
+201839 hpl/0980694 20, 000 mmbtu $51, 800. 00
+202672 lone/0361770 23, 417 mmbtu $58, 274. 16
+280083 hpl/0980308 555, 292 mmbtu $1, 518, 225. 09
+Total 1, 395, 689 mmbtu $3, 710, 497. 72
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Mission: proactively identify and resolve intercompany volume issues
+Upstream.
+First goal: tying intercompany volumes on the monthly accruals.
+Second goal: tying intercompany volumes on actuals.
+Third goal: minimizing analyse time saving $$$$.
+Thanks
+Gregg lenart
+Texas gas settlements
+3 - 6921

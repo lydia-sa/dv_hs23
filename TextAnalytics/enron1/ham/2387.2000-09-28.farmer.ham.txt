@@ -1,0 +1,13 @@
+Subject: shell meters for october
+I have confirmed with rusty at shell for october. Expected flows by meter
+Are as follows:
+1060 - east low pressure: 35 m
+1061 - west low pressure: om
+1095 - shell south: 40 m
+1581 - shell high pressure: 15 m
+The numbers may flip around in a couple of weeks, after they bring some units
+Back on at meter 1581. We need to just be sure that they keep a rate between
+Points of 90 m/day.
+Please let me know if you have any questions, comments.
+Thank you,
+Mary

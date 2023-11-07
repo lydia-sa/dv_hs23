@@ -1,0 +1,44 @@
+Subject: entex adjustments for 5/00
+Hello everyone,
+Christine made the changes as requested. Let me know if further action is
+Needed.
+Mve
+- - - - - - - - - - - - - - - - - - - - - - forwarded by michael eiben/hou/ect on 05/19/2000 04: 46
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron north america corp.
+From: christine pham 05/19/2000 02: 02 pm
+To: michael eiben/hou/ect@ ect
+Cc:
+Subject: entex adjustments for 5/00
+- - - - - - - - - - - - - - - - - - - - - - forwarded by christine pham/hou/ect on 05/19/2000
+02: 01 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Daren j farmer
+05/19/2000 11: 42 am
+To: christine pham/hou/ect@ ect
+Cc:
+Subject: entex adjustments for 5/00
+Christine,
+Attached is the entex file I mentioned in the voice mail this morning. We
+Really need to have these adjustments made in pops today. Please let me know
+If you can help with this. Thanks.
+Daren
+- - - - - - - - - - - - - - - - - - - - - - forwarded by daren j farmer/hou/ect on 05/19/2000
+11: 40 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron north america corp.
+From: gary a hanks 05/18/2000 03: 51 pm
+To: romeo d' souza/hou/ect@ ect, daren j farmer/hou/ect@ ect, ami
+Chokshi/corp/enron@ enron, pat clynes/corp/enron@ enron
+Cc:
+Subject: entex adjustments for 5/00
+I have reviewed the entex actuals and adjusted gas control' s entex factor for
+The month of may. I have found that entex estimates have been overstated by
+Approximately 10. 0 mmcf/day.
+Romeo:
+Will you make sure the estimates that are in pops are corrected to reflect
+The new volumes. This should help reduce some of the ua 4 that daren and pat
+Are trying to locate.
+The attached file has the changes that need to be made. Please let everyone
+On this mailing list know once the changes have been made.
+If you have any questions please call me at 36449.
+Thanks
+Gary h

@@ -1,0 +1,45 @@
+Subject: re: fuel
+Application of the fuel retained from transportation and treating contracts
+Doesn' t have to be done by zone or compressor, in fact I am sure there will
+Be times when we are either short or long compressor fuel when compared to
+The pipelines total usage. Usually, short. I just do not think the market
+Will let me lay off all of this risk. It would be really nice if we could
+Get the system to track compressor fuel used to service specific contracts
+But I am afraid it will always be a facility planning issue. Fuel should not
+Cause imbalances on the transportation contract. A pipeline could be long
+Fuel due to not running compression and in that case we would have to inject
+Or hold in linepack the excess. It seems that we would look at fuel on a
+Total basis.
+Michael eiben
+06/22/2000 01: 09 pm
+To: brenda f herod/hou/ect@ ect
+Cc: lisa csikos/hou/ect@ ect, daren j farmer/hou/ect@ ect, mary m
+Smith/hou/ect@ ect, rita wynne/hou/ect@ ect, steve venturatos/hou/ect@ ect, pat
+Clynes/corp/enron@ enron, edward d gottlob/hou/ect@ ect
+Subject: re: fuel
+We need to discuss further. My concern would be that how do we know what%
+Hpl should be retaining at a compressor or zone to make sure we recoup our
+Fuel cost? Also, could allocated fuel cause a contract imbalance? I think
+That pipeline operations can handle the scheduling of third party fuel
+Retainage. But, if we retain fuel on ena transports, then we need to come up
+With a plan to nominate this in marketing operations to houston pipeline.
+Currently, this process is not in place.
+Enron north america corp.
+From: brenda f herod 06/22/2000 12: 35 pm
+To: lisa csikos/hou/ect@ ect, daren j farmer/hou/ect@ ect, mary m
+Smith/hou/ect@ ect, rita wynne/hou/ect@ ect, steve venturatos/hou/ect@ ect, pat
+Clynes/corp/enron@ enron, michael eiben/hou/ect@ ect
+Cc: edward d gottlob/hou/ect@ ect
+Subject: re: fuel
+What is the answer? Can the systems and processes handle this? Please let
+Me know asap. Thanks.
+Edward d gottlob
+06/22/2000 10: 57 am
+To: bherod@ enron. Com
+Cc:
+Subject: fuel
+Brenda,
+As you know fuel is a big risk. One of the things we are trying to do is get
+The shipper to pay fuel. This would mean we would purchase, transport and
+Possibly sell gas with a fuel percentage as part of the price. Can the
+Downstream systems, scheduling etc handle this?

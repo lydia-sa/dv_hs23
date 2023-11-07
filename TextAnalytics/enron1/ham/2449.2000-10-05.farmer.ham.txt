@@ -1,0 +1,96 @@
+Subject: re: tetco/hpl (enerfin) meter #986892
+Steps 2 - 4 have been done.
+Mary, since jackie is out tomorrow, you will need to verify the following
+Information has flowed across to pops tomorrow morning (check meter catalog).
+Meter facility drn
+986892 515136 60217
+980439 501026 286715
+If there is a problem, then you will need to get with romeo.
+If everything is okay, you will need to let sherlyn know so she can set up
+Accounting arrangements on meter 439 and you will need to enter them into
+Pops.
+Hc
+- - - - - - - - - - - - - - - - - - - - - - forwarded by howard b camp/hou/ect on 10/05/2000 04: 27
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Howard b camp
+10/04/2000 01: 06 pm
+To: sherlyn schumack/hou/ect@ ect, jackie young/hou/ect@ ect, rita
+Wynne/hou/ect@ ect, donna consemiu/hou/ect@ ect, michael eiben/hou/ect@ ect,
+Rita wynne/hou/ect@ ect, daren j farmer/hou/ect@ ect, gary a hanks/hou/ect@ ect,
+Clem cernosek/hou/ect@ ect, howard b camp/hou/ect@ ect
+Cc:
+Subject: re: tetco/hpl (enerfin) meter #986892
+Step #1 has been completed.
+Sherlyn, verify step #2 tomorrow and call me when completed.
+Jackie, verify the nom on oct 4 & 5. It appears there is still a volume for
+Meter 6892 until oct 6.
+If there are any questions or issues, contact me at 37649. I am the contact
+Person while clem is out (through friday).
+Hc
+- - - - - - - - - - - - - - - - - - - - - - forwarded by howard b camp/hou/ect on 10/04/2000 01: 01
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Romeo d' souza
+10/04/2000 12: 40 pm
+To: clem cernosek/hou/ect@ ect
+Cc: michael eiben/hou/ect@ ect, howard b camp/hou/ect@ ect
+Subject: re: tetco/hpl (enerfin) meter #986892
+Clem,
+I have completed setting the confirm = 0 for 986892 and reallocated
+All the days. They are all zero now, however 10/4/2000 and 10/5/2000
+Still have a non - zero bav, these should get set to 0 by 10/6. Since
+Allocation will not allocate these days till 10/6 gas date.
+R. D
+Clem cernosek
+10/03/2000 05: 19 pm
+To: donna consemiu/hou/ect@ ect, romeo d' souza/hou/ect@ ect, sherlyn
+Schumack/hou/ect@ ect, jackie young/hou/ect@ ect
+Cc: michael eiben/hou/ect@ ect, rita wynne/hou/ect@ ect, pat
+Clynes/corp/enron@ enron, daren j farmer/hou/ect@ ect, gary a
+Hanks/hou/ect@ ect, victor lamadrid/hou/ect@ ect, howard b camp/hou/ect@ ect
+Subject: tetco/hpl (enerfin) meter #986892
+Step i.
+Romeo: please do step 1 today, 10/4/00.
+1. Please change the confirmed noms to zero for all contracts that have be
+Nominated for period 1/1/00 thru 10/31/00 for the above meter.
+2. Change the allocation method to" not allocatable" effective 1/1/99.
+3. Please reallocate the meter for period 1/1/99 thru 10/31/00.
+4. Call me after the above tasks have been completed.
+Step ii.
+Sherlyn: please check the following tommorrow, 10/5/00.
+1 verify with settlements that the zero bav adjustment were received for
+All contract activities at meter 986892 for period 1/1/99 thru 9/30/00.
+2. After verification is complete, please call me.
+Step iii.
+Donna: I will call you tomorrow, 10/5/00 to inform when you can make the
+Following changes:
+1. Change the meter #and drn #at facility #501026. This facility should
+Be trade and nom" yes".
+2. Change the meter #and drn #at facility #515136. This facility should
+Be trade and nom" no".
+3. After completion, please call me as well as romeo (x - 34544).
+Step iv.
+Romeo: upon receiving a call from donna:
+1. Please make the appropriate changes or corrections in pops system for the
+Facility changes made by global facilities dept. My understanding is that
+These changes can not be done automatically.
+2. Upon completion, please call me.
+Step v.
+Jackie:
+1. Tomorrow, 10/05/00, after I am informed that romeo has made his changes,
+I will let you know and you may begin scheduling meter #0980439 which is the
+Meter replacing #0986892.
+2. After completion, please let me know.
+* * * * * * * *
+Gary:
+This could create some problems for gas control, because all confirmed
+Volumes will be zeroed including october, 2000 activities at meter 986892
+Today (10/4/00). This should correct itself within 24 thru 48 hours at
+Meter #980439.
+Daren:
+This could also create some issues for you, but remember, these issues should
+Clear within 24 to 48 hours.
+Victor:
+This is just for your information, since this should not create and changes
+For you.
+If anyone has any questions, please feel free to call me at x - 3665 o.
+Thanks, clem

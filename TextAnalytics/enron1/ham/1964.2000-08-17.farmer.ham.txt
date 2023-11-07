@@ -1,0 +1,7 @@
+Subject: new storage flag
+At your earliest convenience, please add the new storage flag to all your
+Storage deals.
+You can find them in the portfolio shown below. This is a new required field
+That will be used in global
+To feed to unify. Physical facility storage and synthetic storage (parking)
+Are treated differently for accounting purposes.

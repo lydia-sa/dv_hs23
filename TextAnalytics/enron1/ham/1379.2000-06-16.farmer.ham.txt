@@ -1,0 +1,37 @@
+Subject: sap changes
+With sap now here there are going to be a few minor changes that we will all
+Have to make immediately.
+First:
+Everyone will have to make internet explorer their default browser. If
+You' re not sure how to do this give me a call and I will help. The reason
+For this is that our new timesheet program will only run through internet
+Explorer.
+Second:
+Sometime next week we will have a brown bag lunch where I will walk you
+Through entering your time in this new system. It' s not time consuming just
+Different.
+Third:
+Next thursday you will be e - mailed an sap log - on id and password. Please
+Don' t delete or disregard the importance of this e - mail. You will need it to
+Key your time.
+Fourth:
+All company and rc #' s are changing. The company part is easy. It will be 4
+Digits so if your company number is currently 413 it will now be 0413 or if
+It is 012 it will now be 0012. Easy. Rc #' s are now called cost centers and
+They are changing completely. Please write these down somewhere you will
+Need them just like you need to know your rc.
+Rc 1497 = cc 105633
+Rc 1638 = cc 105634
+Rc 2664 = cc 105630
+Rc 2933 = cc 106292
+Rc 0688 = cc 105631
+Rc 1160 = cc 105632
+Rc 2675 = cc 105638
+Rc 2939 = cc 106269
+Rc 2940 = cc 106290
+Rc 2663 = cc 105629
+The transition shouldn' t be too painful for you but it promises to be a
+Little stressful for your assistants so please bear with us and cooperate.
+Thank you!
+Yvette
+X 3. 5953

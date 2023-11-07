@@ -1,0 +1,8 @@
+Subject: re: ces - devon
+Rita,
+Since this is the case, I think we need to change the way we are booking this
+Deal. Currently, the ces - devon purchase is on 8348, which is a dummy inlet
+To the plant. Rather, we should probably just have the ena purch at the
+Tailgate, 986363, with a d 2 d ticket that transfers ownership to hpl, if
+Necessary. Please let me know what you think.
+Mary

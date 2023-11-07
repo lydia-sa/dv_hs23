@@ -1,0 +1,14 @@
+Subject: tx gen land office oct 2000 prod
+Daren -
+Deal #421859 sales
+Deal #421847 purchase
+Settlements is showing both a sales and purchase for texas general land
+Office and they are stating that they should not be billed or paid for
+Anything.
+Are these deals suppose to be a washout and netted together?
+If so, the volumes are not matching: the sales on hpl are 7, 440 mmbtus on
+Deal #421859 and the purchase on midtx is 6, 629 mmbtus.
+Let me know what type of deal this was intended to be.
+Fyi
+I was told that tom acton was handling this deal, but I believe he will be
+Out until after thanksgiving.

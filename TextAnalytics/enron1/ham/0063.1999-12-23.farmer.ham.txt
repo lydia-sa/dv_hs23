@@ -1,0 +1,35 @@
+Subject: re: counties/meter types for gemc and midcon tx
+- - - - - - - - - - - - - - - - - - - - - - forwarded by amI chokshi/corp/enron on 12/23/99 12: 42
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Faye ellis@ ect
+12/23/99 12: 37 pm
+To: amI chokshi/corp/enron@ enron
+Cc:
+Subject: re: counties/meter types for gemc and midcon tx
+Fyi...
+The online notification will go back to stacy, since she submitted the
+Requests, therefore I am sending you the following:
+Gulf energy meters:
+Meter #facility type flow direction description
+19 - 1043 - 00 pool both e. Mcfaddin
+29320 pool both tejas plant
+31 - 504 - 04 pool both trevino plant
+440 - 552 pool both garza plant
+440 - 557 pool both haynes plant
+440 - 559 pool both comitas south
+440 - 565 pdc receipt jennings 63 plant
+Midcon texas meters:
+Meter #facility type flow direction description
+446 pool both jennings ranch
+5553 pdc receipt greta/roc
+5576 gpo receipt hall plant
+Faye
+From: amI chokshi@ enron 12/23/99 11: 34 am
+To: faye ellis/hou/ect@ ect
+Cc:
+Subject: re: counties/meter types for gemc and midcon tx
+Gulf energy counties
+All of the gulf energy meters are in zapata county.
+Midcon tx
+Hall plant and jennings are in zapata county
+Greta/tom o' connor is in refugio county

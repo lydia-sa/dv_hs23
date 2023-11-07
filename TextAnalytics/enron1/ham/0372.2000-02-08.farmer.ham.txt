@@ -1,0 +1,32 @@
+Subject: global data management - gas asset support
+In order to align the global data management responsibilities for contracts
+And facilities with the overall operations support for brian redmond' s asset
+Area, the global contracts and global facilities functions for assets have
+Been transferred to steve venturatos within brenda herod' s gas assets
+Operations organization. All contract and facility requests for the enron
+Companies listed below should be directed to steve.
+Hpl companies
+Houston pipe line
+Mid texas pipeline
+Enron field services
+Hpl compression company
+Hpl resources
+Lrc companies
+Enron storage company
+Enron storage co., llc
+Louisiana resources company
+Louisiana gas pipeline company limited partnership
+Louisiana resources pipeline company limited partnership
+Denver companies
+Fort union llc
+Enron midstream services powder river
+Lost creek
+Project hurricane
+Bridgeline holding l. P.
+Bridgeline gas distribution llc
+Bridgeline gas marketing llc
+Global requests for enron north america and offsystem pipelines will continue
+To be handled in my area by connie sutton. Responsibility for global
+Counterparty setups and updates remains centralized in my organization headed
+By mary gosnell.
+If I have missed someone in the distribution, please forward.

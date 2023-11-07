@@ -1,0 +1,8 @@
+Subject: new su bridge
+Some people are having problems getting the new monitor -
+You may not have the su bridge under your -
+Start - programs - trading - sitara - su bridge monitor.
+To resolve this - you will need to fill out a security request to get it
+Added to your start up profile.
+Also - if you are using an old shortcut - this may no longer work - you need
+To trash the old short cut.

@@ -1,0 +1,38 @@
+Subject: re: personal information needs to be updated
+Once this is fixed in sap I will be able to change it in pep. The data
+Integrity team is being really strict on the name field. It has to be
+Changed in sap before I am allowed to change it in pep. Please let me know
+When this has been done and I will make the change asap.
+Enron capital & trade resources corp.
+From: hector mcloughlin@ enron 11/07/2000 02: 24 pm
+To: susan wimberley/hou/ect@ ect
+Cc: dfarmer@ enron. Com
+Subject: re: personal information needs to be updated
+Is it possible that his first name show as" j darren"? Daren is his middle
+Name and the name that everyone addresses him by.
+We would also be glad to submit the change in sap if the system will accept j
+Darren as the first name.
+Please advise.
+Thanks for your help, hgm
+Susan wimberley@ ect
+11/07/2000 02: 12 pm
+To: hector mcloughlin/corp/enron@ enron
+Cc: dfarmer@ enron. Com@ enron
+Subject: re: personal information needs to be updated
+Please note that the name in pep has to mirror what is in the source system.
+Currently there is not a field in pep for nicknames.
+Enron capital & trade resources corp.
+From: hector mcloughlin@ enron 11/07/2000 01: 48 pm
+To: dfarmer@ enron. Com, susan wimberley/hou/ect@ ect
+Cc:
+Subject: re: personal information needs to be updated
+Susan,
+Would you please take care of mr. Farmer' s request? I am not able to change
+Names.
+Thanks for your help, hgm
+Dfarmer@ enron. Com on 11/07/2000 01: 15: 08 pm
+To: hector. Mcloughlin@ enron. Com
+Cc:
+Subject: personal information needs to be updated
+This message is from farmer, jerry d:
+My name should be changed from farmer, jerry d to farmer, j daren

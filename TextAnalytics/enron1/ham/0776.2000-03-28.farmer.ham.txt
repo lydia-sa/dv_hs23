@@ -1,0 +1,35 @@
+Subject: procedure for adding new capacity tickets for multI - desk service
+Utilization
+In order to provide the ability to track transport expense by desk, sitara
+Was modified to allow multiple transport capacity tickets for the same
+Service contract provided that they are for different desks and only one is
+Tagged as" primary". Here is the procedure for setting up new capacity
+Tickets to reflect the" other" desks:
+A. You will probably first notice this via a warning/error message in path
+Manager when building a new path. The message will read something like
+" source/destination 123456 for desk imct does not match service contract 3434
+And will be removed."
+B. Make note of the deal number in the service list of the service contract
+That you were using in the new path.
+C. Open that transport capacity deal in sitara. Then hit copy.
+D. On the new deal:
+Change the buyer from the old desk to the new desk that matches the supply
+Or market deal that you are pathing with. If it a contract for which we are
+Agent, then don' t change the buyer but instead change the agent to the new
+Desk. The" primary" deal will carry the actual agent.
+Changing the buyer causes the contract field to get blanked out. Re - select
+The contract.
+Just above the various exchange line items is a primary deal check box.
+Un - check it.
+On each exchange line item, change the mdq to zero and for any negotiated
+Rates, uncheck them as well. The" primary" deal will carry the mdq and
+Any negotiated demand, commodity or fuel.
+Hit release.
+E. You may need to re - retrieve path manager. You should see the deal number
+In the service list now read" multiple". Right - click/service deals will list
+The specific deals.
+F. Re - build the path as you originally desired. The warning/error message
+Should not appear again.
+This could occur for any combination of desk and service contract.
+Please file this in your" call dave if I can' t find this" folder.
+Thanks, d. N.

@@ -1,0 +1,53 @@
+Subject: your membership on woodtips has been put on hold
+This email message is to notify you that your membership to woodtips
+Has been put on" hold".
+This means that you will not receive mail from' woodtips'.
+Your subscription has been held because at least 1 recent messages have been
+Either bounced by your email system, or could not be delivered at all.
+Your membership can be restored to" normal", by sending the command" unhold"
+To lyris@ listserv. Augusthome. Com
+Note that if your email address continues to reject mail your subscription
+Will
+Once again be" held".
+You may want to contact the people responsible for your electronic mail to
+Determine
+Why your email address has been having trouble.
+- - - for your information, a non - delivery report is included below:
+- - -
+Message body:
+Return - path:
+Received: from listserv. Augusthome. Com ([127. 0. 0. 1]) by localhost with smtp
+(lyris server version 3. 43 - apr 6 1999 10: 07: 17); sat, 25 mar 2000 02: 23: 54
+- 0600
+Received: from mailman. Enron. Com (mailman. Enron. Com [192. 152. 140. 66])
+By listserv. Augusthome. Com (8. 9. 3/8. 9. 3) with esmtp id caa 29035
+For; sat, 25 mar 2000
+02: 23: 53 - 0600
+Received: from dservl. Ect. Enron. Com (dservl. Ect. Enron. Com [172. 16. 1. 37])
+By mailman. Enron. Com (8. 8. 8/8. 8. 8/corp - 1. 03) with esmtp id haa 25648
+For; sat, 25 mar 2000
+07: 33: 10 gmt
+Received: from notes. Ect. Enron. Com (notes. Ect. Enron. Com [172. 16. 4. 33])
+By dservl. Ect. Enron. Com (8. 8. 8/8. 8. 8) with smtp id baa 23447
+For; sat, 25 mar 2000
+01: 33: 52 - 0600 (cst)
+Received: by notes. Ect. Enron. Com (lotus smtp mta v 4. 6. 5 (863. 2 5 - 20 - 1999))
+Id 862568 ad. 00298 c 81; sat, 25 mar 2000 01: 33: 49 - 0600
+X - lotus - fromdomain: ect
+From:" ect notes admin"
+Reply - to: daren. J. Farmer@ enron. Com
+To: bounce - woodtips - 30771@ listserv. Augusthome. Com
+Message - id:
+Date: sat, 25 mar 2000 01: 02: 42 - 0600
+Subject: we are one@ enron. Com!
+Mime - version: 1. 0
+Content - type: text/plain; charset = us - ascii
+Content - disposition: inline
+This message is an automated response to the email you recently sent to me. I
+Received the message but the email address you used has been changed to
+Daren. J. Farmer@ enron. Com.
+Please update your address book (s) to reflect this change.
+This will ensure that I receive your emails in the future.
+Thank you
+Daren j farmer
+Please do not reply to this message as it was automatically generated.

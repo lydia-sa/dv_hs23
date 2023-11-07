@@ -1,0 +1,5 @@
+Subject: we cannot cancel your payment no 4722704408
+- - - - - begin pgp signature - - - - -
+Version: gnupg vl. 0. 7 (gnu/linux)
+Nhbqlfivih + fwpgncv 9/jvy = 8 y
+- - - - - end pgp signature - - - - -

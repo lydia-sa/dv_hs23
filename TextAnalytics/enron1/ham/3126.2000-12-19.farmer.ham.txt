@@ -1,0 +1,82 @@
+Subject: re: enerfin meter 980439 for 10/00
+Daren can you please extend deal #422516 to cover flow of 9 dec. For
+10/6/2000 and extend deal 432556 to cover flow of 44 dec. For 10/19/2000?
+Volume mgmt is trying to clear up these issues.
+Thanks
+- jackie -
+Enron north america corp.
+From: victor lamadrid 12/15/2000 11: 52 am
+To: jackie young/hou/ect@ ect
+Cc: sherlyn schumack/hou/ect@ ect, daren j farmer/hou/ect@ ect, rita
+Wynne/hou/ect@ ect
+Subject: re: enerfin meter 980439 for 10/00
+Jackie, talk to darren about this. The deal you reference is an hpl deal with
+Dynegy and I don' t have access to it. I' m on the east desk. Yesterday i
+Extended the deal 421415 for the 6 th and 19 th and meredith inserted a path in
+Unify - tetco to cover the small overflow volume between hpl and ena. The
+Ena/hpl piece is done. The piece between hpl and dynegy is what you need
+Inserted. Thanks
+Jackie young
+12/15/2000 11: 32 am
+To: sherlyn schumack/hou/ect@ ect
+Cc: victor lamadrid/hou/ect@ ect
+Subject: re: enerfin meter 980439 for 10/00
+Sherlyn, i' ve placed the correct volumes for days 6 and 9 for ena. I' ll have
+The deal extended for dynegy and let you know when it' s done.
+Victor, can you extend the deal 422516 for days 6 and 9 please? Thanks. Oh
+And by the way, I had mistaken you for someone else when I sent you the
+E - mail on yesterday. Sorry. I thought that I knew you. Anyway, please
+Advise when you' ve extended the deal so that sherlyn can create an accounting
+Arrangement.
+Thanks
+- jackie -
+3 - 9497
+To: jackie young/hou/ect@ ect
+Cc: rita wynne/hou/ect@ ect
+Subject: re: enerfin meter 980439 for 10/00
+I don' t want to tell you to add any contracts, because I am not sure about
+That. I am just saying if you look at ray' s schedule there are 2 deals out
+There, one is a purchase from ena and the other a purchase from dynegy. The
+Track id I gave you was for ena. You cannot allocate the dynegy piece
+Until I give you a track id. I cannot give you a track id until the deal is
+Extended for days 10/6 and 10/19.
+Jackie young
+12/15/2000 10: 51 am
+To: sherlyn schumack/hou/ect@ ect
+Cc:
+Subject: re: enerfin meter 980439 for 10/00
+Arre you saying that for both days that two (2) ena contracts should be
+Placed at the meter for days 6 and 19 and then allocating half of the the
+Total volume to each contract?
+To: jackie young/hou/ect@ ect
+Cc: rita wynne/hou/ect@ ect
+Subject: re: enerfin meter 980439 for 10/00
+Jackie,
+You did not allocate this according to ray' s schedule. The track id I gave
+You was only for the purchase from ena. You need to extend the deal for the
+Purchase from dynegy. You put all of the volume on these 2 days on ena,
+That is not what is on ray' s schedule, so we are still out on the
+Interconnect report.
+Jackie young
+12/15/2000 10: 30 am
+To: sherlyn schumack/hou/ect@ ect
+Cc: alfonso trabulsi/hou/ect@ ect, rita wynne/hou/ect@ ect, gregg
+Lenart/hou/ect@ ect
+Subject: re: enerfin meter 980439 for 10/00
+Accounting arrangement has been placed. Meter has been reallocated.
+Thanks and let me know if you need anything else.
+- jackie -
+3 - 9497
+From: sherlyn schumack 12/15/2000 10: 00 am
+To: jackie young/hou/ect@ ect, alfonso trabulsi/hou/ect@ ect
+Cc: rita wynne/hou/ect@ ect, gregg lenart/hou/ect@ ect
+Subject: enerfin meter 980439 for 10/00
+Jackie,
+Your allocation is correct with the exception of days 10/6 and 10/19 where
+Strangers gas is allocated. I have created an accounting arrangement for
+These days and the new track id for ena is 240384. Please allocate the ena
+Portion according to rays schedule for these 2 days. Deal 422516 (purchase
+From dynegy) needs to be extended for these 2 days so I can do an accounting
+Arrangement. Alfonso I need for you to allocate your meter daily, because
+We have tiered pricing this month.
+Thanks.

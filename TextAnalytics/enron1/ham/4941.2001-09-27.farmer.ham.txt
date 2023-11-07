@@ -1,0 +1,12 @@
+Subject: an inbound message for you has been quarantined
+You have received this message because someone has attempted to send you an e - mail from outside of enron with an attachment type that enron does not allow into our messaging environment. Your e - mail has been quarantined and is being held at the mailsweeper server.
+Sender: colio@ houston. Rr. Com
+Date: thu, 27 sep 2001 16: 07: 26 - 0500
+Subject: logitech video e - mail
+Attachment type: scenarios/incoming/inbound exe catcher: a filename matching the file mask was detected:' vmailvid. Exe'.
+If the intended email is of valid business - related content and you believe it requires enron resources to retrieve it, you may call your help desk and ask to have it released from quarantine and delivered to your e - mail inbox. Your message will be scanned and checked for viruses prior to requested release. If it contains a virus or there is reason to suspect it is malicious code, it will not be delivered.
+North american resolution center: 713 853 1411
+European resolution center: 0044 207 78 36777
+Ees help desk: 888 853 9797
+Ets solution center: 713 345 4745 (houston) or 402 398 7454 (omaha)
+Please do not reply to this address as it is not a monitored system mailbox.

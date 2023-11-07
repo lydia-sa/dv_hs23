@@ -1,0 +1,30 @@
+Subject: mips january actuals
+FyI - not sure of the affect on p & l.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod/hou/ect on 02/10/2000
+01: 45 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+George grant
+02/10/2000 01: 23 pm
+To: brenda f herod/hou/ect@ ect
+Cc:
+Subject: mips january actuals
+Fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by george grant/hou/ect on 02/10/2000 01: 22
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Romeo d' souza
+02/10/2000 11: 09 am
+To: george grant/hou/ect@ ect
+Cc: dave nommensen/hou/ect@ ect, michael eiben/hou/ect@ ect
+Subject: mips january actuals
+George,
+There seems to be a problem with mips while trying to actualize
+The january 2000 data (y 2 k related). In order to actualize jan
+Pops has to manually load the actual files into pops, the
+Side effect of this is that some of the feb data may be loaded
+With numbers that are old. This will be rectified as we complete
+Loading the jan actuals and then load the most recent mips
+Measured prelim numbers for feb.
+Pops is currently processing the mips files in the order they
+Were received, we should be done with this today. Please inform
+Us of any abnormalities that you see tommorrow.
+Thanks
+Romeo

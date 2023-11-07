@@ -1,0 +1,38 @@
+Subject: re: april 2001 spot purchases
+Vance,
+Deals for the following have been created and entered in sitara. The deal
+Numbers are noted below:
+Bob
+From: vance l taylor/enron@ enronxgate on 03/30/2001 09: 23 am
+To: robert cotten/hou/ect@ ect
+Cc: lisa hesse/hou/ect@ ect, julie meyers/hou/ect@ ect, cynthia
+Hakemack/hou/ect@ ect, donald p reinhardt/enron@ enronxgate, susan
+Smith/enron@ enronxgate, melissa graves/enron@ enronxgate
+Subject: april 2001 spot purchases
+Bob,
+Hplc will be purchasing wellhead gas from the producers listed below for the
+Production month of april, 2001. This production will be purchased on a
+" spot" basis and deal tickets should be created and entered into sitara based
+On the following information:
+Counterparty meter volume deal #price
+Whiting petroleum corp 6523 200 mmbtu/d 692898 84% if/hsc
+Coastal merchant energy, lp 5923 775 mmbtu/d 692026 100% if/hsc less $0. 265
+Coastal merchant energy, lp 5848 240 mmbtu/d 692011 84% if/hsc
+Swift energy 2630 21 mmbtu/d 712357 100% if/hsc less $1. 38
+Duke energy trading & marketing 6347 200 mmbtu/d 691873 84% if/hsc
+Hesco gathering oil co. 6063 300 mmbtu/d 421856 84% if/hsc
+Embassy natural gas inc. 6598 180 mmbtu/d 691982 84% if/hsc
+Vintage gas inc. 9603 100 mmbtu/d 712358 84% if/hsc
+Stone energy 9696 4500 mmbtu/d 690252 100% if/hsc less $0. 20
+The houston exploration 9696 6500 mmbtu/d 692844 100% if/hsc less $0. 16
+Amerada hess (hess energy svcs) 0435 2714 mmbtu/d 689849 100% if/hsc less
+$0. 12
+Crosstex energy services, ltd. 0435 654 mmbtu/d 689894 100% if/hsc less
+$0. 12
+TrI - union development 0435 149 mmbtu/d 689905 100% if/hsc less $0. 055
+Ranger oil company 9871 200 mmbtu/d 692461 85% if/hsc if 300/d
+These are producer svcs. Deals and should be tracked in the im wellhead
+Portfolio... Attached to the gathering contract.
+Thanks,
+Vlt
+X 3 - 6353

@@ -1,0 +1,13 @@
+Subject: entex estimates for 12/99
+Attached are two spreadsheets showing entex data for dec. 99.
+Jano 0 _ factor shows the difference between the estimates that should have fed
+Over to pops and the actual for all meters in the meter set {2001 - 2500, 2540,
+3509, 3519, 3530, 3533, 6822, 9544}. I do not have the actual for vidor cg
+Yet. I have estimated the volume to be 190. 00.
+Actuals were 6105. 26 mmcf using the vidor cg estimate
+Estimates were 4870. 37 mmcf.
+Difference of 1237. 89 mmcf.
+Jano 0 _ scada shows that if we had correct information from the hempstead cg
+Rtu the difference would have been 819. 186 mmcf.
+If you have any questions please call.
+Gary

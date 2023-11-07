@@ -1,0 +1,39 @@
+Subject: re: tenaska iv 1/01
+Txu revised their rates for jan 2001. They are now billing us at $0. 10 and
+$0. 08 for contract 1671. This was previously billed all at $0. 10. Please
+Change the demand fee on deal 384258 from $3, 841, 888. 11 to $3, 830, 131. 18.
+Also, I spoke to txu about the rate on contract 1856 (deal 452475). They
+Have been billing us $0. 11 and we have $0. 10. The extra cent is for the el
+Paso header fee. The pricing you gave me is for contract 1671, but also has
+The header fee if you look on page 5 of 6. You' ll see a a section called
+" compression & header expense if utilized". The current rate for 1856 is
+$0. 01 and 0% fuel. I will leave a copy of the contract in your chair.
+Thanks,
+Megan
+Daren j farmer@ ect
+03/13/2001 10: 54 am
+To: megan parker/corp/enron@ enron
+Cc:
+Subject: re: tenaska iv 1/01
+I have made the changes mentioned below. I' ve also adjusted the spreadsheet
+Based on our conversation yesterday. Take a look at it when you get a chance.
+D
+Enron north america corp.
+From: megan parker@ enron 03/13/2001 09: 06 am
+To: daren j farmer/hou/ect@ ect
+Cc:
+Subject: tenaska iv 1/01
+We need to change the demand fees for tenaska iv based on actuals for jan
+2001. Tenaska owes us some additional money. I have attached my netting
+Spreadsheet if you need it.
+Deal 514353 change mmbtu from 45, 000 to 46, 113
+Deal 384258 change amount from $3, 934, 644. 50 to $3, 841, 888. 11
+I got your message regarding apache. I will just leave the pay the lesser
+Ofs there until they come back for it. Also, mark checked with txu and we
+Do not have the rights to get dailies for the tenaska meters. He said that
+Only the interconnecting pipes get dailies. For the spreadsheet, I am just
+Going to prorate the actuals based on the noms.
+I will let you know when we receive the payment from brazos for feb 2001, so
+You can enter the demand fee to forward the cash to tenaska iv.
+Thanks,
+Megan

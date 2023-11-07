@@ -1,0 +1,7 @@
+Subject: black marlin - meter 986782 for 8/98 - ua 4
+According to measurement, there is flow of 7, 394 in 8/98, however, there is
+Nothing to indicate this is gas that was received on hpl in oss. I checked
+Mips and there is a measurement statement that supports the flow rate of
+7, 394 mmbtu.
+Daren is there a deal in cpr which may not have fed over to oss?
+Thanks, stella

@@ -1,0 +1,20 @@
+Subject: hgpl and kgpl - 3 rivers gas
+Based on the conversation we had at the meeting last thursday, I am
+Implementing the following changes to humble gas pipeline and king ranch gas
+Plant. If you disagree or feel you had a different understanding than the
+Items below, please be sure to call me asap.
+1. Input hplc purchase from hplr liquids at meter 8793 (hpl/hgpl). Remove
+The 3 rivers gas from the interconnect ticket and input on
+The purchase deal.
+2. Input hplc sale to hplr liquids at meters 9643 (kgpl/hpl) and 12
+(kgpl/hgpl). Remove 3 rivers volumes from the interconnect tickets
+At these meters and input on the sales deals appropriately.
+3. Change swing parameters for the king ranch contracts to swing on cage
+Ranch before swinging on 3 rivers gas. This will hopefully allow
+The sale for 3 rivers gas to remain at one meter as much as possible.
+I will hopefully have all of these changes made by the end of the day, and
+Have all contracts repathed. It is my understanding that we are implementing
+These changes effective feb. Lst.
+Stella, this may or may not effect repathing of the hplc gas at meter 9643,
+Based on the swing parameters that you have been using.
+Thank you.

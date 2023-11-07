@@ -1,0 +1,55 @@
+Subject: new paycheck information!
+Introducing your first sap paycheck!
+This is the first payroll processed in sap for all employees paid out of
+Corporate payroll. You may notice some changes in the way information is
+Reflected on your pay advice, the most common are itemized below.
+What , s different?
+? Your  + home , cost center will be displayed at the top of the pay advice.
+This is your department number as designated in the hr and financial modules
+Of sap.
+? Any earnings descriptions that start with a  + p , represent earning types
+Reported in the prior period. For instance, if you reported vacation time for
+The july lst - 15 th pay period, it will be reflected on your july 31 st pay
+Advice as  + pvacation ,.
+? Flex dollars will appear on the earnings section of the pay advice instead
+Of as a credit in the deduction section. The various benefit deductions will
+Remain itemized in the deduction section.
+? If you transfer between enron companies during the year, your year ) to - date
+Totals will carry forward to the new company pay advice. Previously, the
+Year - to - date totals started over when transferred to another company. This
+Change will provide your total enron earnings and deduction amounts on your
+Pay advice throughout the year. (note that your w 2 at the end of the year
+Will reflect your earnings by company).
+? For salaried employees, any reported exception time (e. G. Vacation, sick
+Day, etc.) will be reflected on the earnings section with hours only, the
+Related dollar amount will be included in the  + salary , earnings type.
+? For any other information or further explanations regarding your payroll
+Contact the payroll call center at 713 - 345 - 5555
+Payroll faq , s
+My paycheck has a line called  & other deductions  8, what does that stand for?
+There is a fixed amount of lines to print deductions on the paycheck. For
+Some employees, the number of deductions are more than we have room to
+Print. In this circumstance, the system totals all remaining deductions and
+Prints them on one line ) titled  & other deductions  8. The detail of all
+Deductions can be viewed on the pay advice that is displayed on the intranet
+At ehronline. Enron. Com.
+What do the earnings or deduction codes on my paycheck mean?
+These definitions are listed on the payroll webpage located at
+Hrweb. Enron. Com, select enron payroll from the side index.
+Why is my overtime not reflected on my paycheck?
+Overtime is paid one pay period in arrears, therefore it will be reflected in
+The next pay period. For example, if you reported overtime for the
+July lst ) 15 th pay period, it will be reflected on your july 31 st pay advice
+As  + povertime ,.
+What is the limit for social security (fica)?
+For year 2000 the limit is $4, 724. 40 on a wage base of $76, 200. This limit is
+Applied to each enron payroll tax company. Therefore, if you transfer to
+Another enron company these limits will start over, however, the total amount
+Withheld across all companies will be reflected on your paystub. Excess fica
+Will be credited to you by the irs via your tax return.
+What federal income tax rate is used for my bonus or when I exercise stock
+Options?
+There is a standard federal income tax rate of 28% for these earnings. This
+Can be higher if the employee has completed a supplemental tax form
+Requesting a higher rate (this form can be found at hrweb. Enron. Com, select
+Enron payroll from the side index).

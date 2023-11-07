@@ -1,0 +1,7 @@
+Subject: expense report receipts not received
+Employee name: jerry farmer
+Report name: daren farmer
+Report date: 9/7/01
+Report id: 82 c 5 aabda 37 bl 1 d 5 b 43 e
+Submitted on: 9/7/01
+Receipts for this expense report have not yet been received. If receipts have been mailed, please disregard this message.

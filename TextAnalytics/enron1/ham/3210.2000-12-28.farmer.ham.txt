@@ -1,0 +1,24 @@
+Subject: re: richardson volumes nov 99 and dec 99 meter 0987283
+Nick,
+I am not sure what happened to this volume. I cannot tell by the audit
+Trail, but there is a connection between meter hpl meter 987283, and midt
+989807. The volume you are referring to is on mid - tex pipeline under meter
+989807. It it pathed as a point to point nom with no deal reference. I do
+Not think this is correct because the deal you reference show hplc as
+Purchaser. The volume is in mips under meter 989807, but the supply deal
+Is set up on hpl meter 987283, and the audit trail in sitara shows the deal
+Was moved from midt to hpl. Get with thu when she returns to see if she
+Knows anything about this.
+Nick moshou@ enron
+12/20/2000 09: 07 am
+To: sherlyn schumack/hou/ect@ ect
+Cc:
+Subject: richardson volumes nov 99 and dec 99 meter 0987283
+HI sherlyn,
+Could you check to see why the volumes at this meter were zeroed out for the
+Above months. We paid richardson back then and yesterday I noticed that we
+Have a recoverable amount for the entire amounts paid for each month. The
+Sitara deal #s are 127856 for nov and 131729 for dec. Let me know if you
+Additionall info from me.
+Thanks,
+Nick

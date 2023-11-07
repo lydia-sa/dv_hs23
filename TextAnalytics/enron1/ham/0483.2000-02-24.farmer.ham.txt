@@ -1,0 +1,9 @@
+Subject: koch midstream services
+Fyi, I was watching the position manager for ena and noticed some business
+Transactions on this pipeline. This pipeline was bought by duke energy field
+Services effective 8/1/99. All hplc transactions were moved to that pipe at
+That time. The ces transactions that are current on this pipe should be
+Moved to duke energy field services. I believe the pipe was renamed when
+They bought it back in june or july.
+If you have any questions, or want to verify this information, I would check
+With the global contracts dept.

@@ -1,0 +1,26 @@
+Subject: ena 202 and hpl 216 transport contracts needed at meter 378 for
+March 2000
+Daren - would there be a problem if I created a desk to desk for meter 378
+For march 2000 going forward? It would help out with the allocation
+Process. The kind of deal I need is the total opposite of deal #115101.
+Please let me know if there is a problem. Volume management would like this
+Done today. Thanls.
+- aimee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by aimee lannou/hou/ect on 04/17/2000 10: 51
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fred boas
+04/17/2000 09: 19 am
+To: aimee lannou/hou/ect@ ect
+Cc: robert e lloyd/hou/ect@ ect, howard b camp/hou/ect@ ect
+Subject: ena 202 and hpl 216 transport contracts needed at meter 378 for
+March 2000
+Aimee:
+The ena 012 - 27049 - 02 - 002 and hpl 012 - 41500 - 02 - 016 contract are not at meter
+378 for march 2000. I need for you to put the correct deal number for both
+Contracts in path manager.
+We need the ena 202 contract as a delivery and the hpl 216 as a receipt.
+Please get the deal in the system this morning and let me know what the deal
+Numbers are and I will set up the arraignments and let you know what the
+Track id' s are.
+Thanks,
+Fred

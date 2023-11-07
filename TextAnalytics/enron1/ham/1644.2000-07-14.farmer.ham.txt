@@ -1,0 +1,26 @@
+Subject: new storage flag
+We are going to add a new drop down flag to storage in sitara to
+Differentiate the difference between physical and synthetic storage - as each
+Are
+Treated differently for inventory accounting purposes. A change will also
+Be made to global contracts and unify, and is intended to assist with oa
+Variances
+On storage.
+On the next release (mid august) we will add a drop down on the storage deal
+Type which will be a required field.
+Someone will need to edit the existing deals to add the flag - as it will be
+A required field - physical facility or synthetic.
+(we can create queries to work with you on identifying deals that need to be
+Converted - as well as results for global conversion)
+Global contracts uses the flags from sitara to set up new contracts - so
+Sitara will add the flag on the deal.
+The flag will be stored in global contracts - which will feed the flag to
+Unify.
+Once the existing deals are converted in sitara, global contracts can add the
+Appropriate flag to their system.
+Once this is complete and unify is ready, unify can begin to feed in the
+Information from global contracts, and we will then
+Be able to differentiate the two in the accounting system.
+In the interim time, you may want to identify your synthetic vs. Physical
+Storage deals.
+Let me know if you have any questions.

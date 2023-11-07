@@ -1,0 +1,13 @@
+Subject: tejas deliveries at oasis katy
+On tuesday, march 7 th, tejas took gas from us at oasis katy and gave it back
+To us at tejas laporte to help us out during an outage for $. 02/mmbtu. This
+Transaction has not been scheduled correctly. There are two deal tickets in
+Sitara to cover the oasis portion of the deal: #213145 covers ena selling
+The gas to hplc for hplc to transport on tejas. Deal #213370 covers the
+Transport usage on tejas from oasis katy to laporte. I have edited this
+Ticket to add the $. 02/mm charge. There needs to be a tejas expense contract
+At laporte, #665, to cover the approx. 25, 000 mm received there on the 7 th.
+These volumes are currently sitting on the laporte oba.
+Jackie - if you would work with carlos he should be able to walk you through
+Getting this scheduled correctly in all systems.
+Thanks.

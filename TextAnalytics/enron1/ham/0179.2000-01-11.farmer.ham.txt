@@ -1,0 +1,19 @@
+Subject: rollout schedule for unify real - time deal/path updates
+A walk - thru/demo of this new functionality was held today with the logistics
+Managers and representative schedulers from each region except for texas and
+Calgary. The changes were well received and no revisions were requested.
+They would like to have the changes migrated to production the evening of
+Tuesday, january 18 for use the morning of wednesday, january 19.
+Paul, could you please insure that the network folks have the tibco install
+Complete by monday, including terminal server.
+Scotty, paul may need one of your folks to insure that the tibco install
+Works ok on terminal server (none of us have access).
+Scotty, can you follow up with calgary and texas since they missed the demo.
+Also, what level of security is desired for the rollout - selected
+Schedulers or all of logistics?
+Dave m, plan to have the last few related items in stage by monday to insure
+All is clean by tuesday night. (print, filter, closed path list, & app close
+Error msg)
+If you do not feel like this schedule can be met, please let me know as you
+Become aware.
+Thanks, d. N.

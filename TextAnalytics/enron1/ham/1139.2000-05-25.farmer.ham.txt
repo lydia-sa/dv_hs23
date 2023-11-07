@@ -1,0 +1,29 @@
+Subject: june transport usage tickets
+The tickets are finished. I have updated most of the third party tickets,
+With the exception of oasis/west of prairie lea and oasis/east of prairie
+Lea. I saw several may tickets with this path, and want to conserve
+Tickets. I set up one ticket for this path. Please let me know if you have
+Any questions. Dave, once volumes get attached to these tickets, I would
+Like to run a basis adjustment report by pipe to double - check the desk
+Rates. Thanks.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by heidI withers/hou/ect on 05/25/2000 08: 32
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron north america corp.
+From: heidI withers 05/24/2000 06: 27 pm
+To: david baumbach/hou/ect@ ect, pat clynes/corp/enron@ enron, daren j
+Farmer/hou/ect@ ect
+Cc: mary m smith/hou/ect@ ect
+Subject: june transport usage tickets
+I updated the june transport usage tickets today through hpl, and will be
+Finishing these tickets tomorrow. Rates have been updated to reflect current
+Matrix rates and all baseload rates that I know of at this time. I have not
+Yet received third party transport rates, so if you know of any, please let
+Me know. Also, I have zeroed out some volumes on some tickets for june, so
+Your schedulers will have to update volumes as they know them. Rule of thumb
+Was that if I had to add a month, I refreshed the rate but left volume at
+Zero. If the months were already on the ticket, then I refreshed the rate
+And left the volume as is.
+I would advise that your schedulers check volumes on all pipes to ensure
+They' re reflected in position manager correctly. Please let me know if you
+Have any questions. All pipes will be updated by tomorrow morning.
+Heidi

@@ -1,0 +1,12 @@
+Subject: announcing outlook web access for houston outlook users
+Attention: houston - based outlook users
+The global messaging team is proud to announce that beginning today, monday july 16 th, houston - based enron employees that have been migrated to outlook will be able to securely access their enron email from anywhere on the web. This means that if you can get on to the internet, you can access your enron email with outlook web access (owa) without having to dial in to enron' s network. Please note that this is not available to those users still on lotus notes but will be available once they are migrated to outlook.
+Once on the internet, type mail. Enron. Com in your browser address window and supply your enron network logon credentials as username and password. For example:
+Username: jdoe 4
+Password: * * * * * * * *
+Once you log in, outlook web access opens your enron email mailbox. Outlook web access (owa) allows you to send and receive mail, perform calendar tasks and manage your mail and contacts, as well as access your mailbox folders. At this time, public folders are not accessible via owa. Please keep in mind that outlook web access is a browser - based version of what you might use in the office, so the functionality may be slightly different and some features of outlook 2000 may not be available at all. Additionally, owa is only supported using internet explorer 5. X only and not supported with netscape.
+Outlook web access is the standard email package for connecting to your enron mail from home, whether you are using an enron - issued home pc, an internet connection with your personal home pc, or your clickathome pc. We will not support the use of the full outlook installation for home use.
+Outlook web access for remote locations and european/apac enron sites is currently being addressed and will be available soon. At this time, owa is only available if your mailbox resides on a houston mail server.
+If you have any questions, please call:
+Resolution center at x 31411 or
+Ets solutions center at x 54745

@@ -1,0 +1,18 @@
+Subject: cpr pipeline exchange activity report
+We have placed the cpr pipeline exchange activity report into the sitara
+Production reporting. Please let me know if
+You have any questions. This report gves you the volume activity of a given
+Business unit, on all or selectied pipes, for
+Given flow dates. Please rememeber that this report is originating from the
+Sitara database.
+You all have access to run reports in sitara. You can run reports by
+Clicking the last icon (blue one) from the sitara launchpad.
+You may have to logout of sitara to compeletely to see the icon.
+* once you are able to access the web site from the icon, click on reports.
+* login using your sitara login and password.
+* select the specialized/exceptions category from the drop down menu.
+* run the cpr pipeline exchange activity report. You will have to select a
+Business unit, flow date and optionally pipe.
+If you have any problems running this report, let me know at x 37913.
+Thanks,
+Hunaid

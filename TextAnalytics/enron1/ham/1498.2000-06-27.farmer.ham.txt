@@ -1,0 +1,76 @@
+Subject: flexible physical us nat gas products on enrononline
+Wanted to give you a heads up to these flexible physical deals that might
+Involve your desks via eol in the near future. We already have one in the
+East. I stressed to the sitara/eol folks the importance of adding comments
+To the term sections of these baseload and term tickets so we know what is
+Happening. One side of these buy/sell or exchange deals will be ratable and
+The corresponding partner ticket will have the optionality. Comments will
+Include the corresponding deal number, that it is in fact a buy/sell or
+Exchange deal and the delivery time period (3, 5 or 10 days) that the
+Counterparty desires.
+I hope this helps... Thanks!
+- - - - - - - - - - - - - - - - - - - - - - forwarded by victor lamadrid/hou/ect on 06/27/2000
+02: 51 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: thomas engel 06/26/2000 11: 49 am
+To: linda s bryan/hou/ect@ ect, karen lambert/hou/ect@ ect, larry joe
+Hunter/hou/ect@ ect, dale neuner/hou/ect@ ect, victor lamadrid/hou/ect@ ect
+Cc: bob bowen/hou/ect@ ect, scott mills/hou/ect@ ect
+Subject: flexible physical us nat gas products on enrononline
+Can you all meet this afternoon or tomorrow to discuss this.
+Call me 3 - 1488.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by thomas engel/hou/ect on 06/26/2000 11: 42
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: scott mills 06/23/2000 09: 51 am
+To: thomas engel/hou/ect@ ect, linda s bryan/hou/ect@ ect, karen
+Lambert/hou/ect@ ect, bob bowen/hou/ect@ ect
+Cc:
+Subject: flexible physical us nat gas products on enrononline
+Got any ideas on how this transaction should look. This looks like a monthly
+Volume that would be further refined to daily on the expected volumes once
+The counterparty has made their decision (I would imagine logistics will be
+The one communicating with the counterparty). We probably need eol to
+Indicate whether it is a 3, 5, 10 day delivery cycle and then indicate this
+As comments.
+Linda/karen - what are your thoughts on how separate gtc would work on this.
+If we could all do a little homework. I will get something scheduled for
+Next week to discuss further.
+Srm (x 33548)
+- - - - - - - - - - - - - - - - - - - - - - forwarded by scott mills/hou/ect on 06/23/2000 09: 37
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dale neuner 06/23/2000 08: 40 am
+To: david forster/corp/enron@ enron, sherI thomas/hou/ect@ ect, scott
+Mills/hou/ect@ ect, bjorn hagelmann/hou/ect@ ect, tom moran/hou/ect@ ect, debbie
+R brackett/hou/ect@ ect, mark taylor/hou/ect@ ect, stacy e dickson/hou/ect@ ect,
+Jeffrey t hodge/hou/ect@ ect, jeff blumenthal/hou/ect@ ect, stephen h
+Douglas/hou/ect@ ect, rudI zipter/hou/ect@ ect, imelda frayre/hou/ect@ ect,
+Larrissa sharma/hou/ect@ ect, torrey moorer/hou/ect@ ect, frank l
+Davis/hou/ect@ ect, melba lozano/hou/ect@ ect, robert b cass/hou/ect@ ect,
+Jefferson d sorenson/hou/ect@ ect, bob bowen/hou/ect@ ect, larry joe
+Hunter/hou/ect@ ect, jennifer blay/hou/ect@ ect
+Cc: scott hendrickson/hou/ect@ ect
+Subject: flexible physical us nat gas products on enrononline
+We are positioning ourselves to release a new product type that we will refer
+To as a flexible physical gas product. Legal is in the process of drafting a
+Gtc and product type description that will be used with this product type. I
+Will start the building process once legal provides the gtc and product type
+Description; but in the interim, here' s a broadstroke description of how the
+Transaction works:
+Party a and party b exchange gas during the month of june 2000.
+Party a buys 10, 000 mmbtu per day (or 300, 000 total mmbtu) at tco pool index
+Party b has the right to notify party a of when party b wants to take
+Delivery during the month of june, and may take delivery in one of three
+Forms: 3 - day delivery, 5 - day delivery, or 10 - day delivery. The gas nominated
+For each such day would be a percentage of the total 300, 000 mmbtu (i. E.; if
+Party b chooses 5 days for nomination, party a would deliver 20% of the
+300, 000 mmbtu on each of those 5 days for a total nom of 100%). Party b pay
+Tco pool index plus a premium.
+I understand that this type of transaction is currently done
+Over - the - counter. Scott mills has previously issued an explanatory e - mail of
+Sitara concerns and we should begin to address those issues.
+Bjorn - if you could ask someone to prepare a sigma factor in advance, then
+My turn around time to for the product type should be reduced. Also, due to
+The varying' optionality', do you think these three different products will
+Require three different product types?
+Please feel free to call if you have any questions.
+Dale
+3 - 9746

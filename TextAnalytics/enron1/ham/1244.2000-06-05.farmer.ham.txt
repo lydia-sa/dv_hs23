@@ -1,0 +1,35 @@
+Subject: new su bridge
+The new sitara to unify bridge monitor is in production.
+The monitor shows deals in error state (failed) or in queue to bridge
+(pending) - for deals going to unify from sitara.
+You will find it under - start - programs - trading - sitara - su bridge
+Monitor.
+You may need to load the borland bde v 5. 0 software to use this, if not
+Already loaded.
+We enhanced the monitor to make it a more useful tool.
+If deal is in an error state on the sitara side - we have not sent it over to
+Unify.
+If the deal in an error state on the unify side - sitara has sent it to unify
+- however - it is in the unify failed deal group.
+You can sort by the columns - best to sort by business unit.
+The date column - shows the last time someone edited the deal.
+Start date and stop date - are begin and end date of deal.
+Sitara deal id - as well as - eol deal id.
+Indicates if the deal is an business unit is an agent on the deal.
+If you are contract or validation support - please do not edit the status = p
+Deals - these are the deals with pending status for desk to desk transactions
+(awaiting the other desk to approve the deal or changes to the deal). If you
+Release these deals - you will be the approver of the deal - as you have
+Access to multiple desks.
+You can hit the refresh button to re - query the data - or set the auto refresh
+On the tool bar.
+We did not build filter by business unit for multiple reasons:
+- the expense to build the filter.
+- it is easier to support if everyone is looking at the same thing.
+- if there is a new business unit - you will see it.
+- normally - there should not be more than a screen full of deals in error
+State - once petro can/suncor/sunoco are set up - we will have a reasonable
+Number to look at - and you can sort by the business unit column.
+- if you do want to filter - you may do so - by using the send to excel
+Feature - under tool bar option - file - dump to excel.
+If you have any questions or problems - please call the sitara hotline.

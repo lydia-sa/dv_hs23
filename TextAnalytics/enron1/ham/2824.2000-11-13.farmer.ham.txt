@@ -1,0 +1,8 @@
+Subject: change in scada server to nahou - scada 2
+The name of the scada server has been changed from ecthou _ scadal to
+Nahou - scada 2.
+If you have a personal excel spreadsheet that obtains data from the scada
+Server using netdde, you will have to edit the spreadsheet. Change the old
+Name to the new name.
+If you have any questions or need assistance, please call 34200.
+- dave stadnick

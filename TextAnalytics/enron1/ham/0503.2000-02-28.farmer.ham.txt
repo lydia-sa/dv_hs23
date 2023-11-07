@@ -1,0 +1,35 @@
+Subject: estimate file updates
+Dave,
+Please have steve remove the meters in the following list from the estimate
+File. These were accounting meters set up to represent the offsetting
+Physical meters. The physical meters should still receive estimates.
+If you have any questions please call.
+Gary
+- - - - - - - - - - - - - - - - - - - - - - forwarded by gary a hanks/hou/ect on 02/28/2000 02: 28
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+George grant
+02/08/2000 03: 28 pm
+To: gary a hanks/hou/ect@ ect, aimee lannou/hou/ect@ ect, clem
+Cernosek/hou/ect@ ect, pat clynes/corp/enron@ enron, daren j
+Farmer/hou/ect@ ect, thu nguyen/hou/ect@ ect, jennifer d pattison/hou/ect@ ect,
+O' neal d winfree/hou/ect@ ect
+Cc:
+Subject:
+Gary,
+Could you please remove scada/mips from the following hpl meters. These
+Meters are where mid - texas interconnects with
+Pg & e' s system, and there should not be any measurement taking place on hpl.
+These meters were set up originally when we thought
+That every meter on mid - texas should automatically have a corresponding meter
+On hpl. This assumption is now incorecct.
+980388
+980389
+980390
+980391
+980392
+980393
+987271
+987260
+987283
+Thanks
+George

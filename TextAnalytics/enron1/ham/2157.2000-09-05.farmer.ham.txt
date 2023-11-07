@@ -1,0 +1,33 @@
+Subject: re: possibly adding deal prices to path manager
+From: donna greif@ ect 09/05/2000 02: 28 pm
+To: pattI sullivan/hou/ect@ ect, victor lamadrid/hou/ect@ ect, george
+Smith/hou/ect@ ect, pat clynes/corp/enron@ enron, kevin heal/cal/ect@ ect
+Cc: diane h cook/hou/ect@ ect, robert superty/hou/ect@ ect, dave
+Nommensen/hou/ect@ ect
+Subject: possibly adding deal prices to path manager
+Please see note from nommensen below and let me know your thoughts (note:
+This additional functionality/screen
+View may cause an impact on system performance).
+Thanks!
+Dg
+- - - - - - - - - - - - - - - - - - - - - - forwarded by donna greif/hou/ect on 09/05/2000 02: 23
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: dave nommensen 08/31/2000 11: 37 am
+To: donna greif/hou/ect@ ect
+Cc: matt pena/na/enron@ enron, dave mcmullan/hou/ect@ ect
+Subject: possibly adding deal prices to path manager
+Donna,
+A request was brought up this week that I would like you to run by the
+Managers for input:
+- add the deal price to the sales and supply list windows of path manager
+This seems more significant based on the transactions from eol.
+This has been mentioned in the past, but has had some related" baggage":
+- impact on performance, may run slower. Could make it an option so you pay
+The price when you need it.
+- ability to show tier info. Maybe just use the work" tiered" and not try
+To represent the actual pricing
+- agreed format for those deals that have index pricing and percentage and
+Fixed price offset (ie 98% of if. Transco. Znl +. 02)
+This column would be customizable by resizing and relocating it by user
+Preference.
+Let me know what you hear. D. N.

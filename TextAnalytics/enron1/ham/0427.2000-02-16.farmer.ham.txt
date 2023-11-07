@@ -1,0 +1,136 @@
+Subject: re: copano line gain contract needed at meter 5310
+Daren,
+Deal 93481 expired 12/31/99, is there a new deal to replace it.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sherlyn schumack/hou/ect on 02/16/2000
+04: 48 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fred boas
+02/16/2000 04: 46 pm
+To: sherlyn schumack/hou/ect@ ect
+Cc:
+Subject: re: copano line gain contract needed at meter 5310
+To: fred boas/hou/ect@ ect
+Cc: howard b camp/hou/ect@ ect, robert e lloyd/hou/ect@ ect
+Subject: re: copano line gain contract needed at meter 5310
+Done.
+Thanks, stella
+Fred boas
+08/20/99 06: 53 pm
+To: stella l morris/hou/ect@ ect
+Cc: howard b camp/hou/ect@ ect, robert e lloyd/hou/ect@ ect
+Subject: re: copano line gain contract needed at meter 5310
+Stella:
+I set up the accounting arrangement on the hplr transport contract
+012 - 64610 - 02 - 052 for january through june per daren' s instructions below.
+The tracking id for all 6 months is 34500.
+I also set up accounting arrangement on the hplc transport contract
+012 - 41500 - 02 - 015 for july per daren' s instructions below. The tracking id
+For july is 34501. If you would, please put the transport contract in pops
+On monday morning and call me when your done so that I can reallocate the
+Meters. I need to call copano to tell them that their payment is on the way.
+I need the transport contracts, hplr and hplc put in for all 31 days of each
+Of the respective months.
+As always thanks in advance for your help,
+Fred
+Daren j farmer
+08/20/99 04: 50 pm
+To: fred boas/hou/ect@ ect
+Cc:
+Subject: re: copano line gain contract needed at meter 5310
+Fred,
+I had the typed the deal numbers incorrectly. July forward is on 93481.
+January - june is on 69176.
+Daren
+Fred boas
+08/20/99 12: 56 pm
+To: daren j farmer/hou/ect@ ect, stella l morris/hou/ect@ ect
+Cc: robert e lloyd/hou/ect@ ect, howard b camp/hou/ect@ ect, charlene
+Richmond/hou/ect@ ect
+Subject: copano line gain contract needed at meter 5310
+Daren:
+I looked in path manager and I see two deals - 93480 and 93481, but I don' t
+See deal 69176 for july forward that you mentioned below. Also, please
+Verify that the deal for january through june is 93481 and if the 69176 deal
+Is correct for july forward.
+Stella:
+I will need to set up accounting arrangements for these deals from january
+Forward. From daren' s note below it appears that for january through june i
+Will need an hplr transportation contract put in pops. When daren and I get
+The deal number issue resolved for july forward I will need an hplc contract
+Put into pops. Also for july forward, I will need the hplc contract in pops
+Every month through december to allocate copano line gain to if it occurs.
+Thanks to both of you,
+Fred
+Daren j farmer
+08/19/99 11: 16 am
+To: fred boas/hou/ect@ ect
+Cc: stella l morris/hou/ect@ ect, robert e lloyd/hou/ect@ ect, howard b
+Camp/hou/ect@ ect, charlene richmond/hou/ect@ ect
+Subject: re: copano line gain contract needed at meter 5310
+Fred,
+I have pathed the purchase from copano for 1999 in mops. Jan - jun is under
+Hplr (sitara 93481). July forward is under hplc (sitara 69176). I
+Understand that I cannot renom this to the pipe for prior months, because the
+Callout allocations will be affected. So, you will need to set up accounting
+Arrangements to get the nom into pops.
+Let me know if you have any questions.
+Daren
+Fred boas
+08/19/99 08: 01 am
+To: stella l morris/hou/ect@ ect, daren j farmer/hou/ect@ ect
+Cc: robert e lloyd/hou/ect@ ect, howard b camp/hou/ect@ ect, charlene
+Richmond/hou/ect@ ect
+Subject: re: copano line gain contract needed at meter 5310
+Stella/daren:
+What is the status of this request? Please let me know when I can reallocate
+This meter, the customer has not been paid for 3 months and is complaining.
+Fred
+To: robert e lloyd/hou/ect@ ect
+Cc: fred boas/hou/ect@ ect, mary m smith/hou/ect@ ect
+Subject: re: copano line gain contract needed at meter 5310
+Thanks for your help robert.
+Thanks again, stella
+From: robert e lloyd 08/12/99 04: 29 pm
+To: stella l morris/hou/ect@ ect
+Cc:
+Subject: copano line gain contract needed at meter 5310
+Fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by robert e lloyd/hou/ect on 08/12/99 04: 29
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+LaurI a allen
+08/12/99 04: 02 pm
+To: daren j farmer/hou/ect@ ect
+Cc: fred boas/hou/ect@ ect, robert e lloyd/hou/ect@ ect
+Subject: copano line gain contract needed at meter 5310
+Daren - fyi. There are deal tickets in sitara to cover this transaction -
+#69176 for hplr and #93481 for hplc - but they have zero volume and were not
+Pathed in unify. Could you get someone in your group to set these up for
+Fred, please? Let me know if you have any questions. Thanks.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by laurI a allen/hou/ect on 08/12/99 03: 59
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fred boas
+08/12/99 11: 19 am
+To: stella l morris/hou/ect@ ect
+Cc: laurI a allen/hou/ect@ ect, karen lambert/hou/ect@ ect, howard b
+Camp/hou/ect@ ect, robert e lloyd/hou/ect@ ect
+Subject: copano line gain contract needed at meter 5310
+Stella:
+I need the above referenced contract put into pops for january, may, june,
+July, and august 1999 forward. I need the contract in pops for august
+Forward because I never know when copano will allocate line gain to itself.
+In 1998 a spot contract was set up between hplr and copano pipeline/south
+Texas, l. P. With a synergI contract number 078 - 62210 - 101 and a global number
+Of 96016880 by karen lambert. Per karen this old agreement was terminated by
+Dan hyvl due to hplr business change to ect. In 1999, when copano began
+Allocating line gain to themselves again I contacted lauri, karen, and
+Yourself to see if I could get the contract in pops. Karen sent me an e - mail
+Indicating that she set - up a new contract for this hplc line gain purchase -
+Global #96022367 (I don' t have a" synergi" contract number). I know that in
+3/99 laurI contacted bernard widackI at copano to discuss this issue.
+I need laurI to review this and then I need the contract to be put in pops so
+That I can correctly allocate the gas at this meter. I have not allocated
+Any line gain in 1999 and the volumes are small. Karen is the most
+Knowledgeable about this contract, so I suggest that any questions be
+Directed to her regarding contract issues. Karen worked with bernard widacki
+At copano to set up the contract originally.
+Thanks,
+Fred

@@ -1,0 +1,23 @@
+Subject: gas message board
+A message board has been set up for the natural gas trading floor. This is a
+Secure internal enron board with viewing rights only for personal on the
+Natural gas trading floor, both traders and marketers. Please follow the
+Steps outlined here to access the gas message board.
+Steps to launch gas msg board:
+1) launch internet explorer
+2) type: http:// gasmsgboard. Corp. Enron. Com/msgframe. Asp (or just click on
+This url link)
+3) you should see the messages if there are any new messages for that day.
+If you don' t see any messages, there are two reasons:
+A. You are not a valid user, contact ina rangel at ext. 3 - 7257
+B. There are no new messages added for that given day yet.
+4) sending a message:
+A. Just simply enter a message in the test box at the lower portion of the
+Web page
+B. Click on the" send" button to send the message.
+5) once the message has been sent it will be displayed on the main window
+Immediately and all people who are on - line will get the new message on the
+Next refresh cycle.
+6) all messages will be cleared daily at 6: 00 pm
+Dutch quigley
+Ext. 3 - 9257

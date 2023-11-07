@@ -1,0 +1,9 @@
+Subject: hpl buy/sell reports
+Fyi. I provided two reports to david baumbach. The reports were downloaded
+To excel and saved to o:\logistics\buy _ sell _ hpl _ may _ 2000 and
+Buy _ sell _ hpl _ may _ 13 _ 2000. The first report reflects buys/sells by hpl across
+All pipes for the entire month of may. The second report reflects buys/sells
+By hpl across all pipes for may 13, 2000, only. Both reports were derived
+From the volume management module of unify. Please advise if you need
+Additional information.
+Bob

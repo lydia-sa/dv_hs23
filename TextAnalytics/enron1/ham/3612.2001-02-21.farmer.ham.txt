@@ -1,0 +1,35 @@
+Subject: eol deal ids in path manager
+Thought you might want to see this.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by edward terry/hou/ect on 02/21/2001 09: 19
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: matt pena/enron@ enronxgate on 02/21/2001 09: 11 am
+To: edward terry/hou/ect@ ect, george f smith/hou/ect@ ect, patti
+Sullivan/hou/ect@ ect, katherine l kelly/hou/ect@ ect, robert
+Superty/hou/ect@ ect, victor lamadrid/hou/ect@ ect, beverly beaty/hou/ect@ ect,
+Donna greif/hou/ect@ ect, richard pinion/hou/ect@ ect
+Cc: chris schomer/enron@ enronxgate, brian ripley/enron@ enronxgate, bob m
+Hall/na/enron@ enron, bryce baxter/hou/ect@ ect
+Subject: eol deal ids in path manager
+As you' re aware, we' re having to bridge houston street ids into unify from
+Sitara.
+We are being asked, as a requirement, to not display the eol id on statements
+That are identified as" broker eol trade" deals originating from eol. We
+Have two options to accomodate this requirement:
+Option 1 is to have the modify the bridge code to not bridge over the eol
+Deal id if the deal is a" broker eol trade" deal. One of the drawbacks of
+This option is that you won' t be able to referenence the eol id on the path
+Manager for these related deals. All other deals will have the eol deal id,
+If applicable. The eol id would not show up on the statements because it
+Wouldn' t be populated.
+Option 2 is to modify several areas of code in the settlements area which may
+Be more time consuming. The obvious code change would be in the statement
+Generation area as well as other report type information.
+Option 2 allows you the greatest flexibility while option 1 may be quicker to
+Implement.
+Please pass this along to others in your group and get feedback. Please
+Share your thoughts....
+I' ve attached an email explaining the broker eol trades. This is not to be
+Confused with broker deals done at a given point with not transportation.
+These will continue to come across as you' d normally expect.
+Any questions, please ask...
+Thanks!

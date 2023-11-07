@@ -1,0 +1,71 @@
+Subject: wed unify mtg 2: 00 - 2 allen center, 12 th floor conf room
+Attached is the presentation that jeff reviewed last week in the meeting.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod/hou/ect on 06/27/2000
+08: 39 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Jeff johnson@ enron
+06/19/2000 05: 34 pm
+To: beth perlman/hou/ect@ ect, bryce baxter/hou/ect@ ect, brent a
+Price/hou/ect@ ect, leslie reeves/hou/ect@ ect, laura e scott/cal/ect@ ect,
+Sheila glover/hou/ect@ ect, jefferson d sorenson/hou/ect@ ect, robert
+Superty/hou/ect@ ect, brenda f herod/hou/ect@ ect, kenneth m
+Harmon/hou/ect@ ect, dave nommensen/hou/ect@ ect, regan m smith/hou/ect@ ect,
+Laray. Odum@ luminant. Com, nadeem. Abbasi@ luminant. Com, scott
+Williamson/hou/ect@ ect, paul f poellinger/hou/ect@ ect, john
+Simmons/na/enron@ enron, chris hanz/corp/enron@ enron, sally beck/hou/ect@ ect,
+Rebecca ford/hou/ect@ ect
+Cc: angelina v lorio/hou/ect@ ect, john paskin/lon/ect@ ect
+Subject: wed unify mtg 2: 00 - 2 allen center, 12 th floor conf room
+Please note that the wed meeting will be held as planned from 2: 00 - 4: 00 pm in
+The 2 allen center in the 12 th floor forum conference room.
+The room entrance is just off the elevator bank foyer.
+Here is the draft of the presentation that we will discuss on wednesday. We
+Are interested in your input and feedback in the meeting on wednesday.
+Thanks.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jeff johnson/corp/enron on 06/19/2000
+05: 20 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Alarm enabled: an alarm will occur on 06/21/2000 01: 55 pm
+Calendar entry
+Brief description:
+Date:
+Time:
+Unify system - - problems and proposed immediate projects. Two allen center,
+12 th floor forum
+06/21/2000
+02: 00 pm - 04: 00 pm
+Detailed description:
+The meeting will be held in two allen center on the 12 th floor in the large
+Conference room (called the forum). The room entrance is just off the
+Elevator bank in the foyer.
+We believe that we have an approach to immediately begin to address key
+Performance issues in the unify system.
+To be successful with the proposed projects, we need your input, sponsorship
+And participation. Angie lorio will find a location and will publish as soon
+As possible.
+The proposed agenda is as follows:
+I. Unify - - current state, strengths, issues
+Ii. Conceptual overview of proposed solutions
+Organization building
+Performance monitoring team
+Sybase 12 upgrade
+Sql server testing
+Middle tier rearchitecture project
+Scoping for a re - write effort
+Iii. Solutions proposals/plans for immediate review/kickoff
+Proposed scope
+Assumptions
+High timelines/cost estimates
+Staffing
+Iv. Facilitated discussion on unify
+Future growth/changes required for unify
+New project prioritization
+Invitations have been sent to: beth perlman/hou/ect@ ect, bryce
+Baxter/hou/ect@ ect, brent a price/hou/ect@ ect, leslie reeves/hou/ect@ ect,
+Laura e scott/cal/ect@ ect, sheila glover/hou/ect@ ect, jefferson d
+Sorenson/hou/ect@ ect, robert superty/hou/ect@ ect, brenda f herod/hou/ect@ ect,
+Kenneth m harmon/hou/ect@ ect, dave nommensen/hou/ect@ ect, regan m
+Smith/hou/ect@ ect, laray. Odum@ luminant. Com, nadeem. Abbasi@ luminant. Com, scott
+Williamson/hou/ect@ ect, paul f poellinger/hou/ect@ ect
+Optional invitees: chris hanz/corp/enron@ enron, john simmons/na/enron@ enron,
+Angie lorio
+This meeting repeats starting on (if the date occurs on a weekend the
+Meeting).

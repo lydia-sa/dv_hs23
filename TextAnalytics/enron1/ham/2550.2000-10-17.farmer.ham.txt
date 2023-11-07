@@ -1,0 +1,14 @@
+Subject: meter 5892 south katy gas unit 2 - allocation
+Daren - - -
+I need some help with meter 5892 for september 00 due to a feedback error.
+Deal 133196 (purchase from duke on gathering contract) is erroring out due to
+It' s expiration date of 8/31/00...... However it still showed up in pops (w/o
+A nom) on 9/1. Volume management allocated volume to it according to the
+Allocation statement. Should this deal be extended? I noticed it is not out
+There for october either. I have the feedback error sheet & allocation if
+You want to see them.
+Let me know,
+Mark
+X 33396
+P. S. Fred boas said you used to handle this and you were very wise in the art
+Of allocation...... So I am expecting big results grasshopper!

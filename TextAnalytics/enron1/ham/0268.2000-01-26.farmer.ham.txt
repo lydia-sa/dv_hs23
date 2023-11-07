@@ -1,0 +1,10 @@
+Subject: deals 141877, 141883, and 141884 (koch midstream) were in ces' s system (and
+Ours) as term sales. However, those deals were terminated by ces. So, any
+Volumes at kmid are sold to midcon texas p/l operator at if -. 09. The purchase
+Price is (. 10) for base volumes and (. 11) for swing volumes. For feb, i
+Zeroed the volumes in deals 141877, 141833, 141884, in sitara. All of the
+Volumes will be in deal 156256. O' neal, do we need to risk assign this new
+Deal? Julie, it is an evergreen deal. Mtpl takes whatever is produced at the
+Points. Let me know if I can help with anything else.
+Thanks,
+Ac

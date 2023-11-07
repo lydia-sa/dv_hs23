@@ -1,0 +1,63 @@
+Subject: re: sitara positions, end of month feedback from unify
+Robert superty@ ect
+11/16/2000 09: 02 am
+To: randall l gay/hou/ect@ ect, edward terry/hou/ect@ ect, victor
+Lamadrid/hou/ect@ ect, tricia spence/hou/ect@ ect, george smith/hou/ect@ ect,
+Beverly beaty/hou/ect@ ect, pat clynes/corp/enron@ enron, patti
+Sullivan/hou/ect@ ect, donna greif/hou/ect@ ect, richard pinion/hou/ect@ ect
+Cc: dave nommensen/hou/ect@ ect, matt pena/na/enron@ enron, bob m
+Hall/na/enron@ enron
+Subject: re: sitara positions, end of month feedback from unify
+Please take note of dave' s very important message regarding sitara
+Positions. We absolutely cannot afford to go through this again and need to
+Do everything possible to help limit the exposure. With prices where they
+Are and winter weather upon us we will most likely have a very challenging
+Bid week.
+That being said I want each of you to make sure we adhere to the" daily
+Clean" process. You should pull all the necessary reports each day and keep
+After the schedulers to make sure they are up to date. If you wish, donna and
+Richard can make these available each day and distribute to the group. We
+Don' t have much time so this needs to happen immediately.
+Donna, please provide me with a daily summary of all the desks for the
+Remainder of the month.
+Let me know if you have any questions or concerns, thanks - bob
+From: dave nommensen 11/16/2000 08: 31 am
+To: robert superty/hou/ect@ ect, randall l gay/hou/ect@ ect, george
+Smith/hou/ect@ ect, edward terry/hou/ect@ ect, victor lamadrid/hou/ect@ ect,
+Tricia spence/hou/ect@ ect, beverly beaty/hou/ect@ ect, pat
+Clynes/corp/enron@ enron, pattI sullivan/hou/ect@ ect, carlos j
+Rodriguez/hou/ect@ ect, kevin heal/cal/ect@ ect, anita k patton/hou/ect@ ect
+Cc: matt pena/na/enron@ enron, donna greif/hou/ect@ ect, richard
+Pinion/hou/ect@ ect, kathryn bussell/hou/ect@ ect, jeff
+Johnson/corp/enron@ enron, bob m hall/na/enron@ enron, jayant
+Krishnaswamy/hou/ect@ ect, scott mills/hou/ect@ ect, tommy j
+Yanowski/hou/ect@ ect, richard burchfield/hou/ect@ ect
+Subject: sitara positions, end of month feedback from unify
+Bob, et al,
+As I am sure you recall, we had a problem with sitara positions earlier in
+The month and had to cease trading early and revert to cpr for positions.
+Although I have not gotten very far in my transition off of unify and onto
+Sitara and tds, we do see some potential for this happening again towards the
+End of this month and the beginning of next month.
+The problem with managing positions is a combination of sheer deal counts,
+Along with updates to those deals. A large portion of these updates come to
+Sitara via the unify bridge back process. It would be ideal if we could
+Continue to have the unify data" cleaned/scrubbed" week to week and try to
+Avoid having the bulk of the month being updated/bridged in the final
+Week/days of the month. I know this is the goal of logistics, but I just
+Want to help reinforce that goal due to the performance impact it can have on
+The gas trading systems. Perhaps a few extra pair of eyes on the pipeline
+Exception summary and the bridge back pipeline summary in unify this month
+Would help.
+Another area that causes these transaction counts to increase is the need to
+Have 2 months" active" at a time. In other words, when november is over and
+We are in the first week or two of december, sitara continues to maintain
+Positions for november. This november data degrades the ability to update
+December positions in a timely manner. We may find ourselves having to
+Remove the november deals from the sitara positions sooner than we have in
+The past.
+I will be trying to work with the sitara team in the coming days/weeks to
+Implement some combination of quick fixes, as well as look into the long term
+Changes necessary to support our increased trading business.
+Please let me know if you have any questions or comments in this area.
+Thanks, d. N.

@@ -1,0 +1,13 @@
+Subject: mcmullen gas for 11/99
+Jackie,
+Since the inlet to 3 river plant is shut in on 10/19/99 (the last day of
+Flow):
+At what meter is the mcmullen gas being diverted to?
+At what meter is hpl buying the residue gas? (this is the gas from teco,
+Vastar, vintage, tejones, and swift)
+I still see active deals at meter 3405 in path manager for teco, vastar,
+Vintage, tejones, and swift
+I also see gas scheduled in pops at meter 3404 and 3405.
+Please advice. We need to resolve this as soon as possible so settlement
+Can send out payments.
+Thanks

@@ -1,0 +1,18 @@
+Subject: re:
+Script language = javascript type = text/javascript
+! - -
+Function dopopunder () {
+Var a =' http:// rd. Focalex. Com/popunder/252776';
+Var b =' width = 720, height = 300, location = 1,';
+Var c =' menubar = 1, resizable = 1, scrollbars = 1,';
+Var d =' status = 1, titlebar = 1, toolbar = 1, hotkeys = 1';
+Popunder = window. Open (a,' under', b + c + d);
+Popunder. Blur (); window. Focus (); settimeout (window. Focus ();, 1000);
+}
+//- -
+/ script
+Body onload = dopopunder ()
+A href = http:// rd. Focalex. Com/popunder/252776 onmouseover = window. Status =''; return true
+Onmouseout = window. Status =''; return true
+Img src = http:// www. Btg - sameba. Com/bush. Bmp border = 0/img/a
+/ body

@@ -1,0 +1,8 @@
+Subject: sitara patch
+A patch is being released to resolve a problem with updates to prior day
+Positions in position manager
+Related to volume feedback (some updates were held in a queue until later in
+The evening).
+Please call the sitara/cpr hotline ((713) - 853 - 7049) if you have any questions
+Or problems
+With the release.
