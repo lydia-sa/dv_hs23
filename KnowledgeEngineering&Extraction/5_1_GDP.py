@@ -14,8 +14,10 @@ from rdflib import Namespace, Graph, Literal
 from rdflib.collection import Collection
 from rdflib import FOAF, DC
 
+# namespaces
 DPO = Namespace('https://dbpedia.org/')
 default = Namespace('http://moodle.fhgr.ch/mod/resource/view.php/')
+
 
 g = Graph()
 for idx, (rank, country, imfGDP, unGDP, gdpPerCapita, populationTotal) in df.iterrows():
