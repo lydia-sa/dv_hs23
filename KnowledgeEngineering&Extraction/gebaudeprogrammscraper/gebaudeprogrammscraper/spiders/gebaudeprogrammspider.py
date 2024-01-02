@@ -31,7 +31,8 @@ class GebaudeSpider(scrapy.Spider):
                 link = element_with_text.css('::attr(href)').extract_first()
                 yield {
                     'Kanton': kanton,
-                    'Link': link
+                    'Link': link,
+                    'Name': "Kantonale Website"
                 }
             else:
                 self.log('Keine relevanten Elemente gefunden.')
@@ -42,5 +43,4 @@ from scrapy.crawler import CrawlerProcess
 process = CrawlerProcess()
 process.crawl(GebaudeSpider)
 process.start()
-
 """
