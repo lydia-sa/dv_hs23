@@ -1,587 +1,169 @@
-Date,Kanton_Kurzname,Energiewirkung_GWh_CH,Massnahmenbereich_lang,Massnahmenbereich
-2010,CH,101.12,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2010/CH/Haustechnik,Haustechnik
-2010,CH,3.17,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2010/CH/Neubau,Neubau
-2010,CH,1.44,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2010/CH/Systemsanierung,Systemsanierung
-2010,CH,162.8,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2010/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2010,CH,9.24,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2010/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2010,CH,47.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2010/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2011,CH,218.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2011/CH/Haustechnik,Haustechnik
-2011,CH,6.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2011/CH/Neubau,Neubau
-2011,CH,3.31,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2011/CH/Systemsanierung,Systemsanierung
-2011,CH,400.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2011/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2011,CH,73.98,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2011/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2011,CH,98.41,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2011/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2012,CH,338.96,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2012/CH/Haustechnik,Haustechnik
-2012,CH,10.27,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2012/CH/Neubau,Neubau
-2012,CH,6.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2012/CH/Systemsanierung,Systemsanierung
-2012,CH,672.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2012/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2012,CH,169.84,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2012/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2012,CH,147.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2012/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2013,CH,453.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2013/CH/Haustechnik,Haustechnik
-2013,CH,14.22,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2013/CH/Neubau,Neubau
-2013,CH,9.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2013/CH/Systemsanierung,Systemsanierung
-2013,CH,924.59,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2013/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2013,CH,252.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2013/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2013,CH,194.42,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2013/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2014,CH,552.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2014/CH/Haustechnik,Haustechnik
-2014,CH,19.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2014/CH/Neubau,Neubau
-2014,CH,12.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2014/CH/Systemsanierung,Systemsanierung
-2014,CH,1210.48,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2014/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2014,CH,367.63,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2014/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2014,CH,257.57,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2014/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2015,CH,648.38,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2015/CH/Haustechnik,Haustechnik
-2015,CH,23.95,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2015/CH/Neubau,Neubau
-2015,CH,19.05,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2015/CH/Systemsanierung,Systemsanierung
-2015,CH,1445.6,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2015/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2015,CH,449.45,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2015/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2015,CH,304.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2015/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2016,CH,742.83,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2016/CH/Haustechnik,Haustechnik
-2016,CH,27.86,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2016/CH/Neubau,Neubau
-2016,CH,22.2,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2016/CH/Systemsanierung,Systemsanierung
-2016,CH,1667.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2016/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2016,CH,527.23,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2016/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2016,CH,347.69,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2016/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2017,CH,830.55,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2017/CH/Haustechnik,Haustechnik
-2017,CH,31.46,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2017/CH/Neubau,Neubau
-2017,CH,26.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2017/CH/Systemsanierung,Systemsanierung
-2017,CH,1890.1,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2017/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2017,CH,602.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2017/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2017,CH,399.64,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2017/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2018,CH,919.51,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2018/CH/Haustechnik,Haustechnik
-2018,CH,36.72,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2018/CH/Neubau,Neubau
-2018,CH,33.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2018/CH/Systemsanierung,Systemsanierung
-2018,CH,2098.95,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2018/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2018,CH,666.06,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2018/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2018,CH,443.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2018/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2019,CH,1002.59,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2019/CH/Haustechnik,Haustechnik
-2019,CH,40.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2019/CH/Neubau,Neubau
-2019,CH,45.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2019/CH/Systemsanierung,Systemsanierung
-2019,CH,2298.45,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2019/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2019,CH,731.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2019/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2019,CH,478.74,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2019/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2020,CH,1113.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2020/CH/Haustechnik,Haustechnik
-2020,CH,45.39,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2020/CH/Neubau,Neubau
-2020,CH,60.94,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2020/CH/Systemsanierung,Systemsanierung
-2020,CH,2527.78,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2020/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2020,CH,785.92,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2020/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2020,CH,522.03,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2020/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2021,CH,1280.29,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2021/CH/Haustechnik,Haustechnik
-2021,CH,57.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2021/CH/Neubau,Neubau
-2021,CH,81.18,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2021/CH/Systemsanierung,Systemsanierung
-2021,CH,2816.23,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2021/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2021,CH,839.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2021/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2021,CH,557.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2021/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2022,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2022/CH/Haustechnik,Haustechnik
-2022,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2022/CH/Neubau,Neubau
-2022,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2022/CH/Systemsanierung,Systemsanierung
-2022,CH,3222.54,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2022/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2022,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2022/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2022,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2022/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2023,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2023/CH/Haustechnik,Haustechnik
-2023,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2023/CH/Neubau,Neubau
-2023,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2023/CH/Systemsanierung,Systemsanierung
-2023,CH,3222.54,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2023/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2023,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2023/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2023,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2023/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2024,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2024/CH/Haustechnik,Haustechnik
-2024,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2024/CH/Neubau,Neubau
-2024,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2024/CH/Systemsanierung,Systemsanierung
-2024,CH,3222.54,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2024/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2024,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2024/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2024,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2024/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2025,CH,1486.38,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2025/CH/Haustechnik,Haustechnik
-2025,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2025/CH/Neubau,Neubau
-2025,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2025/CH/Systemsanierung,Systemsanierung
-2025,CH,3184.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2025/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2025,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2025/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2025,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2025/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2026,CH,1449.8,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2026/CH/Haustechnik,Haustechnik
-2026,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2026/CH/Neubau,Neubau
-2026,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2026/CH/Systemsanierung,Systemsanierung
-2026,CH,3148.04,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2026/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2026,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2026/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2026,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2026/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2027,CH,1415.56,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2027/CH/Haustechnik,Haustechnik
-2027,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2027/CH/Neubau,Neubau
-2027,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2027/CH/Systemsanierung,Systemsanierung
-2027,CH,3113.8,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2027/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2027,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2027/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2027,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2027/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2028,CH,1381.16,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2028/CH/Haustechnik,Haustechnik
-2028,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2028/CH/Neubau,Neubau
-2028,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2028/CH/Systemsanierung,Systemsanierung
-2028,CH,3079.4,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2028/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2028,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2028/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2028,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2028/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2029,CH,1342.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2029/CH/Haustechnik,Haustechnik
-2029,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2029/CH/Neubau,Neubau
-2029,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2029/CH/Systemsanierung,Systemsanierung
-2029,CH,3040.54,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2029/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2029,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2029/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2029,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2029/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2030,CH,1267.07,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2030/CH/Haustechnik,Haustechnik
-2030,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2030/CH/Neubau,Neubau
-2030,CH,101.67,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2030/CH/Systemsanierung,Systemsanierung
-2030,CH,2916.04,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2030/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2030,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2030/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2030,CH,590.42,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2030/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2031,CH,1176.12,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2031/CH/Haustechnik,Haustechnik
-2031,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2031/CH/Neubau,Neubau
-2031,CH,99.8,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2031/CH/Systemsanierung,Systemsanierung
-2031,CH,2772.64,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2031/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2031,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2031/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2031,CH,539.83,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2031/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2032,CH,1073.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2032/CH/Haustechnik,Haustechnik
-2032,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2032/CH/Neubau,Neubau
-2032,CH,96.92,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2032/CH/Systemsanierung,Systemsanierung
-2032,CH,2617.93,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2032/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2032,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2032/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2032,CH,490.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/1/observation/2032/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2010,CH,101.12,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2010/CH/Haustechnik,Haustechnik
-2010,CH,3.17,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2010/CH/Neubau,Neubau
-2010,CH,1.44,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2010/CH/Systemsanierung,Systemsanierung
-2010,CH,162.8,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2010/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2010,CH,9.24,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2010/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2010,CH,47.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2010/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2011,CH,218.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2011/CH/Haustechnik,Haustechnik
-2011,CH,6.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2011/CH/Neubau,Neubau
-2011,CH,3.31,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2011/CH/Systemsanierung,Systemsanierung
-2011,CH,400.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2011/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2011,CH,73.98,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2011/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2011,CH,98.41,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2011/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2012,CH,338.96,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2012/CH/Haustechnik,Haustechnik
-2012,CH,10.27,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2012/CH/Neubau,Neubau
-2012,CH,6.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2012/CH/Systemsanierung,Systemsanierung
-2012,CH,672.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2012/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2012,CH,169.84,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2012/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2012,CH,147.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2012/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2013,CH,453.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2013/CH/Haustechnik,Haustechnik
-2013,CH,14.22,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2013/CH/Neubau,Neubau
-2013,CH,9.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2013/CH/Systemsanierung,Systemsanierung
-2013,CH,924.59,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2013/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2013,CH,252.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2013/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2013,CH,194.42,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2013/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2014,CH,552.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2014/CH/Haustechnik,Haustechnik
-2014,CH,19.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2014/CH/Neubau,Neubau
-2014,CH,12.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2014/CH/Systemsanierung,Systemsanierung
-2014,CH,1210.48,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2014/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2014,CH,367.63,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2014/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2014,CH,257.57,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2014/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2015,CH,648.38,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2015/CH/Haustechnik,Haustechnik
-2015,CH,23.95,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2015/CH/Neubau,Neubau
-2015,CH,19.05,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2015/CH/Systemsanierung,Systemsanierung
-2015,CH,1445.6,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2015/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2015,CH,449.45,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2015/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2015,CH,304.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2015/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2016,CH,742.83,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2016/CH/Haustechnik,Haustechnik
-2016,CH,27.86,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2016/CH/Neubau,Neubau
-2016,CH,22.2,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2016/CH/Systemsanierung,Systemsanierung
-2016,CH,1667.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2016/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2016,CH,527.23,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2016/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2016,CH,347.69,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2016/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2017,CH,830.55,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2017/CH/Haustechnik,Haustechnik
-2017,CH,31.46,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2017/CH/Neubau,Neubau
-2017,CH,26.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2017/CH/Systemsanierung,Systemsanierung
-2017,CH,1890.1,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2017/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2017,CH,602.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2017/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2017,CH,399.64,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2017/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2018,CH,919.51,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2018/CH/Haustechnik,Haustechnik
-2018,CH,36.72,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2018/CH/Neubau,Neubau
-2018,CH,33.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2018/CH/Systemsanierung,Systemsanierung
-2018,CH,2098.95,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2018/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2018,CH,666.06,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2018/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2018,CH,443.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2018/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2019,CH,1002.59,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2019/CH/Haustechnik,Haustechnik
-2019,CH,40.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2019/CH/Neubau,Neubau
-2019,CH,45.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2019/CH/Systemsanierung,Systemsanierung
-2019,CH,2298.45,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2019/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2019,CH,731.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2019/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2019,CH,478.74,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2019/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2020,CH,1113.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2020/CH/Haustechnik,Haustechnik
-2020,CH,45.39,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2020/CH/Neubau,Neubau
-2020,CH,60.94,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2020/CH/Systemsanierung,Systemsanierung
-2020,CH,2527.78,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2020/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2020,CH,785.92,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2020/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2020,CH,522.03,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2020/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2021,CH,1280.29,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2021/CH/Haustechnik,Haustechnik
-2021,CH,57.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2021/CH/Neubau,Neubau
-2021,CH,81.18,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2021/CH/Systemsanierung,Systemsanierung
-2021,CH,2816.23,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2021/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2021,CH,839.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2021/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2021,CH,557.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2021/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2022,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2022/CH/Haustechnik,Haustechnik
-2022,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2022/CH/Neubau,Neubau
-2022,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2022/CH/Systemsanierung,Systemsanierung
-2022,CH,3222.54,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2022/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2022,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2022/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2022,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2022/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2023,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2023/CH/Haustechnik,Haustechnik
-2023,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2023/CH/Neubau,Neubau
-2023,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2023/CH/Systemsanierung,Systemsanierung
-2023,CH,3222.54,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2023/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2023,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2023/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2023,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2023/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2024,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2024/CH/Haustechnik,Haustechnik
-2024,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2024/CH/Neubau,Neubau
-2024,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2024/CH/Systemsanierung,Systemsanierung
-2024,CH,3222.54,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2024/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2024,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2024/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2024,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2024/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2025,CH,1486.38,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2025/CH/Haustechnik,Haustechnik
-2025,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2025/CH/Neubau,Neubau
-2025,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2025/CH/Systemsanierung,Systemsanierung
-2025,CH,3184.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2025/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2025,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2025/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2025,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2025/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2026,CH,1449.8,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2026/CH/Haustechnik,Haustechnik
-2026,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2026/CH/Neubau,Neubau
-2026,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2026/CH/Systemsanierung,Systemsanierung
-2026,CH,3148.04,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2026/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2026,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2026/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2026,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2026/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2027,CH,1415.56,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2027/CH/Haustechnik,Haustechnik
-2027,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2027/CH/Neubau,Neubau
-2027,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2027/CH/Systemsanierung,Systemsanierung
-2027,CH,3113.8,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2027/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2027,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2027/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2027,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2027/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2028,CH,1381.16,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2028/CH/Haustechnik,Haustechnik
-2028,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2028/CH/Neubau,Neubau
-2028,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2028/CH/Systemsanierung,Systemsanierung
-2028,CH,3079.4,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2028/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2028,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2028/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2028,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2028/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2029,CH,1342.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2029/CH/Haustechnik,Haustechnik
-2029,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2029/CH/Neubau,Neubau
-2029,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2029/CH/Systemsanierung,Systemsanierung
-2029,CH,3040.54,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2029/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2029,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2029/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2029,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2029/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2030,CH,1267.07,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2030/CH/Haustechnik,Haustechnik
-2030,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2030/CH/Neubau,Neubau
-2030,CH,101.67,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2030/CH/Systemsanierung,Systemsanierung
-2030,CH,2916.04,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2030/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2030,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2030/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2030,CH,590.42,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2030/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2031,CH,1176.12,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2031/CH/Haustechnik,Haustechnik
-2031,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2031/CH/Neubau,Neubau
-2031,CH,99.8,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2031/CH/Systemsanierung,Systemsanierung
-2031,CH,2772.64,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2031/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2031,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2031/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2031,CH,539.83,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2031/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2032,CH,1073.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2032/CH/Haustechnik,Haustechnik
-2032,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2032/CH/Neubau,Neubau
-2032,CH,96.92,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2032/CH/Systemsanierung,Systemsanierung
-2032,CH,2617.93,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2032/CH/Total%20Energiewirkung%20Geb%C3%A4udeprogramm,Total Energiewirkung Gebäudeprogramm
-2032,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2032/CH/W%C3%A4rmed%C3%A4mmung,Wärmedämmung
-2032,CH,490.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/2/observation/2032/CH/Zentrale%20W%C3%A4rmeversorgung,Zentrale Wärmeversorgung
-2010,CH,101.12,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2010/CH/Haustechnik,Haustechnik
-2010,CH,3.17,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2010/CH/Neubau,Neubau
-2010,CH,1.44,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2010/CH/Systemsanierung,Systemsanierung
-2011,CH,218.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2011/CH/Haustechnik,Haustechnik
-2011,CH,6.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2011/CH/Neubau,Neubau
-2011,CH,3.31,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2011/CH/Systemsanierung,Systemsanierung
-2012,CH,338.96,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2012/CH/Haustechnik,Haustechnik
-2012,CH,10.27,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2012/CH/Neubau,Neubau
-2012,CH,6.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2012/CH/Systemsanierung,Systemsanierung
-2013,CH,453.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2013/CH/Haustechnik,Haustechnik
-2013,CH,14.22,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2013/CH/Neubau,Neubau
-2013,CH,9.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2013/CH/Systemsanierung,Systemsanierung
-2014,CH,552.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2014/CH/Haustechnik,Haustechnik
-2014,CH,19.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2014/CH/Neubau,Neubau
-2014,CH,12.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2014/CH/Systemsanierung,Systemsanierung
-2015,CH,648.38,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2015/CH/Haustechnik,Haustechnik
-2015,CH,23.95,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2015/CH/Neubau,Neubau
-2015,CH,19.05,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2015/CH/Systemsanierung,Systemsanierung
-2016,CH,742.83,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2016/CH/Haustechnik,Haustechnik
-2016,CH,27.86,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2016/CH/Neubau,Neubau
-2016,CH,22.2,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2016/CH/Systemsanierung,Systemsanierung
-2017,CH,830.55,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2017/CH/Haustechnik,Haustechnik
-2017,CH,31.46,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2017/CH/Neubau,Neubau
-2017,CH,26.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2017/CH/Systemsanierung,Systemsanierung
-2018,CH,919.51,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2018/CH/Haustechnik,Haustechnik
-2018,CH,36.72,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2018/CH/Neubau,Neubau
-2018,CH,33.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2018/CH/Systemsanierung,Systemsanierung
-2019,CH,1002.59,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2019/CH/Haustechnik,Haustechnik
-2019,CH,40.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2019/CH/Neubau,Neubau
-2019,CH,45.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2019/CH/Systemsanierung,Systemsanierung
-2020,CH,1113.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2020/CH/Haustechnik,Haustechnik
-2020,CH,45.39,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2020/CH/Neubau,Neubau
-2020,CH,60.94,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2020/CH/Systemsanierung,Systemsanierung
-2021,CH,1280.29,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2021/CH/Haustechnik,Haustechnik
-2021,CH,57.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2021/CH/Neubau,Neubau
-2021,CH,81.18,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2021/CH/Systemsanierung,Systemsanierung
-2022,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2022/CH/Haustechnik,Haustechnik
-2022,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2022/CH/Neubau,Neubau
-2022,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2022/CH/Systemsanierung,Systemsanierung
-2023,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2023/CH/Haustechnik,Haustechnik
-2023,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2023/CH/Neubau,Neubau
-2023,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2023/CH/Systemsanierung,Systemsanierung
-2024,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2024/CH/Haustechnik,Haustechnik
-2024,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2024/CH/Neubau,Neubau
-2024,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2024/CH/Systemsanierung,Systemsanierung
-2025,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2025/CH/Haustechnik,Haustechnik
-2025,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2025/CH/Neubau,Neubau
-2025,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2025/CH/Systemsanierung,Systemsanierung
-2026,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2026/CH/Haustechnik,Haustechnik
-2026,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2026/CH/Neubau,Neubau
-2026,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2026/CH/Systemsanierung,Systemsanierung
-2027,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2027/CH/Haustechnik,Haustechnik
-2027,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2027/CH/Neubau,Neubau
-2027,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2027/CH/Systemsanierung,Systemsanierung
-2028,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2028/CH/Haustechnik,Haustechnik
-2028,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2028/CH/Neubau,Neubau
-2028,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2028/CH/Systemsanierung,Systemsanierung
-2029,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2029/CH/Haustechnik,Haustechnik
-2029,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2029/CH/Neubau,Neubau
-2029,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2029/CH/Systemsanierung,Systemsanierung
-2030,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2030/CH/Haustechnik,Haustechnik
-2030,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2030/CH/Neubau,Neubau
-2030,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2030/CH/Systemsanierung,Systemsanierung
-2031,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2031/CH/Haustechnik,Haustechnik
-2031,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2031/CH/Neubau,Neubau
-2031,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2031/CH/Systemsanierung,Systemsanierung
-2032,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2032/CH/Haustechnik,Haustechnik
-2032,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2032/CH/Neubau,Neubau
-2032,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2032/CH/Systemsanierung,Systemsanierung
-2010,CH,9.24,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2010/CH/Waermedaemmung,Waermedaemmung
-2010,CH,47.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2010/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2011,CH,73.98,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2011/CH/Waermedaemmung,Waermedaemmung
-2011,CH,98.41,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2011/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2012,CH,169.84,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2012/CH/Waermedaemmung,Waermedaemmung
-2012,CH,147.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2012/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2013,CH,252.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2013/CH/Waermedaemmung,Waermedaemmung
-2013,CH,194.42,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2013/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2014,CH,367.63,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2014/CH/Waermedaemmung,Waermedaemmung
-2014,CH,257.57,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2014/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2015,CH,449.45,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2015/CH/Waermedaemmung,Waermedaemmung
-2015,CH,304.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2015/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2016,CH,527.23,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2016/CH/Waermedaemmung,Waermedaemmung
-2016,CH,347.69,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2016/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2017,CH,602.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2017/CH/Waermedaemmung,Waermedaemmung
-2017,CH,399.64,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2017/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2018,CH,666.06,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2018/CH/Waermedaemmung,Waermedaemmung
-2018,CH,443.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2018/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2019,CH,731.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2019/CH/Waermedaemmung,Waermedaemmung
-2019,CH,478.74,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2019/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2020,CH,785.92,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2020/CH/Waermedaemmung,Waermedaemmung
-2020,CH,522.03,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2020/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2021,CH,839.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2021/CH/Waermedaemmung,Waermedaemmung
-2021,CH,557.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2021/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2022,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2022/CH/Waermedaemmung,Waermedaemmung
-2022,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2022/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2023,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2023/CH/Waermedaemmung,Waermedaemmung
-2023,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2023/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2024,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2024/CH/Waermedaemmung,Waermedaemmung
-2024,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2024/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2025,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2025/CH/Waermedaemmung,Waermedaemmung
-2025,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2025/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2026,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2026/CH/Waermedaemmung,Waermedaemmung
-2026,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2026/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2027,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2027/CH/Waermedaemmung,Waermedaemmung
-2027,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2027/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2028,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2028/CH/Waermedaemmung,Waermedaemmung
-2028,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2028/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2029,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2029/CH/Waermedaemmung,Waermedaemmung
-2029,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2029/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2030,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2030/CH/Waermedaemmung,Waermedaemmung
-2030,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2030/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2031,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2031/CH/Waermedaemmung,Waermedaemmung
-2031,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2031/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2032,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2032/CH/Waermedaemmung,Waermedaemmung
-2032,CH,0.0,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/3/observation/2032/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2010,CH,101.12,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2010/CH/Haustechnik,Haustechnik
-2010,CH,3.17,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2010/CH/Neubau,Neubau
-2010,CH,1.44,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2010/CH/Systemsanierung,Systemsanierung
-2011,CH,218.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2011/CH/Haustechnik,Haustechnik
-2011,CH,6.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2011/CH/Neubau,Neubau
-2011,CH,3.31,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2011/CH/Systemsanierung,Systemsanierung
-2012,CH,338.96,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2012/CH/Haustechnik,Haustechnik
-2012,CH,10.27,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2012/CH/Neubau,Neubau
-2012,CH,6.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2012/CH/Systemsanierung,Systemsanierung
-2013,CH,453.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2013/CH/Haustechnik,Haustechnik
-2013,CH,14.22,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2013/CH/Neubau,Neubau
-2013,CH,9.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2013/CH/Systemsanierung,Systemsanierung
-2014,CH,552.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2014/CH/Haustechnik,Haustechnik
-2014,CH,19.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2014/CH/Neubau,Neubau
-2014,CH,12.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2014/CH/Systemsanierung,Systemsanierung
-2015,CH,648.38,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2015/CH/Haustechnik,Haustechnik
-2015,CH,23.95,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2015/CH/Neubau,Neubau
-2015,CH,19.05,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2015/CH/Systemsanierung,Systemsanierung
-2016,CH,742.83,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2016/CH/Haustechnik,Haustechnik
-2016,CH,27.86,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2016/CH/Neubau,Neubau
-2016,CH,22.2,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2016/CH/Systemsanierung,Systemsanierung
-2017,CH,830.55,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2017/CH/Haustechnik,Haustechnik
-2017,CH,31.46,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2017/CH/Neubau,Neubau
-2017,CH,26.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2017/CH/Systemsanierung,Systemsanierung
-2018,CH,919.51,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2018/CH/Haustechnik,Haustechnik
-2018,CH,36.72,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2018/CH/Neubau,Neubau
-2018,CH,33.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2018/CH/Systemsanierung,Systemsanierung
-2019,CH,1002.59,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2019/CH/Haustechnik,Haustechnik
-2019,CH,40.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2019/CH/Neubau,Neubau
-2019,CH,45.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2019/CH/Systemsanierung,Systemsanierung
-2020,CH,1113.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2020/CH/Haustechnik,Haustechnik
-2020,CH,45.39,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2020/CH/Neubau,Neubau
-2020,CH,60.94,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2020/CH/Systemsanierung,Systemsanierung
-2021,CH,1280.29,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2021/CH/Haustechnik,Haustechnik
-2021,CH,57.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2021/CH/Neubau,Neubau
-2021,CH,81.18,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2021/CH/Systemsanierung,Systemsanierung
-2022,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2022/CH/Haustechnik,Haustechnik
-2022,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2022/CH/Neubau,Neubau
-2022,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2022/CH/Systemsanierung,Systemsanierung
-2010,CH,9.24,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2010/CH/Waermedaemmung,Waermedaemmung
-2010,CH,47.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2010/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2011,CH,73.98,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2011/CH/Waermedaemmung,Waermedaemmung
-2011,CH,98.41,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2011/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2012,CH,169.84,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2012/CH/Waermedaemmung,Waermedaemmung
-2012,CH,147.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2012/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2013,CH,252.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2013/CH/Waermedaemmung,Waermedaemmung
-2013,CH,194.42,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2013/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2014,CH,367.63,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2014/CH/Waermedaemmung,Waermedaemmung
-2014,CH,257.57,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2014/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2015,CH,449.45,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2015/CH/Waermedaemmung,Waermedaemmung
-2015,CH,304.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2015/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2016,CH,527.23,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2016/CH/Waermedaemmung,Waermedaemmung
-2016,CH,347.69,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2016/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2017,CH,602.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2017/CH/Waermedaemmung,Waermedaemmung
-2017,CH,399.64,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2017/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2018,CH,666.06,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2018/CH/Waermedaemmung,Waermedaemmung
-2018,CH,443.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2018/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2019,CH,731.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2019/CH/Waermedaemmung,Waermedaemmung
-2019,CH,478.74,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2019/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2020,CH,785.92,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2020/CH/Waermedaemmung,Waermedaemmung
-2020,CH,522.03,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2020/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2021,CH,839.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2021/CH/Waermedaemmung,Waermedaemmung
-2021,CH,557.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2021/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2022,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2022/CH/Waermedaemmung,Waermedaemmung
-2022,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/4/observation/2022/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2010,CH,101.12,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2010/CH/Haustechnik,Haustechnik
-2010,CH,3.17,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2010/CH/Neubau,Neubau
-2010,CH,1.44,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2010/CH/Systemsanierung,Systemsanierung
-2011,CH,218.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2011/CH/Haustechnik,Haustechnik
-2011,CH,6.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2011/CH/Neubau,Neubau
-2011,CH,3.31,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2011/CH/Systemsanierung,Systemsanierung
-2012,CH,338.96,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2012/CH/Haustechnik,Haustechnik
-2012,CH,10.27,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2012/CH/Neubau,Neubau
-2012,CH,6.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2012/CH/Systemsanierung,Systemsanierung
-2013,CH,453.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2013/CH/Haustechnik,Haustechnik
-2013,CH,14.22,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2013/CH/Neubau,Neubau
-2013,CH,9.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2013/CH/Systemsanierung,Systemsanierung
-2014,CH,552.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2014/CH/Haustechnik,Haustechnik
-2014,CH,19.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2014/CH/Neubau,Neubau
-2014,CH,12.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2014/CH/Systemsanierung,Systemsanierung
-2015,CH,648.38,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2015/CH/Haustechnik,Haustechnik
-2015,CH,23.95,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2015/CH/Neubau,Neubau
-2015,CH,19.05,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2015/CH/Systemsanierung,Systemsanierung
-2016,CH,742.83,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2016/CH/Haustechnik,Haustechnik
-2016,CH,27.86,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2016/CH/Neubau,Neubau
-2016,CH,22.2,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2016/CH/Systemsanierung,Systemsanierung
-2017,CH,830.55,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2017/CH/Haustechnik,Haustechnik
-2017,CH,31.46,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2017/CH/Neubau,Neubau
-2017,CH,26.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2017/CH/Systemsanierung,Systemsanierung
-2018,CH,919.51,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2018/CH/Haustechnik,Haustechnik
-2018,CH,36.72,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2018/CH/Neubau,Neubau
-2018,CH,33.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2018/CH/Systemsanierung,Systemsanierung
-2019,CH,1002.59,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2019/CH/Haustechnik,Haustechnik
-2019,CH,40.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2019/CH/Neubau,Neubau
-2019,CH,45.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2019/CH/Systemsanierung,Systemsanierung
-2020,CH,1113.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2020/CH/Haustechnik,Haustechnik
-2020,CH,45.39,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2020/CH/Neubau,Neubau
-2020,CH,60.94,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2020/CH/Systemsanierung,Systemsanierung
-2021,CH,1280.29,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2021/CH/Haustechnik,Haustechnik
-2021,CH,57.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2021/CH/Neubau,Neubau
-2021,CH,81.18,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2021/CH/Systemsanierung,Systemsanierung
-2022,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2022/CH/Haustechnik,Haustechnik
-2022,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2022/CH/Neubau,Neubau
-2022,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2022/CH/Systemsanierung,Systemsanierung
-2010,CH,9.24,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2010/CH/Waermedaemmung,Waermedaemmung
-2010,CH,47.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2010/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2011,CH,73.98,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2011/CH/Waermedaemmung,Waermedaemmung
-2011,CH,98.41,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2011/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2012,CH,169.84,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2012/CH/Waermedaemmung,Waermedaemmung
-2012,CH,147.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2012/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2013,CH,252.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2013/CH/Waermedaemmung,Waermedaemmung
-2013,CH,194.42,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2013/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2014,CH,367.63,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2014/CH/Waermedaemmung,Waermedaemmung
-2014,CH,257.57,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2014/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2015,CH,449.45,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2015/CH/Waermedaemmung,Waermedaemmung
-2015,CH,304.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2015/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2016,CH,527.23,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2016/CH/Waermedaemmung,Waermedaemmung
-2016,CH,347.69,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2016/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2017,CH,602.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2017/CH/Waermedaemmung,Waermedaemmung
-2017,CH,399.64,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2017/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2018,CH,666.06,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2018/CH/Waermedaemmung,Waermedaemmung
-2018,CH,443.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2018/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2019,CH,731.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2019/CH/Waermedaemmung,Waermedaemmung
-2019,CH,478.74,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2019/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2020,CH,785.92,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2020/CH/Waermedaemmung,Waermedaemmung
-2020,CH,522.03,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2020/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2021,CH,839.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2021/CH/Waermedaemmung,Waermedaemmung
-2021,CH,557.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2021/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2022,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2022/CH/Waermedaemmung,Waermedaemmung
-2022,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/5/observation/2022/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2010,CH,101.12,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2010/CH/Haustechnik,Haustechnik
-2016,CH,742.83,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2016/CH/Haustechnik,Haustechnik
-2015,CH,19.05,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2015/CH/Systemsanierung,Systemsanierung
-2016,CH,22.2,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2016/CH/Systemsanierung,Systemsanierung
-2016,CH,27.86,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2016/CH/Neubau,Neubau
-2015,CH,648.38,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2015/CH/Haustechnik,Haustechnik
-2014,CH,12.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2014/CH/Systemsanierung,Systemsanierung
-2015,CH,23.95,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2015/CH/Neubau,Neubau
-2018,CH,36.72,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2018/CH/Neubau,Neubau
-2018,CH,919.51,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2018/CH/Haustechnik,Haustechnik
-2019,CH,1002.59,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2019/CH/Haustechnik,Haustechnik
-2018,CH,33.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2018/CH/Systemsanierung,Systemsanierung
-2017,CH,31.46,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2017/CH/Neubau,Neubau
-2017,CH,830.55,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2017/CH/Haustechnik,Haustechnik
-2017,CH,26.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2017/CH/Systemsanierung,Systemsanierung
-2011,CH,6.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2011/CH/Neubau,Neubau
-2011,CH,218.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2011/CH/Haustechnik,Haustechnik
-2012,CH,338.96,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2012/CH/Haustechnik,Haustechnik
-2011,CH,3.31,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2011/CH/Systemsanierung,Systemsanierung
-2010,CH,3.17,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2010/CH/Neubau,Neubau
-2010,CH,1.44,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2010/CH/Systemsanierung,Systemsanierung
-2013,CH,9.33,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2013/CH/Systemsanierung,Systemsanierung
-2013,CH,14.22,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2013/CH/Neubau,Neubau
-2014,CH,19.61,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2014/CH/Neubau,Neubau
-2014,CH,552.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2014/CH/Haustechnik,Haustechnik
-2012,CH,6.19,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2012/CH/Systemsanierung,Systemsanierung
-2012,CH,10.27,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2012/CH/Neubau,Neubau
-2013,CH,453.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2013/CH/Haustechnik,Haustechnik
-2017,CH,602.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2017/CH/Waermedaemmung,Waermedaemmung
-2017,CH,399.64,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2017/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2016,CH,347.69,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2016/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2018,CH,443.32,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2018/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2018,CH,666.06,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2018/CH/Waermedaemmung,Waermedaemmung
-2014,CH,257.57,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2014/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2015,CH,449.45,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2015/CH/Waermedaemmung,Waermedaemmung
-2014,CH,367.63,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2014/CH/Waermedaemmung,Waermedaemmung
-2016,CH,527.23,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2016/CH/Waermedaemmung,Waermedaemmung
-2015,CH,304.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2015/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2021,CH,557.77,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2021/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2022,CH,894.58,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2022/CH/Waermedaemmung,Waermedaemmung
-2021,CH,839.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2021/CH/Waermedaemmung,Waermedaemmung
-2022,CH,638.25,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2022/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2019,CH,478.74,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2019/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2019,CH,731.89,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2019/CH/Waermedaemmung,Waermedaemmung
-2020,CH,522.03,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2020/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2020,CH,785.92,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2020/CH/Waermedaemmung,Waermedaemmung
-2021,CH,81.18,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2021/CH/Systemsanierung,Systemsanierung
-2022,CH,1524.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2022/CH/Haustechnik,Haustechnik
-2021,CH,57.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2021/CH/Neubau,Neubau
-2019,CH,40.14,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2019/CH/Neubau,Neubau
-2022,CH,62.3,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2022/CH/Neubau,Neubau
-2020,CH,1113.5,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2020/CH/Haustechnik,Haustechnik
-2020,CH,45.39,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2020/CH/Neubau,Neubau
-2019,CH,45.09,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2019/CH/Systemsanierung,Systemsanierung
-2021,CH,1280.29,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2021/CH/Haustechnik,Haustechnik
-2020,CH,60.94,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2020/CH/Systemsanierung,Systemsanierung
-2011,CH,98.41,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2011/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2012,CH,169.84,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2012/CH/Waermedaemmung,Waermedaemmung
-2010,CH,47.82,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2010/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2011,CH,73.98,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2011/CH/Waermedaemmung,Waermedaemmung
-2013,CH,252.79,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2013/CH/Waermedaemmung,Waermedaemmung
-2013,CH,194.42,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2013/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2012,CH,147.62,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2012/CH/Zentrale_Waermeversorgung,Zentrale_Waermeversorgung
-2010,CH,9.24,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2010/CH/Waermedaemmung,Waermedaemmung
-2022,CH,103.11,https://energy.ld.admin.ch/sfoe/bfe_ogd18_gebaeudeprogramm_energiewirkung/6/observation/2022/CH/Systemsanierung,Systemsanierung
+Date;Kanton_Kurzname;Energiewirkung_GWh_CH;Massnahmenbereich
+2010;CH;101.12;Haustechnik
+2010;CH;3.17;Neubau
+2010;CH;1.44;Systemsanierung
+2010;CH;162.8;Total Energiewirkung Gebäudeprogramm
+2010;CH;9.24;Wärmedämmung
+2010;CH;47.82;Zentrale Wärmeversorgung
+2011;CH;218.19;Haustechnik
+2011;CH;6.61;Neubau
+2011;CH;3.31;Systemsanierung
+2011;CH;400.5;Total Energiewirkung Gebäudeprogramm
+2011;CH;73.98;Wärmedämmung
+2011;CH;98.41;Zentrale Wärmeversorgung
+2012;CH;338.96;Haustechnik
+2012;CH;10.27;Neubau
+2012;CH;6.19;Systemsanierung
+2012;CH;672.89;Total Energiewirkung Gebäudeprogramm
+2012;CH;169.84;Wärmedämmung
+2012;CH;147.62;Zentrale Wärmeversorgung
+2013;CH;453.82;Haustechnik
+2013;CH;14.22;Neubau
+2013;CH;9.33;Systemsanierung
+2013;CH;924.59;Total Energiewirkung Gebäudeprogramm
+2013;CH;252.79;Wärmedämmung
+2013;CH;194.42;Zentrale Wärmeversorgung
+2014;CH;552.79;Haustechnik
+2014;CH;19.61;Neubau
+2014;CH;12.89;Systemsanierung
+2014;CH;1210.48;Total Energiewirkung Gebäudeprogramm
+2014;CH;367.63;Wärmedämmung
+2014;CH;257.57;Zentrale Wärmeversorgung
+2015;CH;648.38;Haustechnik
+2015;CH;23.95;Neubau
+2015;CH;19.05;Systemsanierung
+2015;CH;1445.6;Total Energiewirkung Gebäudeprogramm
+2015;CH;449.45;Wärmedämmung
+2015;CH;304.77;Zentrale Wärmeversorgung
+2016;CH;742.83;Haustechnik
+2016;CH;27.86;Neubau
+2016;CH;22.2;Systemsanierung
+2016;CH;1667.82;Total Energiewirkung Gebäudeprogramm
+2016;CH;527.23;Wärmedämmung
+2016;CH;347.69;Zentrale Wärmeversorgung
+2017;CH;830.55;Haustechnik
+2017;CH;31.46;Neubau
+2017;CH;26.32;Systemsanierung
+2017;CH;1890.1;Total Energiewirkung Gebäudeprogramm
+2017;CH;602.14;Wärmedämmung
+2017;CH;399.64;Zentrale Wärmeversorgung
+2018;CH;919.51;Haustechnik
+2018;CH;36.72;Neubau
+2018;CH;33.33;Systemsanierung
+2018;CH;2098.95;Total Energiewirkung Gebäudeprogramm
+2018;CH;666.06;Wärmedämmung
+2018;CH;443.32;Zentrale Wärmeversorgung
+2019;CH;1002.59;Haustechnik
+2019;CH;40.14;Neubau
+2019;CH;45.09;Systemsanierung
+2019;CH;2298.45;Total Energiewirkung Gebäudeprogramm
+2019;CH;731.89;Wärmedämmung
+2019;CH;478.74;Zentrale Wärmeversorgung
+2020;CH;1113.5;Haustechnik
+2020;CH;45.39;Neubau
+2020;CH;60.94;Systemsanierung
+2020;CH;2527.78;Total Energiewirkung Gebäudeprogramm
+2020;CH;785.92;Wärmedämmung
+2020;CH;522.03;Zentrale Wärmeversorgung
+2021;CH;1280.29;Haustechnik
+2021;CH;57.09;Neubau
+2021;CH;81.18;Systemsanierung
+2021;CH;2816.23;Total Energiewirkung Gebäudeprogramm
+2021;CH;839.89;Wärmedämmung
+2021;CH;557.77;Zentrale Wärmeversorgung
+2022;CH;1524.3;Haustechnik
+2022;CH;62.3;Neubau
+2022;CH;103.11;Systemsanierung
+2022;CH;3222.54;Total Energiewirkung Gebäudeprogramm
+2022;CH;894.58;Wärmedämmung
+2022;CH;638.25;Zentrale Wärmeversorgung
+2023;CH;1524.3;Haustechnik
+2023;CH;62.3;Neubau
+2023;CH;103.11;Systemsanierung
+2023;CH;3222.54;Total Energiewirkung Gebäudeprogramm
+2023;CH;894.58;Wärmedämmung
+2023;CH;638.25;Zentrale Wärmeversorgung
+2023;CH;0;Haustechnik
+2023;CH;0;Neubau
+2023;CH;0;Systemsanierung
+2024;CH;1524.3;Haustechnik
+2024;CH;62.3;Neubau
+2024;CH;103.11;Systemsanierung
+2024;CH;3222.54;Total Energiewirkung Gebäudeprogramm
+2024;CH;894.58;Wärmedämmung
+2024;CH;638.25;Zentrale Wärmeversorgung
+2024;CH;0;Haustechnik
+2024;CH;0;Neubau
+2024;CH;0;Systemsanierung
+2025;CH;1486.38;Haustechnik
+2025;CH;62.3;Neubau
+2025;CH;103.11;Systemsanierung
+2025;CH;3184.62;Total Energiewirkung Gebäudeprogramm
+2025;CH;894.58;Wärmedämmung
+2025;CH;638.25;Zentrale Wärmeversorgung
+2025;CH;0;Haustechnik
+2025;CH;0;Neubau
+2025;CH;0;Systemsanierung
+2026;CH;1449.8;Haustechnik
+2026;CH;62.3;Neubau
+2026;CH;103.11;Systemsanierung
+2026;CH;3148.04;Total Energiewirkung Gebäudeprogramm
+2026;CH;894.58;Wärmedämmung
+2026;CH;638.25;Zentrale Wärmeversorgung
+2026;CH;0;Haustechnik
+2026;CH;0;Neubau
+2026;CH;0;Systemsanierung
+2027;CH;1415.56;Haustechnik
+2027;CH;62.3;Neubau
+2027;CH;103.11;Systemsanierung
+2027;CH;3113.8;Total Energiewirkung Gebäudeprogramm
+2027;CH;894.58;Wärmedämmung
+2027;CH;638.25;Zentrale Wärmeversorgung
+2027;CH;0;Haustechnik
+2027;CH;0;Neubau
+2027;CH;0;Systemsanierung
+2028;CH;1381.16;Haustechnik
+2028;CH;62.3;Neubau
+2028;CH;103.11;Systemsanierung
+2028;CH;3079.4;Total Energiewirkung Gebäudeprogramm
+2028;CH;894.58;Wärmedämmung
+2028;CH;638.25;Zentrale Wärmeversorgung
+2028;CH;0;Haustechnik
+2028;CH;0;Neubau
+2028;CH;0;Systemsanierung
+2029;CH;1342.3;Haustechnik
+2029;CH;62.3;Neubau
+2029;CH;103.11;Systemsanierung
+2029;CH;3040.54;Total Energiewirkung Gebäudeprogramm
+2029;CH;894.58;Wärmedämmung
+2029;CH;638.25;Zentrale Wärmeversorgung
+2029;CH;0;Haustechnik
+2029;CH;0;Neubau
+2029;CH;0;Systemsanierung
+2030;CH;1267.07;Haustechnik
+2030;CH;62.3;Neubau
+2030;CH;101.67;Systemsanierung
+2030;CH;2916.04;Total Energiewirkung Gebäudeprogramm
+2030;CH;894.58;Wärmedämmung
+2030;CH;590.42;Zentrale Wärmeversorgung
+2030;CH;0;Haustechnik
+2030;CH;0;Neubau
+2030;CH;0;Systemsanierung
+2031;CH;1176.12;Haustechnik
+2031;CH;62.3;Neubau
+2031;CH;99.8;Systemsanierung
+2031;CH;2772.64;Total Energiewirkung Gebäudeprogramm
+2031;CH;894.58;Wärmedämmung
+2031;CH;539.83;Zentrale Wärmeversorgung
+2031;CH;0;Haustechnik
+2031;CH;0;Neubau
+2031;CH;0;Systemsanierung
+2032;CH;1073.5;Haustechnik
+2032;CH;62.3;Neubau
+2032;CH;96.92;Systemsanierung
+2032;CH;2617.93;Total Energiewirkung Gebäudeprogramm
+2032;CH;894.58;Wärmedämmung
+2032;CH;490.62;Zentrale Wärmeversorgung
+2032;CH;0;Haustechnik
+2032;CH;0;Neubau
+2032;CH;0;Systemsanierung

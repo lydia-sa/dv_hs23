@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\KnowledgeEngineering&amp;Extraction\gebaudeprogrammscraper\gebaudeprogramm.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\KnowledgeEngineering&amp;Extraction\grundlagen_gemeinde_kantone.csv">
           <value>
             <Attribute>
