@@ -61,9 +61,7 @@ def stacked_bar_chart(kanton_kurzname='CH'):
     fig.update_layout(plot_bgcolor='white',
                       paper_bgcolor='white',
                       yaxis=dict(showgrid=True, gridcolor='#d9dbda', gridwidth=0.5, griddash='dot'),
-)
-
-
+                      )
     return fig
 
 
@@ -90,7 +88,9 @@ def pie_CO2(jahr):
     fig.update_traces(textinfo='none')
 
     # Deaktiviere die Legende
-    fig.update_layout(showlegend=False)
+    fig.update_layout(showlegend=False,
+                      margin=dict(l=55, r=55, t=0, b=30),
+                      height=200,)
 
     return fig
 
@@ -117,17 +117,22 @@ def pie_Energiewirkung(jahr):
     fig.update_traces(textinfo='none')
 
     # Deaktiviere die Legende
-    fig.update_layout(showlegend=False)
+    fig.update_layout(showlegend=False,
+                      margin=dict(l=55, r=55, t=0, b=30),
+                      height=200,)
 
     return fig
+
 
 def gb_angebot_list(kanton_kurznamen):
 
     kanton_filtered_df = df_gebaudeprogramm_angebot[df_gebaudeprogramm_angebot['Kanton_Kurzname'] == kanton_kurznamen]
 
-    # Linkliste erstellen
+
     gb_angebot_list_items = [
+        # Liste erstellen - Aufzählungszeichen einfügen
         html.Li(
+            # Link unter Namen
             dcc.Link(name, href=link, target='_blank'),
             style={'margin-bottom': '10px'}
         )
@@ -137,14 +142,39 @@ def gb_angebot_list(kanton_kurznamen):
     return html.Ul(gb_angebot_list_items)
 
 
+def update_energie_list(selected_gemeinde):
+    # DataFrame filtern
+    filtered_df = df_energie[df_energie['Gemeinde'] == selected_gemeinde]
+
+    # Angebote in Kategorien zusammenfassen
+    current_category = ''
+
+    list_items = []
+    for _, row in filtered_df.iterrows():
+        # Überprüfen, ob sich die Kategorie ändert
+        if row['category'] != current_category:
+            # Kategorie als Überschrift hinzufügen
+            list_items.append(html.Strong(f"Kategorie: {row['category']}",style={'margin-left': '-20px', 'margin-top': '15px', 'display': 'block'}))
+            current_category = row['category']
+
+        # Informationen für Anbieter und Name hinzu (inkl. Weblink)
+        list_items.append(html.Li([
+            html.Span(f"{row['Anbieter']}: "),
+            dcc.Link(row['Programm_Name'], href=row['Website'], target='_blank')
+        ]))
+
+    return list_items
+
+
 # IMPORT DATA
 #-------------------------------------------------------------------
-df_grundlagen = pd.read_csv('grundlagen_gemeinde_kantone.csv')
-df_auszahlungen = pd.read_csv('gebaudeprogramm_SummeAuszahlungen.csv', sep=';')
-df_gesuche = pd.read_csv('gebaudeprogramm_AnzahlGesuche.csv')
-df_CO2 = pd.read_csv('gebaudeprogramm_CO2Wirkung.csv', sep=';')
-df_Energiewirkung = pd.read_csv('gebaudeprogramm_Energiewirkung.csv', sep=';')
-df_gebaudeprogramm_angebot = pd.read_csv('gebaudeprogramm_angebote.csv')
+df_grundlagen = pd.read_csv('data/grundlagen_gemeinde_kantone.csv')
+df_auszahlungen = pd.read_csv('data/gebaudeprogramm_SummeAuszahlungen.csv', sep=';')
+df_gesuche = pd.read_csv('data/gebaudeprogramm_AnzahlGesuche.csv')
+df_CO2 = pd.read_csv('data/gebaudeprogramm_CO2Wirkung.csv', sep=';')
+df_Energiewirkung = pd.read_csv('data/gebaudeprogramm_Energiewirkung.csv', sep=';')
+df_gebaudeprogramm_angebot = pd.read_csv('data/gebaudeprogramm_angebote.csv')
+df_energie = pd.read_csv('data/energiefranken_angebote.csv')
 
 # CLEAN DATA
 #-------------------------------------------------------------------
@@ -178,6 +208,7 @@ kanton_dict_gb_angebot = {
     'jura': 'JU'
 }
 
+# Kanton_Kurzname in die Liste der Gebeäudeprogramm-Angebote integrieren und bei allen Links auf die Gebäudeprogramm-Seite "https://www.dasgebaeudeprogramm.ch" vorne hinzufügen
 df_gebaudeprogramm_angebot['Kanton_Kurzname'] = df_gebaudeprogramm_angebot['Kanton'].replace(kanton_dict_gb_angebot.keys() , kanton_dict_gb_angebot.values() , regex=True)
 
 # Funktion zum Hinzufügen von "https://www.dasgebaeudeprogramm.ch" voran
@@ -189,7 +220,8 @@ def prepend_url(link):
 # Wende die Funktion auf die 'Link'-Spalte an
 df_gebaudeprogramm_angebot['Link'] = df_gebaudeprogramm_angebot['Link'].apply(prepend_url)
 
-
+# Energiefranken: Programme von Kantonen löschen (bereits in der Liste von Gebäudeprogramm enthalten)
+df_energie = df_energie[~df_energie['Anbieter'].str.startswith('Kanton')]
 
 # START APP
 #-------------------------------------------------------------------
@@ -202,34 +234,44 @@ server = app.server
 
 app.layout = html.Div([
     dbc.Container([
+    html.H3('Schweizer Förderprogramme', style={'font-family': 'Arial', 'font-size': '34px', 'font-weight': 'bold', 'color': '#006276'}),
+    html.H3('das Gebäudeprogramm', style={'font-family': 'Arial', 'font-size': '20px', 'font-weight': 'bold', 'color': '#006276'}),
+
     dbc.Row([
             dbc.Col([
                 dcc.Dropdown(id='dropdown_kanton',
                              options=sorted([{'label': i, 'value': i} for i in df_grundlagen['Kanton_Name'].unique()], key = lambda x: x['label']),
-                             placeholder='wähle einen Kanton',
-                             style= {'width':'40%'}
+                             #placeholder='wähle einen Kanton',
+                             value= 'Graubünden',
+                             style= {'width':'100%'}
                              ),
 
                 dcc.Graph(id='stable_diagram', figure={}),
-            ], width={'size': 5}),
+            ], width={'size': 9}),
 
             dbc.Col([
-                html.H6('Einsparungen in der ganzen Schweiz 2023',style={'text-align': 'center', 'font-size': '14px', }),
+
+                html.H6('Einsparungen in der ganzen Schweiz 2023',style={'text-align': 'center', 'font-size': '16px', }),
                 html.H6('CO2',style={'text-align': 'center', 'font-size': '14px', }),
                 dcc.Graph(id='pie_chart1', figure=pie_CO2(2023)),
                 html.H6('Energie',style={'text-align': 'center', 'font-size': '14px', }),
                 dcc.Graph(id='pie_chart2', figure=pie_Energiewirkung(2023)),
-            ], width={'size': 5},),
+            ], width={'size': 3},),
         ]),
 
     html.Div(id='gb_angebot_list'),
-
-    dcc.Dropdown(id='dropdown_gemeinde',
-                 options=sorted([{'label': i, 'value': i} for i in df_grundlagen['PLZ'].dropna().astype(int).unique()], key = lambda x: x['label']),
-                 placeholder='wähle eine PLZ',
-                 style= {'width':'40%'}
-                 ),
-    html.Div(id='output_container_gemeinde'),
+    html.H3('weitere Programme', style={'margin-top': '30px', 'font-family': 'Arial', 'font-size': '20px', 'font-weight': 'bold', 'color': '#006276'}),
+    dbc.Row([
+        dbc.Col([
+            dcc.Dropdown(id='dropdown_gemeinde',
+                         options=sorted([{'label': i, 'value': i} for i in df_grundlagen['PLZ'].dropna().astype(int).unique()], key = lambda x: x['label']),
+                         placeholder='wähle eine PLZ',
+                         style= {'width':'100%'}
+                         )], width={'size': 2}),
+        dbc.Col([
+            html.Div(id='output_container_gemeinde')], width={'size': 9}),
+        ]),
+    html.Ul(id='energie_angebot_list')
 ])
 ])
 
@@ -251,7 +293,6 @@ def update_gb_angebot_list(kanton):
     kanton_kurznamen = df_grundlagen.loc[df_grundlagen['Kanton_Name'] == kanton, 'Kanton_Kurzname'].iloc[0]
     return gb_angebot_list(kanton_kurznamen)
 
-
 @app.callback(
     Output('dropdown_gemeinde', 'options'),
     Input('dropdown_kanton', 'value')
@@ -262,7 +303,6 @@ def update_gmeinde_options(kanton):
 
     return options
 
-
 @app.callback(
     Output('output_container_gemeinde', 'children'),
     Input('dropdown_gemeinde', 'value')
@@ -271,13 +311,16 @@ def update_output_Gemeinde(plz):
     gemeinde_name = df_grundlagen.loc[df_grundlagen['PLZ'] == int(plz), 'Gemeinde_Name'].iloc[0]
     return gemeinde_name
 
-
-
-
+@app.callback(
+    Output('energie_angebot_list', 'children'),
+    Input('dropdown_gemeinde', 'value')
+)
+def update_energie_angebot_list(plz):
+    return update_energie_list(plz)
 
 
 # RUN THE APP
 #--------------------------------------------------------------------
 if __name__=='__main__':
-    app.run_server(debug=True, port=8020)
+    app.run_server(debug=False, port=8070)
 

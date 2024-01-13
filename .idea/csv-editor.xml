@@ -3,6 +3,48 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\KnowledgeEngineering&amp;Extraction\energiefranken_angebote.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\KnowledgeEngineering&amp;Extraction\gebaudeprogramm_AnzahlGesuche.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\KnowledgeEngineering&amp;Extraction\gebaudeprogramm_CO2Wirkung.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\KnowledgeEngineering&amp;Extraction\gebaudeprogramm_Energiewirkung.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\KnowledgeEngineering&amp;Extraction\gebaudeprogramm_SummeAuszahlungen.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\KnowledgeEngineering&amp;Extraction\gebaudeprogramm_angebote.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\KnowledgeEngineering&amp;Extraction\grundlagen_gemeinde_kantone.csv">
           <value>
             <Attribute>
